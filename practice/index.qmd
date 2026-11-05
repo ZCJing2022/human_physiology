@@ -1,0 +1,22 @@
+---
+title: "Practice Questions"
+---
+
+Each weekly bank uses an exact **70/30 split**: **28 MCQs + 12 short-response questions = 40 questions**. All lecture review-question themes are represented. Answers and explanations are collapsed initially.
+
+## Weekly banks
+
+- [Week 5 Practice — Sensory Physiology I–II](week05-sensory.qmd)
+- [Week 6 Practice — Vision, Neuromuscular, and Skeletal Muscle](week06-vision-muscle.qmd)
+- [Week 7 Practice — Cardiac Foundations I–III](week07-cardiac.qmd)
+- [Week 8 Practice — Vascular Foundations and Blood](week08-vascular-blood.qmd)
+
+## Midterm 2 practice exams
+
+- [Practice Midterm 2 — Form A](practice-midterm2-01.qmd)
+- [Practice Midterm 2 — Form B](practice-midterm2-02.qmd)
+- [Practice Midterm 2 — Form C](practice-midterm2-03.qmd)
+
+## Coverage
+
+- [Lecture-objective and review-theme coverage](learning-objective-coverage.qmd)

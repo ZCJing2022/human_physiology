@@ -1,0 +1,766 @@
+---
+title: "Week 5 Practice — Sensory Physiology I–II"
+toc-depth: 2
+---
+
+**40 practice questions: 28 multiple-choice (70%) + 12 short-response (30%).** Answers and explanations are collapsed initially. Every assigned lecture-review theme is represented either directly or through a closely aligned concept/application question.
+
+# Part A — Multiple Choice
+
+### Question 1 — Afferent pathways {#w05-mc01}
+
+The afferent division of the nervous system primarily carries information:
+
+- **A.** from the CNS to skeletal muscle
+- **B.** from sensory receptors toward the CNS
+- **C.** only between spinal interneurons
+- **D.** from endocrine glands to target cells
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Sensory information travels from receptors toward the CNS.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Afferent means arriving at the CNS. Motor/efferent pathways carry commands away from the CNS. This distinction is the starting point for every sensory pathway.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 2 — Proprioception {#w05-mc02}
+
+Proprioception is best defined as awareness of:
+
+- **A.** blood glucose
+- **B.** body position and movement
+- **C.** sound frequency
+- **D.** visceral pain only
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Proprioception is awareness of body position and movement.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Proprioceptors in muscles, tendons, and joints provide information about limb position and movement, often without conscious attention.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 3 — Sensory pathway {#w05-mc03}
+
+Which sequence best captures the common logic of a sensory pathway?
+
+- **A.** CNS → receptor → stimulus
+- **B.** stimulus → receptor → afferent neuron → CNS
+- **C.** efferent neuron → receptor → CNS
+- **D.** receptor → endocrine gland → CNS
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Stimulus detection and transduction precede afferent signalling to the CNS.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The receptor must first interact with the stimulus and transduce it. Afferent signals then carry the information centrally, where it is processed.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 4 — Receptor classes {#w05-mc04}
+
+A receptor specialized to detect pressure or vibration is a:
+
+- **A.** photoreceptor
+- **B.** chemoreceptor
+- **C.** mechanoreceptor
+- **D.** thermoreceptor
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: C.**
+
+Pressure and vibration are mechanical stimuli detected by mechanoreceptors.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The receptor class is named for the type of stimulus energy to which it is most sensitive.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 5 — Receptive fields {#w05-mc05}
+
+A receptive field is:
+
+- **A.** the entire sensory cortex
+- **B.** the region monitored by a particular sensory neuron
+- **C.** the minimum stimulus energy
+- **D.** a motor unit
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+It is the area from which a sensory neuron receives input.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Receptive-field size is a major determinant of spatial discrimination. Smaller fields allow location to be resolved more precisely.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 6 — Transduction {#w05-mc06}
+
+Sensory transduction refers to:
+
+- **A.** converting stimulus energy into an electrical response
+- **B.** moving neurotransmitter back into a vesicle
+- **C.** generating muscle force
+- **D.** crossing the blood-brain barrier
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Transduction converts the stimulus into a receptor potential/electrical signal.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+A sensory receptor changes physical or chemical stimulus energy into a change in membrane potential, creating the first electrical representation of the stimulus.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 7 — Adequate stimulus {#w05-mc07}
+
+The adequate stimulus of a receptor is:
+
+- **A.** the strongest possible stimulus
+- **B.** the form of energy to which it is most sensitive
+- **C.** any stimulus that causes pain
+- **D.** the stimulus that reaches cortex first
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+It is the stimulus modality that most effectively activates that receptor.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Receptors can sometimes respond to other forms of energy, but the adequate stimulus is the one for which their sensitivity is highest.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 8 — Receptor potential {#w05-mc08}
+
+A receptor potential is usually:
+
+- **A.** all-or-none and fixed amplitude
+- **B.** graded in amplitude
+- **C.** restricted to motor neurons
+- **D.** identical to an ECG
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Receptor potentials are graded.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Their magnitude can vary with stimulus strength, and they influence transmitter release or action-potential frequency.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 9 — Lateral inhibition {#w05-mc09}
+
+Lateral inhibition improves sensory localization mainly by:
+
+- **A.** increasing action-potential amplitude
+- **B.** sharpening contrast between neighboring pathways
+- **C.** enlarging receptive fields
+- **D.** blocking all weak stimuli
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+It sharpens spatial contrast.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Strongly activated pathways inhibit neighboring pathways, making the peak of activity more distinct and improving localization.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 10 — Intensity coding {#w05-mc10}
+
+A stronger stimulus is most commonly represented in a sensory axon by:
+
+- **A.** larger action potentials
+- **B.** higher action-potential frequency
+- **C.** reversal of axonal polarity
+- **D.** slower conduction velocity
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Intensity is coded largely by firing frequency and recruitment.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Action potentials are all-or-none, so their amplitude is not the normal intensity code. Stronger receptor potentials generally produce more frequent action potentials.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 11 — Adaptation {#w05-mc11}
+
+Which receptor type is best for signalling a persistent stimulus over time?
+
+- **A.** rapidly adapting phasic receptor
+- **B.** slowly adapting tonic receptor
+- **C.** photoreceptor only
+- **D.** silent receptor
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Tonic receptors adapt slowly and continue firing.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Phasic receptors emphasize change and often reduce firing during a sustained stimulus. Tonic receptors preserve information about continued presence.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 12 — Pain {#w05-mc12}
+
+Fast, sharp, well-localized pain is associated more strongly with:
+
+- **A.** small myelinated afferents
+- **B.** large motor axons
+- **C.** unmyelinated autonomic efferents only
+- **D.** retinal ganglion cells
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Fast pain is carried mainly by relatively fast small myelinated fibers.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Myelination increases conduction speed. Slow burning/dull pain is associated more with small unmyelinated fibers.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 13 — Referred pain {#w05-mc13}
+
+Referred pain is best explained by:
+
+- **A.** convergence of visceral and somatic afferents on shared CNS neurons
+- **B.** increased action-potential amplitude in nociceptors
+- **C.** retinal convergence
+- **D.** loss of lateral inhibition in the cochlea
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Convergence can cause the CNS to misattribute visceral input to a somatic region.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The brain is more accustomed to receiving activity in those central neurons from somatic sources, so visceral signals can be perceived as coming from a body-surface region.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 14 — Taste {#w05-mc14}
+
+Which set lists the five basic taste qualities?
+
+- **A.** sweet, salty, sour, bitter, umami
+- **B.** sweet, spicy, cool, bitter, fatty
+- **C.** salty, hot, cold, sweet, metallic
+- **D.** sour, aromatic, sweet, pressure, umami
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Sweet, salty, sour, bitter, and umami.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+These are the basic taste qualities emphasized in the lecture; “spicy” is largely somatosensory rather than a basic taste.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 15 — Olfactory transduction {#w05-mc15}
+
+In olfactory receptor neurons, odorant binding commonly leads to:
+
+- **A.** Golf activation and increased cAMP
+- **B.** direct opening of voltage-gated Na+ channels by odor
+- **C.** decreased cAMP through insulin receptors
+- **D.** skeletal muscle contraction
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Odorant receptor → Golf → adenylyl cyclase → cAMP → cation channels.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This GPCR cascade converts a chemical stimulus into depolarization of the olfactory receptor neuron.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 16 — Olfactory pathway {#w05-mc16}
+
+A distinctive feature of the primary olfactory pathway is that it:
+
+- **A.** must relay first in spinal cord
+- **B.** can reach olfactory cortex without an obligatory first thalamic relay
+- **C.** never enters the forebrain
+- **D.** uses the optic nerve
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Olfaction has unusual direct projections from olfactory bulb to olfactory cortical/limbic regions.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Many sensory systems relay through thalamus before primary cortex; olfaction is a classic exception to that simple rule.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 17 — Taste transduction {#w05-mc17}
+
+Sweet, bitter, and umami receptors are best characterized as:
+
+- **A.** GPCR-linked receptors
+- **B.** voltage-gated Na+ channels
+- **C.** stretch receptors
+- **D.** photopigments
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+These taste qualities use G-protein-coupled receptor pathways.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Salty and sour rely more directly on ion movement, whereas sweet, bitter, and umami use metabotropic signalling cascades.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 18 — Sound frequency {#w05-mc18}
+
+The frequency of a sound wave is measured in:
+
+- **A.** decibels
+- **B.** hertz
+- **C.** millivolts
+- **D.** liters/min
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Frequency is measured in hertz (cycles per second).
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Frequency contributes to pitch. Decibels are used for sound intensity level.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 19 — Sound intensity {#w05-mc19}
+
+Increasing the amplitude of a sound wave primarily increases perceived:
+
+- **A.** pitch
+- **B.** loudness
+- **C.** wavelength only
+- **D.** color
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Amplitude relates to sound intensity/loudness.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Pitch tracks frequency; loudness is related to sound intensity, which increases with wave amplitude.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 20 — Cochlea {#w05-mc20}
+
+The sensory receptors for hearing are located in the:
+
+- **A.** semicircular canals only
+- **B.** organ of Corti
+- **C.** tympanic membrane
+- **D.** auditory cortex
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Hair cells in the organ of Corti transduce cochlear mechanical motion.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The tympanic membrane and ossicles transmit sound mechanically, but the receptor hair cells that initiate neural signalling are in the cochlea.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 21 — Hair cells {#w05-mc21}
+
+Bending auditory hair-cell stereocilia changes hearing signals primarily by:
+
+- **A.** changing mechanically gated ion-channel opening
+- **B.** triggering a muscle action potential
+- **C.** activating rhodopsin
+- **D.** releasing erythropoietin
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Hair-bundle deflection changes mechanically gated channel activity and receptor potential.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This converts basilar-membrane motion into a change in hair-cell membrane potential and transmitter release.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 22 — Pitch coding {#w05-mc22}
+
+High and low sound frequencies are distinguished in the cochlea mainly by:
+
+- **A.** action-potential amplitude
+- **B.** different locations of maximal basilar-membrane vibration
+- **C.** different red-blood-cell counts
+- **D.** AV nodal delay
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Pitch uses place/spatial coding along the basilar membrane.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Mechanical properties vary along the cochlea, so different frequencies peak at different locations.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 23 — Auditory coding {#w05-mc23}
+
+A louder sound typically causes auditory afferents to:
+
+- **A.** fire action potentials of larger amplitude
+- **B.** increase firing frequency and recruit more fibers
+- **C.** stop firing
+- **D.** reverse conduction direction
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Loudness is represented partly by firing rate and recruitment.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Action-potential amplitude remains essentially fixed; intensity changes the number/timing of impulses and the population activated.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 24 — Auditory pathway {#w05-mc24}
+
+After cochlear transduction, auditory information first enters the CNS through:
+
+- **A.** vestibulocochlear nerve afferents
+- **B.** optic nerve
+- **C.** vagal motor axons
+- **D.** corticospinal tract
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Auditory afferents travel in cranial nerve VIII.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The auditory nerve carries signals from cochlear hair-cell synapses into brainstem auditory nuclei.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 25 — Spatial discrimination {#w05-mc25}
+
+Two-point discrimination is best in skin regions with:
+
+- **A.** large receptive fields and high convergence
+- **B.** small receptive fields and dense innervation
+- **C.** no lateral inhibition
+- **D.** only C fibers
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Small receptive fields and high receptor density improve spatial resolution.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+More independent sensory channels represent neighboring points, making two simultaneous stimuli more likely to be resolved separately.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 26 — Labeled lines {#w05-mc26}
+
+Why can activation of different receptors produce different sensory modalities even if all neurons use action potentials?
+
+- **A.** action potentials have different chemical compositions
+- **B.** the CNS interprets activity according to the pathway carrying it
+- **C.** only photoreceptors make action potentials
+- **D.** each modality uses a different resting membrane voltage only
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Modality depends strongly on the identity of the activated receptor/pathway.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Action potentials are similar electrical events; the brain uses the origin and destination of the active labeled line to infer modality.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 27 — Adaptation {#w05-mc27}
+
+A rapidly adapting receptor is especially useful for detecting:
+
+- **A.** unchanging posture over hours
+- **B.** onset, offset, or change in a stimulus
+- **C.** blood type
+- **D.** cardiac output
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Phasic receptors emphasize changes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Their firing is strongest when the stimulus changes, so they are good detectors of movement, vibration, or transitions rather than sustained level.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 28 — Integration {#w05-mc28}
+
+Which statement best distinguishes sensation from perception?
+
+- **A.** They are identical terms
+- **B.** Sensation begins with receptor detection; perception is the conscious interpretation produced by CNS processing
+- **C.** Perception occurs only in receptors
+- **D.** Sensation requires language
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Sensation begins with sensory detection; perception is the brain’s interpretation.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+A signal may be processed without conscious perception, while cortical processing can transform afferent activity into a conscious sensory experience.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+# Part B — Short Response
+
+### Question 29 — General sensory pathway {#w05-sr01}
+
+Explain the common elements of a sensory pathway from stimulus to CNS processing.
+
+::: {.callout-tip collapse="true" title="Answer"}
+A strong answer should identify stimulus, receptor, transduction/receptor potential, primary afferent signalling, synaptic processing, and CNS interpretation/reflex output.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The key is sequence and function. The receptor is not merely a wire: it converts stimulus energy into an electrical signal. That graded signal controls transmitter release or spike frequency, after which CNS circuits filter and interpret the information.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 30 — Receptive fields {#w05-sr02}
+
+Explain how receptive-field size and lateral inhibition influence two-point discrimination.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Smaller receptive fields and stronger contrast enhancement improve spatial discrimination.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+If two points activate distinct small receptive fields, separate pathways can remain distinguishable. With large overlapping fields, signals converge and are harder to separate. Lateral inhibition suppresses neighboring activity, sharpening the boundary between the two peaks.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 31 — Stimulus coding {#w05-sr03}
+
+How can sensory neurons code stimulus intensity and duration if action potentials are all-or-none?
+
+::: {.callout-tip collapse="true" title="Answer"}
+Intensity is encoded by firing frequency and recruitment; duration by persistence/pattern of firing and adaptation.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The nervous system changes the timing and number of action potentials rather than their amplitude. Strong stimuli produce larger receptor potentials, higher spike rates, and often recruit additional receptors. Tonic versus phasic adaptation shapes how long firing persists.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 32 — Pain {#w05-sr04}
+
+Compare fast sharp pain with slow dull pain, including fiber properties and perception.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Fast pain uses relatively faster small myelinated afferents and is better localized; slow pain uses small unmyelinated afferents and is diffuse/burning.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The conduction differences arise largely from myelination and axon diameter. The two streams also engage different central processing, helping explain different localization and emotional quality.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 33 — Referred pain {#w05-sr05}
+
+Explain why cardiac ischemic pain may be perceived in the chest, arm, neck, or jaw.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Visceral cardiac afferents converge centrally with somatic afferents from body regions; the CNS mislocalizes the source.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Convergence means the same second-order neurons can be activated by visceral and somatic inputs. Because somatic input is more common and spatially familiar, the brain can attribute the visceral activity to the corresponding somatic territory.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 34 — Olfaction {#w05-sr06}
+
+Trace olfactory transduction and the main afferent pathway from odorant to forebrain.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Odorant → GPCR → Golf → adenylyl cyclase → cAMP → cation channels → depolarization/APs → olfactory bulb → olfactory cortical/limbic regions.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+A complete answer separates transduction within receptor cilia from central transmission. It should also recognize the unusual olfactory route that does not require an obligatory first thalamic relay before primary olfactory cortex.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 35 — Taste {#w05-sr07}
+
+Compare salty/sour transduction with sweet/bitter/umami transduction.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Salty/sour depend largely on ion-mediated mechanisms; sweet/bitter/umami use GPCR cascades. Both ultimately depolarize taste cells and promote transmitter release.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The important comparison is not memorizing every channel but recognizing two transduction strategies that converge on the same functional outcome: changing taste-cell membrane potential and signalling gustatory afferents.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 36 — Hearing {#w05-sr08}
+
+Trace sound transmission from the external ear to depolarization of a cochlear hair cell.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Sound → tympanic membrane → ossicles → oval window → cochlear fluid/basilar membrane motion → stereocilia deflection → mechanically gated channels → receptor potential/transmitter release.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The middle ear transmits and amplifies mechanical energy; the cochlea separates frequencies and performs mechanotransduction. The receptor step occurs when hair-bundle displacement changes ion-channel opening.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 37 — Pitch and loudness {#w05-sr09}
+
+Explain how the auditory system codes pitch and loudness.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Pitch is coded mainly by place of maximal basilar-membrane vibration; loudness by firing rate and recruitment.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Frequency and amplitude are different physical properties and therefore require different neural codes. Do not say louder sounds create larger action potentials; spike amplitude is essentially all-or-none.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 38 — Auditory pathway {#w05-sr10}
+
+Outline the main auditory pathway and explain why bilateral central processing is useful.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Cochlear afferents enter brainstem auditory nuclei, project bilaterally through ascending relays including midbrain and thalamus, and reach auditory cortex.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Bilateral projections support comparison of timing and intensity between ears and make central hearing less dependent on a single unilateral pathway.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 39 — Review synthesis {#w05-sr11}
+
+Compare special senses with somatic senses using receptor location, organ specialization, and pathway organization.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Special senses use specialized sensory organs and cranial pathways; somatic senses use receptors distributed through skin, muscles, and joints. Both rely on transduction, afferent coding, and CNS processing.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The most important answer is comparative: both obey common sensory principles, but the special senses concentrate receptors in specialized organs while somatic receptors are widely distributed.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::
+
+### Question 40 — Drawing {#w05-sr12}
+
+Draw three overlapping cutaneous receptive fields with separate afferent pathways. Use the drawing to explain how the CNS can distinguish spatial patterns.
+
+::: {.callout-tip collapse="true" title="Answer"}
+The drawing should show partially overlapping fields, separate primary afferents, and central pathways; explain pattern-of-activity coding and lateral inhibition.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The CNS does not need a one-to-one “pixel” for every skin point. Position is inferred from the combination of active pathways and their relative firing. Overlap can increase coding possibilities, while inhibition sharpens the pattern.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
+:::

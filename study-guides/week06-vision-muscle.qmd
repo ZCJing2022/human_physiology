@@ -1,0 +1,50 @@
+---
+title: "Week 6 — Sensory Physiology III and Skeletal Muscle"
+subtitle: "Vision, neuromuscular transmission, excitation–contraction coupling, and force"
+---
+
+## How to use this guide
+
+Lectures 15–17 connect sensory transduction to motor output. The conceptual chain is:
+
+<div class="key-chain">**light → retina → visual pathway** and **motor-neuron AP → NMJ → muscle AP → SR Ca²⁺ release → cross-bridge cycling → force → relaxation**</div>
+
+## 1. Optics and the anatomy of the eye
+
+Light enters through the cornea, passes through aqueous humor and the pupil, then through the lens and vitreous humor before reaching the retina. **Refraction** occurs when light changes speed as it passes between media. The cornea provides much of the eye's fixed refractive power; the lens provides adjustable focusing.
+
+For near vision, parasympathetic activation contracts the **ciliary muscle**, reducing tension on zonular fibers so the lens becomes rounder and more powerful. This is **accommodation**. With age, lens elasticity decreases, producing **presbyopia**, a reduced ability to accommodate for near objects. Myopia and hyperopia result when the optical system focuses images in front of or behind the retina.
+
+## 2. Retina and photoreceptors
+
+Retinal organization includes photoreceptors, bipolar cells, ganglion cells, horizontal cells, amacrine cells, and supporting cells. Ganglion-cell axons form the optic nerve. **Rods** are highly sensitive and important in dim light but provide lower acuity and no color vision. **Cones** are less sensitive, concentrated in the fovea, support high acuity, and mediate color vision.
+
+In darkness, rod cGMP levels are relatively high, cyclic-nucleotide-gated channels are open, and the photoreceptor is relatively depolarized. Light activates rhodopsin (opsin + retinal), which activates transducin and phosphodiesterase, lowers cGMP, closes cation channels, and **hyperpolarizes** the photoreceptor. Thus light reduces glutamate release. This inversion is a core exam concept.
+
+## 3. Visual pathways
+
+Ganglion-cell axons form the optic nerves. At the optic chiasm, fibers from the nasal retina cross, allowing each cerebral hemisphere to receive information from the opposite visual field. Major relay occurs in the lateral geniculate nucleus of the thalamus before projection to visual cortex.
+
+## 4. Somatic motor system and the neuromuscular junction
+
+Somatic motor neurons directly innervate skeletal muscle. At the **neuromuscular junction (NMJ)**, a motor-neuron action potential opens voltage-gated Ca²⁺ channels in the terminal, Ca²⁺ triggers acetylcholine (ACh) release, and ACh binds **nicotinic ACh receptors** on the motor end plate. These ligand-gated nonselective cation channels produce an end-plate potential that triggers a muscle action potential. Acetylcholinesterase terminates the signal.
+
+## 5. Skeletal muscle organization
+
+Organization runs from whole muscle → fascicle → muscle fiber → myofibril → sarcomere → thick and thin filaments. The **sarcomere** is the repeating contractile unit between Z discs. Thick filaments contain myosin; thin filaments contain actin plus tropomyosin and troponin. Titin contributes elasticity and helps center thick filaments; nebulin helps organize thin filaments. T-tubules carry depolarization into the fiber; the sarcoplasmic reticulum (SR) stores Ca²⁺.
+
+## 6. Ca²⁺ regulation and the cross-bridge cycle
+
+At rest, tropomyosin blocks myosin-binding sites on actin. Ca²⁺ binds troponin C, shifting tropomyosin and permitting cross-bridge formation. ATP is required for myosin to detach from actin and to re-cock the myosin head after hydrolysis. Without ATP, cross-bridges cannot detach normally.
+
+In **excitation–contraction coupling**, the muscle action potential travels down T-tubules. Voltage-sensitive dihydropyridine receptors mechanically activate ryanodine receptors in the SR, releasing Ca²⁺. Cytosolic Ca²⁺ permits cross-bridge cycling. Relaxation requires Ca²⁺ reuptake into the SR by SERCA pumps.
+
+## 7. Force, summation, recruitment, and length–tension
+
+A single action potential produces a **twitch**. If another action potential arrives before Ca²⁺ and force return fully to baseline, force can summate. High-frequency stimulation can produce tetanus. Whole-muscle force also increases through **motor-unit recruitment**. According to the size principle, smaller motor units are generally recruited before larger ones.
+
+The **length–tension relationship** reflects filament overlap. Maximal active force occurs near an optimal sarcomere length where enough actin–myosin overlap exists for many cross-bridges without excessive interference. Too-short or too-long sarcomeres produce less active force.
+
+## 8. Review priorities
+
+Be able to explain accommodation, retinal cell organization, rod/cone differences, rod phototransduction, visual pathways, NMJ transmission, nicotinic receptor function, skeletal-muscle hierarchy, sarcomere proteins, Ca²⁺ control, the cross-bridge cycle, excitation–contraction coupling, relaxation, twitch summation, recruitment, and length–tension. This covers Chapter 10 review themes 20–22, 30–31 and Chapter 12 review themes 1–10, 17–19, 22–25, 32.

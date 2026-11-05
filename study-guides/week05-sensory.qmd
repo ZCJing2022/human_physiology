@@ -1,0 +1,46 @@
+---
+title: "Week 5 — Sensory Physiology I–II"
+subtitle: "General sensory principles, somatic senses, olfaction, taste, and hearing"
+---
+
+## How to use this guide
+
+Lectures 13 and 14 define the scope. Chapter 10 supplies the detailed physiology. The most useful organizing chain is:
+
+<div class="key-chain">**stimulus → receptor/transduction → receptor potential → action-potential code → afferent pathway → CNS processing → perception or reflex response**</div>
+
+## 1. General organization of sensory physiology
+
+The afferent division carries information **toward the central nervous system**. Sensory receptors detect a particular form of energy and convert it into an electrical signal. That conversion is **sensory transduction**. The immediate membrane response is a **receptor potential**, which is graded: its size changes with stimulus strength. If the receptor is itself a sensory neuron, the receptor potential changes action-potential firing at the trigger zone. If the receptor is a separate receptor cell, it changes neurotransmitter release onto a primary sensory neuron.
+
+A receptor's **adequate stimulus** is the form of energy to which it is most sensitive. Major receptor classes include mechanoreceptors, chemoreceptors, thermoreceptors, and photoreceptors. Modality is preserved because each receptor type connects to a characteristic neural pathway—the idea often summarized as a **labeled line**.
+
+## 2. Coding modality, location, intensity, and duration
+
+The nervous system must answer four questions: **what happened, where, how strong, and how long?** Modality depends on receptor/pathway identity. Location depends on the receptor's **receptive field** and on topographic maps in the CNS. Smaller receptive fields generally permit finer spatial discrimination. **Lateral inhibition** sharpens the contrast between neighboring active pathways, improving localization.
+
+Stimulus intensity is primarily coded by **action-potential frequency** and by recruitment of additional sensory units. Action-potential amplitude does not increase with stimulus strength because action potentials are all-or-none. Duration is represented by the time course of firing and by receptor adaptation. **Tonic receptors** adapt slowly and continue signalling; **phasic receptors** adapt rapidly and emphasize changes.
+
+## 3. Somatic sensation
+
+Somatic senses include touch/pressure/vibration, temperature, proprioception, and pain. **Proprioception** is awareness of body position and movement. Mechanoreceptors differ in structure, depth, receptive-field size, and adaptation rate; these differences make some receptors better for fine spatial discrimination and others better for vibration or sustained pressure.
+
+Pain pathways illustrate why sensation is not merely a direct readout of tissue damage. Fast, sharp pain is carried mainly by relatively fast myelinated fibers, whereas slow, dull or burning pain is carried mainly by small unmyelinated fibers. **Referred pain** occurs when visceral and somatic afferents converge on shared spinal pathways, leading the brain to mislocalize the visceral source.
+
+## 4. Olfaction
+
+Olfactory receptor neurons are chemoreceptors whose cilia contain odorant receptors. Odorant binding activates a G protein commonly called **Golf**, which activates adenylyl cyclase, increases cAMP, opens cyclic-nucleotide-gated cation channels, and depolarizes the receptor neuron. Olfactory axons project through the cribriform plate to the olfactory bulb, then onward to olfactory cortical and limbic regions. Olfaction is unusual because its primary pathway reaches cortex without the obligatory first thalamic relay typical of many other senses.
+
+## 5. Taste
+
+Five basic taste qualities are **salty, sour, sweet, bitter, and umami**. Salty and sour depend strongly on ion movements, whereas sweet, bitter, and umami use G-protein-coupled receptor pathways. In each case, the goal is receptor-cell depolarization followed by transmitter release onto gustatory afferents. Taste qualities have adaptive significance: for example, sweet can signal energy-rich carbohydrate, umami amino acids/protein, salty important ions, sour acidity, and bitter potentially harmful compounds.
+
+## 6. Hearing: from pressure wave to neural code
+
+Sound frequency is measured in **hertz (Hz)** and is perceived mainly as pitch. Sound intensity relates to wave amplitude and is commonly expressed in **decibels (dB)**. The outer and middle ear collect and transmit sound to the inner ear. Stapes movement at the oval window creates fluid movement in the cochlea, which moves the basilar membrane and bends stereocilia of hair cells in the organ of Corti. Mechanically gated channels change hair-cell membrane potential and transmitter release onto auditory afferents.
+
+Pitch is coded mainly by **place (spatial) coding** along the basilar membrane: different frequencies produce maximal displacement at different locations. Loudness is coded in part by firing rate and recruitment. Auditory information travels through brainstem nuclei, with collaterals involved in reflexes, then through midbrain and thalamic relays to auditory cortex.
+
+## 7. Review priorities
+
+Be able to explain—not merely define—sensory transduction, adequate stimulus, receptor potential, receptive fields, lateral inhibition, frequency coding, adaptation, proprioception, referred pain, olfactory transduction and pathway, the five tastes and their transduction logic, cochlear transduction, pitch coding, and the auditory pathway. These topics cover the lecture review assignments from Chapter 10 (Level 1: 1–9, 11, 14–18; Level 2: 26–27; Level 3: 23–24).

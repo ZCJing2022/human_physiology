@@ -1,0 +1,66 @@
+---
+title: "Week 8 — Vascular Foundations and Blood"
+subtitle: "Flow, capillary exchange, MAP regulation, baroreflex, hematology, and hemostasis"
+---
+
+## How to use this guide
+
+Lectures 21–23 connect the cardiovascular pump to the vessels and blood:
+
+<div class="key-chain">**pressure gradient + resistance → organ flow → capillary exchange → venous return → MAP = CO × resistance → baroreflex → blood composition/hemostasis**</div>
+
+## 1. Organization of the circulation
+
+The pulmonary and systemic circuits are arranged in series, so over time the same flow passes through both. Arteries act as pressure reservoirs; arterioles are major resistance vessels; capillaries are optimized for exchange; veins are high-capacitance volume reservoirs. Blood flow can be redistributed among organs according to tissue needs.
+
+## 2. Flow, pressure, resistance, and velocity
+
+Flow follows a pressure gradient and is opposed by resistance:
+
+$$Q = rac{\Delta P}{R}$$
+
+For a vessel, resistance is extremely sensitive to radius (Poiseuille logic): a small change in radius can cause a large change in resistance and flow. This is why arteriolar smooth muscle is such a powerful regulator. Flow velocity depends on total cross-sectional area and is slowest across the capillary beds, allowing time for exchange.
+
+## 3. Capillary exchange and lymphatics
+
+Small solutes move mainly by diffusion. Bulk flow depends on hydrostatic and colloid osmotic forces. Filtration moves fluid out; absorption moves fluid in. Not all filtered fluid returns directly to capillaries, so lymphatic vessels return excess interstitial fluid and proteins to the circulation. Disruption of these balances can cause edema.
+
+## 4. Arteries as pressure reservoirs and mean arterial pressure
+
+Elastic arteries stretch during ventricular ejection and recoil during diastole, helping maintain pressure and flow between heartbeats. Mean arterial pressure is the effective driving pressure for systemic flow. At normal resting heart rates, an approximation is:
+
+$$MAP pprox P_{diastolic} + rac{1}{3}(P_{systolic}-P_{diastolic})$$
+
+A key relationship is:
+
+$$MAP \propto CO 	imes TPR$$
+
+where total peripheral resistance is dominated by arteriolar resistance. Because $CO=HR	imes SV$, MAP can change through heart rate, stroke volume, arteriolar diameter, and blood volume.
+
+## 5. Local and sympathetic control of arterioles
+
+**Myogenic autoregulation** is the tendency of vascular smooth muscle to constrict when stretched and relax when stretch falls, helping stabilize local flow. Metabolically active tissues also release local paracrine signals that promote vasodilation.
+
+Most systemic arterioles receive tonic sympathetic input. Norepinephrine acting on **α1-adrenergic receptors** usually causes vasoconstriction. Circulating epinephrine can have tissue-specific effects depending on receptor distribution; β2 effects are especially important in some vascular beds.
+
+## 6. The baroreceptor reflex
+
+Baroreceptors in the **carotid sinus and aortic arch** detect arterial stretch. A fall in MAP reduces baroreceptor firing to cardiovascular centers in the medulla. The response is increased sympathetic and reduced parasympathetic output: heart rate rises, contractility rises, arterioles constrict, and veins constrict. Together these responses raise CO, venous return, and TPR, helping restore MAP.
+
+The supplied mock-midterm dehydration scenario is a classic application: vomiting and diarrhea reduce body fluid and plasma volume, reducing venous return, EDV, SV, CO, and therefore MAP. The baroreflex compensates rapidly, but severe volume loss can still reduce cerebral perfusion enough to cause fainting.
+
+## 7. Blood composition and hematopoiesis
+
+Blood consists of plasma plus formed elements. Plasma is mostly water plus proteins and dissolved solutes. Major plasma-protein categories include albumin, globulins, and fibrinogen. Formed elements are erythrocytes, leukocytes, and platelets. **Hematopoiesis** occurs primarily in red bone marrow in adults and is regulated by cytokines and growth factors. Erythropoietin, produced mainly by the kidneys in response to low oxygen availability, stimulates red-cell production.
+
+Erythrocytes are specialized for gas transport. Hemoglobin contains iron-containing heme groups. **Anemia** reduces the blood's oxygen-carrying capacity, whether because of low red-cell number, low hemoglobin, or abnormal red cells. Hematocrit is the fraction of blood volume occupied by red cells.
+
+## 8. Hemostasis and blood groups
+
+Hemostasis involves vascular responses, platelet plug formation, and coagulation. Platelets adhere to damaged vessel surfaces, become activated, and aggregate through positive-feedback mechanisms. The intrinsic and extrinsic coagulation pathways converge on a common pathway that generates thrombin; thrombin converts fibrinogen to fibrin, stabilizing the clot. Clotting is later limited and removed by anticoagulant mechanisms and fibrinolysis.
+
+ABO blood type reflects red-cell surface antigens and corresponding plasma antibodies. Rh status is clinically important in transfusion and pregnancy. Maternal sensitization to Rh antigen can endanger a later Rh-positive fetus; prophylactic anti-D immunoglobulin prevents maternal sensitization.
+
+## 9. Review priorities
+
+Be able to relate vessel structure to function, calculate/interpret flow and MAP, explain why capillary velocity is low, explain bulk flow and lymphatic return, trace MAP determinants, compare local and sympathetic arteriolar control, draw the baroreceptor reflex, and explain blood composition, hematopoiesis, erythropoietin, anemia, hemostasis, coagulation, and ABO/Rh compatibility. These priorities cover the assigned Chapter 15 and 16 review-question themes.

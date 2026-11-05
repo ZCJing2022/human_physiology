@@ -1,0 +1,766 @@
+---
+title: "Week 6 Practice — Vision, Neuromuscular, and Skeletal Muscle"
+toc-depth: 2
+---
+
+**40 practice questions: 28 multiple-choice (70%) + 12 short-response (30%).** Answers and explanations are collapsed initially. Every assigned lecture-review theme is represented either directly or through a closely aligned concept/application question.
+
+# Part A — Multiple Choice
+
+### Question 1 — Eye anatomy {#w06-mc01}
+
+Which sequence correctly orders structures encountered by light entering the eye?
+
+- **A.** retina → lens → cornea → pupil
+- **B.** cornea → aqueous humor → pupil → lens → retina
+- **C.** lens → cornea → retina → pupil
+- **D.** pupil → optic nerve → lens → cornea
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Cornea → aqueous humor → pupil → lens → vitreous → retina.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The cornea is the first major refracting surface. The pupil is an opening, the lens fine-tunes focus, and the retina contains the photoreceptors.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 2 — Refraction {#w06-mc02}
+
+Refraction occurs when light:
+
+- **A.** changes speed and direction at a boundary between media
+- **B.** generates an action potential in the optic nerve
+- **C.** activates a motor unit
+- **D.** is converted to sound
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Refraction is bending associated with a change in propagation speed between media.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The cornea and lens use refraction to focus light. It is an optical event before phototransduction.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 3 — Accommodation {#w06-mc03}
+
+During accommodation for near vision, the lens becomes:
+
+- **A.** flatter
+- **B.** rounder/more convex
+- **C.** opaque
+- **D.** displaced into the retina
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Ciliary-muscle contraction allows the lens to become rounder.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+A rounder lens has greater refractive power, helping focus diverging rays from a nearby object on the retina.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 4 — Presbyopia {#w06-mc04}
+
+Presbyopia is primarily a loss of:
+
+- **A.** retinal rods
+- **B.** accommodation with age
+- **C.** auditory hair cells
+- **D.** skeletal muscle Ca2+ stores
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Presbyopia is age-related loss of near focusing/accommodation.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The lens becomes less elastic, so even appropriate ciliary-muscle action cannot round it as effectively.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 5 — Photoreceptors {#w06-mc05}
+
+Which photoreceptor is best suited for dim-light vision?
+
+- **A.** cone
+- **B.** rod
+- **C.** ganglion cell
+- **D.** bipolar cell
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Rods are highly sensitive and support dim-light vision.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Cones provide higher acuity and color but require more light.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 6 — Fovea {#w06-mc06}
+
+High visual acuity in the fovea is associated with:
+
+- **A.** dense cones and low convergence
+- **B.** only rods and high convergence
+- **C.** no ganglion cells
+- **D.** absence of photoreceptors
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+The fovea has dense cones and relatively little convergence.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Low convergence preserves spatial information, so fine detail can be resolved.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 7 — Phototransduction {#w06-mc07}
+
+In a rod exposed to light, cGMP concentration falls and cation channels:
+
+- **A.** open, depolarizing the cell
+- **B.** close, hyperpolarizing the cell
+- **C.** become nicotinic receptors
+- **D.** release Ca2+ from skeletal SR
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Light closes cyclic-nucleotide-gated channels and hyperpolarizes rods.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Rhodopsin activates transducin and phosphodiesterase, lowering cGMP. This is the crucial “light causes hyperpolarization” concept.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 8 — Dark current {#w06-mc08}
+
+In darkness, rods are relatively depolarized because:
+
+- **A.** cGMP-gated cation channels are open
+- **B.** all K+ channels are closed forever
+- **C.** rhodopsin is maximally active
+- **D.** ACh opens nicotinic receptors
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+High cGMP keeps cation channels open in darkness.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The continuing inward current keeps the photoreceptor relatively depolarized and maintains glutamate release.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 9 — Visual pathway {#w06-mc09}
+
+Fibers from the nasal half of each retina:
+
+- **A.** never leave the eye
+- **B.** cross at the optic chiasm
+- **C.** project directly to spinal cord
+- **D.** become motor neurons
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Nasal retinal fibers cross at the optic chiasm.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This arrangement sends information from each visual hemifield to the opposite cerebral hemisphere.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 10 — NMJ {#w06-mc10}
+
+At the neuromuscular junction, ACh binds primarily to:
+
+- **A.** muscarinic M2 receptors
+- **B.** nicotinic ligand-gated cation channels
+- **C.** alpha1 adrenergic receptors
+- **D.** rhodopsin
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Skeletal muscle motor end plates use nicotinic ACh receptors.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+These channels allow net cation influx and produce the end-plate potential that triggers a muscle action potential.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 11 — NMJ release {#w06-mc11}
+
+A motor-neuron action potential triggers ACh release by opening terminal:
+
+- **A.** voltage-gated Ca2+ channels
+- **B.** ligand-gated Cl− channels
+- **C.** funny channels
+- **D.** gap junctions
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Presynaptic Ca²⁺ entry triggers vesicle fusion.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This is the standard chemical-synapse mechanism linking an arriving action potential to neurotransmitter release.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 12 — Sarcomere {#w06-mc12}
+
+A sarcomere extends from:
+
+- **A.** one Z disc to the next Z disc
+- **B.** one motor neuron to another
+- **C.** the SR to the sarcolemma
+- **D.** one tendon to another
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+The sarcomere is the repeating unit between Z discs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Thick and thin filament overlap within this unit changes during contraction.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 13 — SR {#w06-mc13}
+
+The sarcoplasmic reticulum is specialized primarily for:
+
+- **A.** storing and releasing Ca2+
+- **B.** synthesizing ACh
+- **C.** carrying oxygen
+- **D.** detecting sound
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+The SR is the major intracellular Ca²⁺ store in skeletal muscle.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Excitation–contraction coupling rapidly releases Ca²⁺ from the SR and relaxation requires its reuptake.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 14 — T-tubules {#w06-mc14}
+
+T-tubules are important because they:
+
+- **A.** bring the muscle action potential deep into the fiber
+- **B.** store hemoglobin
+- **C.** synthesize ATP only
+- **D.** form the myelin sheath
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+T-tubules conduct depolarization into the muscle cell interior.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This allows the electrical signal to reach triads throughout the large fiber and synchronously trigger SR Ca²⁺ release.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 15 — Regulation {#w06-mc15}
+
+Ca2+ initiates skeletal muscle contraction by binding to:
+
+- **A.** myosin ATPase directly
+- **B.** troponin
+- **C.** titin
+- **D.** nebulin
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Ca²⁺ binds troponin, moving tropomyosin away from actin binding sites.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The regulatory switch is troponin–tropomyosin; this permits myosin to interact with actin.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 16 — Cross-bridge cycle {#w06-mc16}
+
+ATP binding to myosin is required primarily for:
+
+- **A.** detachment of myosin from actin
+- **B.** exposing the actin site by binding troponin
+- **C.** opening nicotinic receptors
+- **D.** producing the motor-neuron AP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+ATP binding causes cross-bridge detachment.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+ATP hydrolysis then re-cocks/energizes the myosin head. Lack of ATP is why rigor develops after death.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 17 — Sliding filament {#w06-mc17}
+
+During skeletal muscle shortening:
+
+- **A.** actin and myosin filaments themselves shorten substantially
+- **B.** thin filaments slide past thick filaments, increasing overlap
+- **C.** Z discs move farther apart
+- **D.** sarcomeres disappear
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Filaments slide; sarcomeres shorten.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The filament lengths remain essentially constant while their overlap changes.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 18 — E-C coupling {#w06-mc18}
+
+In skeletal muscle, the voltage sensor that responds to T-tubule depolarization is functionally linked to:
+
+- **A.** ryanodine receptors in the SR
+- **B.** baroreceptors
+- **C.** olfactory GPCRs
+- **D.** erythropoietin receptors
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+T-tubule voltage sensors activate SR ryanodine receptors.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This coupling rapidly releases stored Ca²⁺ into the cytosol.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 19 — Relaxation {#w06-mc19}
+
+Skeletal muscle relaxation requires:
+
+- **A.** persistent high cytosolic Ca2+
+- **B.** SERCA-mediated Ca2+ uptake into SR
+- **C.** continuous ACh release
+- **D.** irreversible actin breakdown
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+SERCA lowers cytosolic Ca²⁺ by pumping it back into SR.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+As Ca²⁺ dissociates from troponin, tropomyosin again blocks cross-bridge binding sites.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 20 — Twitch {#w06-mc20}
+
+A single skeletal muscle action potential normally produces:
+
+- **A.** a twitch
+- **B.** a cardiac cycle
+- **C.** tetanus immediately
+- **D.** an ECG P wave
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+A single excitation produces a brief twitch response.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Mechanical force lasts longer than the action potential because Ca²⁺ release and cross-bridge cycling take time.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 21 — Summation {#w06-mc21}
+
+Temporal summation occurs when:
+
+- **A.** a second stimulus arrives before the muscle has fully relaxed
+- **B.** all motor units are silent
+- **C.** the sarcomere is infinitely long
+- **D.** the optic nerve is cut
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Residual Ca²⁺/force allows the next twitch to add to the previous one.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Higher stimulation frequency can progress from summation toward unfused and fused tetanus.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 22 — Motor unit {#w06-mc22}
+
+A motor unit consists of:
+
+- **A.** one motor neuron and all skeletal muscle fibers it innervates
+- **B.** one sarcomere and one tendon
+- **C.** one sensory neuron and one receptor
+- **D.** one atrium and ventricle
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+One alpha motor neuron plus its muscle fibers forms a motor unit.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Motor-unit recruitment changes whole-muscle force by changing how many fibers are active.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 23 — Recruitment {#w06-mc23}
+
+According to the size principle, increasing force generally recruits:
+
+- **A.** large motor units before small ones
+- **B.** small motor units before larger ones
+- **C.** all units simultaneously
+- **D.** only sensory neurons
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Small, fatigue-resistant motor units are generally recruited first.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+As force demand rises, progressively larger motor neurons and units are added.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 24 — Length-tension {#w06-mc24}
+
+Active force is reduced when a sarcomere is stretched far beyond optimal length because:
+
+- **A.** actin–myosin overlap becomes too small
+- **B.** ATP cannot bind myosin
+- **C.** motor neurons stop releasing ACh permanently
+- **D.** the SR becomes the nucleus
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Too little filament overlap limits cross-bridge formation.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+At very short lengths, excessive overlap/interference also reduces force. Maximum force occurs near optimal overlap.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 25 — Muscle hierarchy {#w06-mc25}
+
+Which order is correct from largest to smallest?
+
+- **A.** muscle → fascicle → fiber → myofibril → sarcomere
+- **B.** sarcomere → muscle → fiber → fascicle
+- **C.** myofibril → muscle → sarcomere → fiber
+- **D.** fiber → muscle → fascicle → sarcomere
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Whole muscle contains fascicles, fibers, myofibrils, and sarcomeres.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Understanding the hierarchy helps relate connective tissue, membrane systems, and contractile proteins.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 26 — Protein function {#w06-mc26}
+
+Which protein is the motor protein that forms cross-bridges and performs the power stroke?
+
+- **A.** actin
+- **B.** myosin
+- **C.** tropomyosin
+- **D.** titin
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Myosin is the ATPase motor protein.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Myosin heads bind actin and change conformation during the power stroke.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 27 — Visual coding {#w06-mc27}
+
+Convergence of many photoreceptors onto fewer retinal neurons generally:
+
+- **A.** increases sensitivity but reduces spatial acuity
+- **B.** reduces sensitivity and increases color vision always
+- **C.** has no effect
+- **D.** creates muscle tetanus
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Convergence trades spatial detail for sensitivity.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Pooling signals helps detect weak light but makes it harder to identify precisely which receptor was stimulated.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 28 — Integration {#w06-mc28}
+
+A drug that competitively blocks nicotinic ACh receptors at the NMJ would most directly cause:
+
+- **A.** failure of end-plate depolarization and weakness
+- **B.** increased rod sensitivity
+- **C.** hypertension by alpha1 activation
+- **D.** increased erythropoiesis
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Blocking nicotinic receptors prevents normal end-plate potentials.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The motor neuron may fire normally, but the muscle membrane fails to receive sufficient excitatory signal to trigger action potentials and contraction.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+# Part B — Short Response
+
+### Question 29 — Optics {#w06-sr01}
+
+Explain accommodation for near vision and why presbyopia develops.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Near focus: ciliary muscle contracts, zonular tension falls, lens rounds and refractive power increases; presbyopia reflects reduced lens elasticity with age.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The ciliary muscle does not directly squeeze the lens. It changes tension on the suspensory apparatus, allowing the elastic lens to change shape. Aging reduces that shape-changing ability.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 30 — Retina {#w06-sr02}
+
+Compare rods and cones in sensitivity, acuity, color, and retinal distribution.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Rods: high sensitivity, dim light, no color, lower acuity, more peripheral; cones: lower sensitivity, color, high acuity, dense in fovea.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+These differences follow from both photopigments and circuit organization. Rod pathways show more convergence, improving sensitivity but sacrificing spatial detail.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 31 — Phototransduction {#w06-sr03}
+
+Trace rod phototransduction from photon absorption to altered glutamate release.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Photon → rhodopsin activation → transducin → phosphodiesterase → ↓cGMP → cation channels close → hyperpolarization → ↓glutamate release.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The key conceptual reversal is that light hyperpolarizes photoreceptors. The receptor signal is graded; retinal circuits convert that graded signal into ganglion-cell spike patterns.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 32 — Visual pathway {#w06-sr04}
+
+Trace the major visual pathway and explain the significance of the optic chiasm.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Retina/ganglion cells → optic nerves → partial crossing of nasal fibers at optic chiasm → optic tracts → LGN → visual cortex.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Partial crossing combines information from the same visual hemifield in the opposite hemisphere, supporting unified visual-field processing.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 33 — NMJ {#w06-sr05}
+
+Trace neuromuscular transmission from motor-neuron action potential to muscle-fiber action potential.
+
+::: {.callout-tip collapse="true" title="Answer"}
+AP → presynaptic Ca²⁺ entry → ACh release → nicotinic receptor opening → end-plate potential → voltage-gated Na⁺ channels → muscle AP.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Differentiate the graded end-plate potential from the all-or-none muscle action potential. Acetylcholinesterase then terminates the synaptic signal.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 34 — Sarcomere {#w06-sr06}
+
+Describe sarcomere organization and the roles of actin, myosin, troponin, tropomyosin, titin, and nebulin.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Actin thin filaments anchor at Z discs; myosin forms thick filaments; troponin/tropomyosin regulate binding; titin provides elasticity/centering; nebulin supports thin-filament organization.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+A useful answer links each protein to function rather than simply listing names. The sarcomere’s architecture explains both regulation and length–tension behavior.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 35 — Cross-bridge cycle {#w06-sr07}
+
+Describe one complete cross-bridge cycle and the roles of Ca²⁺ and ATP.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Ca²⁺ exposes actin sites; energized myosin binds actin, power stroke occurs, ATP binds to detach, ATP hydrolysis re-cocks head.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Ca²⁺ regulates access to actin, whereas ATP powers cycling and is specifically required for detachment. These are distinct roles often confused on exams.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 36 — E-C coupling {#w06-sr08}
+
+Trace excitation–contraction coupling from a skeletal muscle AP to Ca²⁺ release and contraction.
+
+::: {.callout-tip collapse="true" title="Answer"}
+AP down T-tubules → voltage sensor activation → RyR opening → SR Ca²⁺ release → Ca²⁺–troponin binding → tropomyosin movement → cross-bridge cycling.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The sequence converts an electrical membrane event into a chemical Ca²⁺ signal and then into mechanical force.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 37 — Relaxation {#w06-sr09}
+
+Explain skeletal muscle relaxation after motor-neuron firing stops.
+
+::: {.callout-tip collapse="true" title="Answer"}
+ACh is removed, no new muscle APs occur, SERCA returns Ca²⁺ to SR, Ca²⁺ leaves troponin, tropomyosin blocks actin, cycling stops.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Relaxation is active in the sense that Ca²⁺ pumping uses ATP. Merely stopping stimulation is not enough unless cytosolic Ca²⁺ is lowered.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 38 — Force {#w06-sr10}
+
+Explain temporal summation, tetanus, motor-unit recruitment, and the size principle.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Summation adds twitches before full relaxation; high frequency can tetanize; recruitment adds motor units; small units are generally recruited first.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+These are two distinct ways to raise force: increase firing frequency within active fibers and increase the number/size of active motor units.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 39 — Length-tension {#w06-sr11}
+
+Explain the skeletal muscle length–tension relationship in terms of filament overlap.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Force is greatest near optimal overlap; too little overlap limits cross-bridges at long lengths; excessive overlap/interference reduces force at very short lengths.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The relationship emerges from geometry of thick and thin filaments, not from a change in the intrinsic strength of each myosin head.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::
+
+### Question 40 — Application {#w06-sr12}
+
+Predict the effect of a toxin that prevents SR Ca²⁺ release but leaves the motor neuron and NMJ intact.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Muscle APs and end-plate potentials can occur, but cytosolic Ca²⁺ fails to rise adequately, so troponin is not activated and force is greatly reduced/absent.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This separates electrical excitation from mechanical contraction and shows why excitation–contraction coupling is a necessary intermediate step.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
+:::

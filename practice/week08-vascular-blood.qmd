@@ -1,0 +1,766 @@
+---
+title: "Week 8 Practice — Vascular Foundations and Blood"
+toc-depth: 2
+---
+
+**40 practice questions: 28 multiple-choice (70%) + 12 short-response (30%).** Answers and explanations are collapsed initially. Every assigned lecture-review theme is represented either directly or through a closely aligned concept/application question.
+
+# Part A — Multiple Choice
+
+### Question 1 — Vessel function {#w08-mc01}
+
+Which vessels are the major resistance vessels?
+
+- **A.** elastic arteries
+- **B.** arterioles
+- **C.** capillaries
+- **D.** large veins
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Arterioles are the major adjustable resistance vessels.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Their smooth muscle can change radius substantially, and resistance is highly sensitive to radius.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 2 — Flow equation {#w08-mc02}
+
+If the pressure gradient across a vascular bed increases while resistance is unchanged, flow will:
+
+- **A.** increase
+- **B.** decrease
+- **C.** remain zero
+- **D.** reverse automatically
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Q = ΔP/R, so greater ΔP increases flow.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Flow depends on the pressure difference, not simply the absolute upstream pressure.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 3 — Resistance {#w08-mc03}
+
+A small decrease in arteriole radius tends to:
+
+- **A.** greatly increase resistance
+- **B.** greatly decrease resistance
+- **C.** have no effect
+- **D.** stop blood viscosity from mattering
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Resistance rises steeply as radius falls.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Poiseuille’s relationship includes radius to the fourth power, so small caliber changes have large effects.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 4 — Velocity {#w08-mc04}
+
+Blood velocity is normally slowest in the:
+
+- **A.** aorta
+- **B.** capillaries
+- **C.** vena cava
+- **D.** pulmonary trunk
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Capillaries have the greatest total cross-sectional area.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+For a given flow, greater total cross-sectional area means lower average velocity, favoring exchange.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 5 — Capillary exchange {#w08-mc05}
+
+Most small lipid-soluble and many small water-soluble substances cross capillaries primarily by:
+
+- **A.** diffusion down concentration gradients
+- **B.** skeletal muscle contraction
+- **C.** action potentials
+- **D.** coagulation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Diffusion is the dominant mechanism for many solutes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Bulk flow is especially important for fluid movement, whereas solute exchange often follows concentration gradients.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 6 — Lymph {#w08-mc06}
+
+A major function of the lymphatic system is to:
+
+- **A.** return excess filtered interstitial fluid and proteins to blood
+- **B.** generate SA node action potentials
+- **C.** secrete ACh at NMJs
+- **D.** produce sound waves
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Lymphatics return excess interstitial fluid/proteins.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Without lymphatic return, filtered fluid would accumulate and promote edema.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 7 — Pressure reservoir {#w08-mc07}
+
+Elastic recoil of large arteries is important because it:
+
+- **A.** helps maintain arterial pressure and flow during diastole
+- **B.** prevents systolic pressure from existing
+- **C.** opens AV valves directly
+- **D.** produces erythrocytes
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Arterial recoil sustains pressure between ventricular ejections.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Elastic arteries store some of the energy of systolic ejection and release it during diastole.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 8 — MAP {#w08-mc08}
+
+For a BP of 120/75 mmHg, approximate MAP is:
+
+- **A.** 60 mmHg
+- **B.** 90 mmHg
+- **C.** 120 mmHg
+- **D.** 195 mmHg
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Pulse pressure = 45; MAP ≈ 75 + 15 = 90 mmHg.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+At normal HR, MAP is approximated by diastolic pressure plus one-third pulse pressure because diastole lasts longer than systole.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 9 — MAP determinants {#w08-mc09}
+
+A useful relationship for mean arterial pressure is:
+
+- **A.** MAP ∝ CO × TPR
+- **B.** MAP = EDV − ESV
+- **C.** MAP = HR/SV
+- **D.** MAP = plasma − RBCs
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+MAP depends importantly on cardiac output and total peripheral resistance.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This relationship organizes the cardiovascular reflex responses to blood-pressure changes.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 10 — Blood volume {#w08-mc10}
+
+Acute loss of blood volume initially tends to reduce MAP by decreasing:
+
+- **A.** venous return and stroke volume
+- **B.** phototransduction
+- **C.** nicotinic receptors
+- **D.** plasma proteins only with no hemodynamic effect
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Less volume → less venous return → lower EDV/SV → lower CO/MAP.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The sequence from volume to preload to stroke volume is essential for understanding dehydration and hemorrhage.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 11 — Myogenic response {#w08-mc11}
+
+Myogenic autoregulation refers to vascular smooth muscle that:
+
+- **A.** constricts when stretched and relaxes when stretch falls
+- **B.** contracts only after motor-neuron ACh
+- **C.** detects light
+- **D.** makes fibrin
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Stretch can trigger local smooth-muscle constriction.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This intrinsic response helps stabilize organ blood flow when perfusion pressure changes.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 12 — Local control {#w08-mc12}
+
+A metabolically active tissue generally promotes local arteriolar:
+
+- **A.** vasodilation
+- **B.** vasoconstriction only
+- **C.** clotting
+- **D.** ventricular repolarization
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Local metabolites/paracrines tend to increase flow to active tissue.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Active hyperemia matches oxygen/nutrient delivery to metabolic demand.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 13 — Sympathetic arterioles {#w08-mc13}
+
+Norepinephrine acting on α1 receptors in many systemic arterioles causes:
+
+- **A.** vasoconstriction
+- **B.** vasodilation
+- **C.** no smooth-muscle effect
+- **D.** platelet lysis
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+α1 activation contracts vascular smooth muscle.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This raises local resistance and contributes to increases in total peripheral resistance during sympathetic activation.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 14 — Baroreceptors {#w08-mc14}
+
+Major arterial baroreceptors are located in the:
+
+- **A.** carotid sinus and aortic arch
+- **B.** coronary sinus and vena cava only
+- **C.** ventricles only
+- **D.** cochlea
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Carotid sinus and aortic arch monitor arterial stretch.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Their firing changes rapidly with arterial pressure and provides sensory input for short-term MAP regulation.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 15 — Low MAP reflex {#w08-mc15}
+
+A sudden fall in MAP causes baroreceptor firing to:
+
+- **A.** decrease
+- **B.** increase
+- **C.** remain fixed
+- **D.** become motor output
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Less stretch reduces baroreceptor firing.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The medulla responds by increasing sympathetic and reducing parasympathetic activity.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 16 — Baroreflex output {#w08-mc16}
+
+Which response helps restore low MAP?
+
+- **A.** increased HR and arteriolar vasoconstriction
+- **B.** decreased HR and vasodilation
+- **C.** reduced contractility and venodilation
+- **D.** reduced venous return
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Sympathetic activation raises CO and TPR.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The reflex recruits multiple effectors: heart, arterioles, and veins.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 17 — Dehydration {#w08-mc17}
+
+Severe vomiting and diarrhea can cause fainting mainly because they may:
+
+- **A.** reduce plasma volume, venous return, CO, and cerebral perfusion
+- **B.** increase RBC production within minutes
+- **C.** cause photoreceptor hyperpolarization
+- **D.** always raise MAP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Volume depletion can lower MAP enough to reduce brain perfusion.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The physiological chain is volume loss → venous return ↓ → EDV/SV ↓ → CO ↓ → MAP ↓.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 18 — Plasma {#w08-mc18}
+
+The largest component of plasma by volume is:
+
+- **A.** water
+- **B.** albumin
+- **C.** red blood cells
+- **D.** platelets
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Plasma is mostly water.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Plasma proteins and dissolved solutes occupy a smaller fraction; formed elements are not part of plasma.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 19 — Plasma proteins {#w08-mc19}
+
+The most abundant plasma protein is generally:
+
+- **A.** albumin
+- **B.** fibrin only
+- **C.** hemoglobin
+- **D.** myosin
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Albumin is the most abundant plasma protein.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+It contributes strongly to plasma colloid osmotic pressure and also serves transport roles.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 20 — Hematopoiesis {#w08-mc20}
+
+Blood cell production is called:
+
+- **A.** hematopoiesis
+- **B.** hemostasis
+- **C.** homeostasis
+- **D.** hemolysis
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Hematopoiesis is formation and differentiation of blood cells.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Hemostasis instead refers to processes that stop bleeding.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 21 — Erythropoietin {#w08-mc21}
+
+Erythropoietin is produced mainly by the kidneys in response to:
+
+- **A.** reduced oxygen availability
+- **B.** high sound intensity
+- **C.** high cGMP in rods
+- **D.** increased platelet aggregation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Renal hypoxia stimulates erythropoietin production.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+EPO acts on bone-marrow precursors to increase erythrocyte production over days rather than seconds.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 22 — RBCs {#w08-mc22}
+
+A mature human erythrocyte is specialized for gas transport partly because it:
+
+- **A.** lacks a nucleus and is packed with hemoglobin
+- **B.** contains many mitochondria
+- **C.** has sarcomeres
+- **D.** secretes ACh
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Mature RBCs are anucleate and rich in hemoglobin.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+They devote much of their volume to oxygen-carrying protein and do not consume transported oxygen through mitochondria.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 23 — Anemia {#w08-mc23}
+
+The most important physiological consequence of anemia is reduced:
+
+- **A.** oxygen-carrying capacity of blood
+- **B.** auditory pitch discrimination
+- **C.** skeletal muscle receptor density
+- **D.** plasma water content always
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Anemia compromises oxygen transport.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The cause may be fewer RBCs, less hemoglobin, or abnormal cells, but the shared functional problem is reduced oxygen delivery capacity.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 24 — Hemostasis {#w08-mc24}
+
+The first major platelet response at a damaged vessel includes:
+
+- **A.** adhesion and activation
+- **B.** ventricular ejection
+- **C.** rhodopsin activation
+- **D.** motor-unit recruitment
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Platelets adhere to exposed/damaged surfaces, activate, and aggregate.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Activation releases mediators and exposes binding sites that support positive feedback and plug formation.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 25 — Coagulation {#w08-mc25}
+
+The intrinsic and extrinsic coagulation pathways converge on a common pathway that generates:
+
+- **A.** thrombin and then fibrin
+- **B.** ACh and then Na+
+- **C.** rhodopsin and cGMP
+- **D.** EPO and hemoglobin immediately
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Coagulation culminates in thrombin generation and fibrin formation.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Thrombin converts soluble fibrinogen into fibrin strands that stabilize the platelet plug.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 26 — ABO {#w08-mc26}
+
+A person with type A blood has:
+
+- **A.** A antigen on RBCs and anti-B antibodies in plasma
+- **B.** B antigen and anti-B antibodies
+- **C.** no RBC antigens and no antibodies
+- **D.** Rh antigen necessarily absent
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Type A: A antigen, anti-B antibodies.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+ABO transfusion reactions occur when recipient antibodies bind incompatible donor RBC antigens.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 27 — Rh pregnancy {#w08-mc27}
+
+Anti-D immunoglobulin given to an Rh-negative mother helps by:
+
+- **A.** preventing maternal sensitization to Rh-positive fetal cells
+- **B.** increasing fetal α1 receptors
+- **C.** raising maternal MAP directly
+- **D.** causing platelet aggregation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Prophylactic anti-D reduces the chance the mother develops her own anti-Rh immune response.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Preventing sensitization protects later Rh-positive pregnancies from hemolytic disease.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 28 — Lecture 22/23 exam rule {#w08-mc28}
+
+For the actual Midterm 2 scope described in the course announcement, Lectures 22 and 23 are assessed by:
+
+- **A.** MCQ only
+- **B.** short essay only
+- **C.** laboratory practical only
+- **D.** not assessed
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+The supplied Midterm 2 notice states Lectures 22 and 23 will only be MCQ.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This matters for study strategy and for the construction of the practice exams on this site.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+# Part B — Short Response
+
+### Question 29 — Vessels {#w08-sr01}
+
+Compare arteries, arterioles, capillaries, venules, and veins in structure and function.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Arteries: pressure conduit/reservoir; arterioles: variable resistance; capillaries: thin exchange surface; venules/veins: return and high-capacitance storage.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Relate wall structure to role. Thick elastic/muscular walls tolerate and regulate pressure; capillary thinness facilitates exchange; veins accommodate large volume at low pressure.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 30 — Flow {#w08-sr02}
+
+Explain Q = ΔP/R and why arteriole radius is such a powerful determinant of flow.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Flow rises with pressure gradient and falls with resistance; resistance changes steeply with radius, so vasoconstriction greatly lowers flow and vasodilation raises it.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Do not confuse pressure at one point with pressure gradient. The driving force is the difference between upstream and downstream pressure.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 31 — Capillaries {#w08-sr03}
+
+Explain why blood velocity is slowest in capillaries and why that is functionally useful.
+
+::: {.callout-tip collapse="true" title="Answer"}
+The capillary network has enormous total cross-sectional area, so velocity falls; slower transit supports diffusion/exchange.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+A single capillary is narrow, but there are many in parallel. Total cross-sectional area—not the diameter of one vessel—explains the low velocity.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 32 — Bulk flow {#w08-sr04}
+
+Explain capillary filtration/absorption and the role of lymphatics.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Hydrostatic forces favor fluid movement out; plasma colloid osmotic pressure favors movement in; excess filtered fluid/protein is returned by lymphatics.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The lymphatic system is necessary because direct capillary reabsorption does not reclaim all filtered fluid under normal conditions.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 33 — MAP {#w08-sr05}
+
+Define mean arterial pressure and explain its major determinants.
+
+::: {.callout-tip collapse="true" title="Answer"}
+MAP is the average effective arterial driving pressure; approximately DBP + 1/3 pulse pressure at normal HR; determined mainly by CO and TPR, with CO = HR × SV.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+A complete answer connects equations to physiology: heart rate, stroke volume, arteriolar resistance, and blood volume all influence MAP.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 34 — Myogenic/local control {#w08-sr06}
+
+Compare myogenic autoregulation with metabolic/paracrine control of arterioles.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Myogenic response depends on vascular stretch; metabolic control depends on local tissue conditions/signals. Both adjust arteriolar tone locally.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+These mechanisms can operate without waiting for a central reflex and help match local blood flow to pressure and metabolic demand.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 35 — Baroreflex {#w08-sr07}
+
+Draw or describe the baroreceptor reflex response to a fall in MAP from sensor to target-organ response.
+
+::: {.callout-tip collapse="true" title="Answer"}
+↓MAP → ↓stretch/firing carotid sinus & aortic arch → medullary CV centers → ↑sympathetic, ↓parasympathetic → ↑HR, ↑contractility, arteriolar and venous constriction → ↑CO/TPR/venous return → MAP restored.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Include sensor location, afferent input, integrating center, autonomic outputs, effectors, and negative-feedback result. This is a core integration question.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 36 — Dehydration case {#w08-sr08}
+
+Use equations to explain how severe diarrhea/vomiting can lower MAP and cause fainting.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Fluid loss → blood volume ↓ → venous return ↓ → EDV ↓ → SV ↓ (Frank–Starling) → CO ↓ → MAP ↓; cerebral perfusion may fall enough to cause syncope.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This mirrors the supplied mock-midterm logic. The reflex can compensate by sympathetic activation, but severe depletion can exceed compensation.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 37 — Blood {#w08-sr09}
+
+Describe the major components of blood and explain hematocrit.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Plasma + formed elements (RBCs, WBCs, platelets); hematocrit is the fraction/percentage of blood volume occupied by RBCs.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Centrifugation separates these layers and visually demonstrates their different volume fractions.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 38 — Hematopoiesis {#w08-sr10}
+
+Explain hematopoiesis and the regulation of erythrocyte production by erythropoietin.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Bone-marrow stem/progenitor cells differentiate into blood lineages under cytokines; kidney-derived EPO rises with low oxygen and stimulates erythroid precursors.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This is a slower homeostatic response than the baroreflex. It changes cell production over days, not beat-to-beat cardiovascular function.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 39 — Hemostasis {#w08-sr11}
+
+Explain primary platelet plug formation and how coagulation stabilizes it.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Damage exposes adhesive surfaces → platelet adhesion/activation → mediator release and aggregation → coagulation cascade → thrombin → fibrinogen to fibrin → stabilized clot.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Primary hemostasis and coagulation are linked but distinct. Positive feedback rapidly builds the plug while anticoagulant/fibrinolytic systems limit clotting.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::
+
+### Question 40 — Blood groups {#w08-sr12}
+
+Explain ABO/Rh compatibility principles and the basis of Rh hemolytic disease of the newborn.
+
+::: {.callout-tip collapse="true" title="Answer"}
+ABO incompatibility reflects recipient antibodies against donor RBC antigens. Rh disease can follow maternal sensitization to Rh-positive fetal cells; later anti-D IgG crosses placenta and destroys fetal RBCs; prophylactic anti-D prevents sensitization.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The key is distinguishing naturally present ABO antibodies from acquired maternal anti-Rh sensitization and understanding why prevention occurs before a strong maternal immune memory develops.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
+:::

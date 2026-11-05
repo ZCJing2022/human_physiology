@@ -1,0 +1,472 @@
+---
+title: "Practice Midterm 2 — Form 1"
+toc-depth: 2
+---
+
+<div class="exam-note"><strong>Timing:</strong> 50 minutes. <strong>Scope:</strong> Lectures 13–23. In keeping with the supplied course announcement, content from Lectures 22 and 23 appears only in Part A (MCQ), not in the short-response section.</div>
+
+**Suggested pacing:** about 30 minutes for 24 MCQs and 20 minutes for four short responses. Complete the exam before opening any Answer or Explanation panel.
+
+# Part A — Multiple Choice (24 questions)
+
+### Question 1 — Afferent pathways
+
+The afferent division of the nervous system primarily carries information:
+
+- **A.** from the CNS to skeletal muscle
+- **B.** from sensory receptors toward the CNS
+- **C.** only between spinal interneurons
+- **D.** from endocrine glands to target cells
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Sensory information travels from receptors toward the CNS.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Afferent means arriving at the CNS. Motor/efferent pathways carry commands away from the CNS. This distinction is the starting point for every sensory pathway.
+:::
+
+### Question 2 — Receptive fields
+
+A receptive field is:
+
+- **A.** the entire sensory cortex
+- **B.** the region monitored by a particular sensory neuron
+- **C.** the minimum stimulus energy
+- **D.** a motor unit
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** It is the area from which a sensory neuron receives input.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Receptive-field size is a major determinant of spatial discrimination. Smaller fields allow location to be resolved more precisely.
+:::
+
+### Question 3 — Transduction
+
+Sensory transduction refers to:
+
+- **A.** converting stimulus energy into an electrical response
+- **B.** moving neurotransmitter back into a vesicle
+- **C.** generating muscle force
+- **D.** crossing the blood-brain barrier
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Transduction converts the stimulus into a receptor potential/electrical signal.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+A sensory receptor changes physical or chemical stimulus energy into a change in membrane potential, creating the first electrical representation of the stimulus.
+:::
+
+### Question 4 — Lateral inhibition
+
+Lateral inhibition improves sensory localization mainly by:
+
+- **A.** increasing action-potential amplitude
+- **B.** sharpening contrast between neighboring pathways
+- **C.** enlarging receptive fields
+- **D.** blocking all weak stimuli
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** It sharpens spatial contrast.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Strongly activated pathways inhibit neighboring pathways, making the peak of activity more distinct and improving localization.
+:::
+
+### Question 5 — Referred pain
+
+Referred pain is best explained by:
+
+- **A.** convergence of visceral and somatic afferents on shared CNS neurons
+- **B.** increased action-potential amplitude in nociceptors
+- **C.** retinal convergence
+- **D.** loss of lateral inhibition in the cochlea
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Convergence can cause the CNS to misattribute visceral input to a somatic region.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+The brain is more accustomed to receiving activity in those central neurons from somatic sources, so visceral signals can be perceived as coming from a body-surface region.
+:::
+
+### Question 6 — Olfactory transduction
+
+In olfactory receptor neurons, odorant binding commonly leads to:
+
+- **A.** Golf activation and increased cAMP
+- **B.** direct opening of voltage-gated Na+ channels by odor
+- **C.** decreased cAMP through insulin receptors
+- **D.** skeletal muscle contraction
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Odorant receptor → Golf → adenylyl cyclase → cAMP → cation channels.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+This GPCR cascade converts a chemical stimulus into depolarization of the olfactory receptor neuron.
+:::
+
+### Question 7 — Taste transduction
+
+Sweet, bitter, and umami receptors are best characterized as:
+
+- **A.** GPCR-linked receptors
+- **B.** voltage-gated Na+ channels
+- **C.** stretch receptors
+- **D.** photopigments
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** These taste qualities use G-protein-coupled receptor pathways.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Salty and sour rely more directly on ion movement, whereas sweet, bitter, and umami use metabotropic signalling cascades.
+:::
+
+### Question 8 — Cochlea
+
+The sensory receptors for hearing are located in the:
+
+- **A.** semicircular canals only
+- **B.** organ of Corti
+- **C.** tympanic membrane
+- **D.** auditory cortex
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Hair cells in the organ of Corti transduce cochlear mechanical motion.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+The tympanic membrane and ossicles transmit sound mechanically, but the receptor hair cells that initiate neural signalling are in the cochlea.
+:::
+
+### Question 9 — Accommodation
+
+During accommodation for near vision, the lens becomes:
+
+- **A.** flatter
+- **B.** rounder/more convex
+- **C.** opaque
+- **D.** displaced into the retina
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Ciliary-muscle contraction allows the lens to become rounder.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+A rounder lens has greater refractive power, helping focus diverging rays from a nearby object on the retina.
+:::
+
+### Question 10 — Phototransduction
+
+In a rod exposed to light, cGMP concentration falls and cation channels:
+
+- **A.** open, depolarizing the cell
+- **B.** close, hyperpolarizing the cell
+- **C.** become nicotinic receptors
+- **D.** release Ca2+ from skeletal SR
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Light closes cyclic-nucleotide-gated channels and hyperpolarizes rods.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Rhodopsin activates transducin and phosphodiesterase, lowering cGMP. This is the crucial “light causes hyperpolarization” concept.
+:::
+
+### Question 11 — NMJ
+
+At the neuromuscular junction, ACh binds primarily to:
+
+- **A.** muscarinic M2 receptors
+- **B.** nicotinic ligand-gated cation channels
+- **C.** alpha1 adrenergic receptors
+- **D.** rhodopsin
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Skeletal muscle motor end plates use nicotinic ACh receptors.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+These channels allow net cation influx and produce the end-plate potential that triggers a muscle action potential.
+:::
+
+### Question 12 — Cross-bridge cycle
+
+ATP binding to myosin is required primarily for:
+
+- **A.** detachment of myosin from actin
+- **B.** exposing the actin site by binding troponin
+- **C.** opening nicotinic receptors
+- **D.** producing the motor-neuron AP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** ATP binding causes cross-bridge detachment.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+ATP hydrolysis then re-cocks/energizes the myosin head. Lack of ATP is why rigor develops after death.
+:::
+
+### Question 13 — E-C coupling
+
+In skeletal muscle, the voltage sensor that responds to T-tubule depolarization is functionally linked to:
+
+- **A.** ryanodine receptors in the SR
+- **B.** baroreceptors
+- **C.** olfactory GPCRs
+- **D.** erythropoietin receptors
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** T-tubule voltage sensors activate SR ryanodine receptors.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+This coupling rapidly releases stored Ca²⁺ into the cytosol.
+:::
+
+### Question 14 — Recruitment
+
+According to the size principle, increasing force generally recruits:
+
+- **A.** large motor units before small ones
+- **B.** small motor units before larger ones
+- **C.** all units simultaneously
+- **D.** only sensory neurons
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Small, fatigue-resistant motor units are generally recruited first.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+As force demand rises, progressively larger motor neurons and units are added.
+:::
+
+### Question 15 — Cardiac E-C coupling
+
+In ventricular myocytes, Ca2+ entering through L-type channels primarily:
+
+- **A.** triggers additional Ca2+ release from SR
+- **B.** directly opens nicotinic ACh receptors
+- **C.** closes all K+ channels permanently
+- **D.** becomes hemoglobin iron
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Trigger Ca²⁺ evokes Ca²⁺-induced Ca²⁺ release.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Cardiac contraction depends on extracellular Ca²⁺ entry as the trigger for much larger SR Ca²⁺ release.
+:::
+
+### Question 16 — Tetanus prevention
+
+Cardiac muscle normally cannot be tetanized because:
+
+- **A.** it has no actin
+- **B.** its action potential and refractory period are very long
+- **C.** it lacks Ca2+
+- **D.** it has no autonomic innervation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** The long refractory period overlaps most of the contraction.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+A second action potential cannot be triggered early enough to summate contractions into tetanus, preserving time for filling.
+:::
+
+### Question 17 — Conduction
+
+Which sequence is correct?
+
+- **A.** AV node → SA node → Purkinje fibers
+- **B.** SA node → AV node → His/bundle branches → Purkinje fibers
+- **C.** Purkinje fibers → atria → SA node
+- **D.** ventricles → SA node → AV node
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** SA node initiates; AV node delays; His–Purkinje distributes to ventricles.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+This ordered conduction supports atrial contraction before coordinated ventricular contraction.
+:::
+
+### Question 18 — ECG
+
+The P wave represents:
+
+- **A.** atrial depolarization
+- **B.** ventricular depolarization
+- **C.** ventricular repolarization
+- **D.** atrial contraction force
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** P wave = atrial depolarization.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Electrical depolarization precedes the mechanical atrial contraction it initiates.
+:::
+
+### Question 19 — Cardiac cycle
+
+During isovolumetric ventricular contraction:
+
+- **A.** AV and semilunar valves are both closed
+- **B.** all valves are open
+- **C.** ventricular volume rises rapidly
+- **D.** ventricular pressure falls
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Both valve sets are closed while pressure rises at constant volume.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+The phase begins after AV valve closure and ends when ventricular pressure exceeds arterial pressure and semilunar valves open.
+:::
+
+### Question 20 — Stroke volume
+
+If EDV = 130 mL and ESV = 50 mL, stroke volume is:
+
+- **A.** 50 mL
+- **B.** 80 mL
+- **C.** 130 mL
+- **D.** 180 mL
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** SV = EDV − ESV = 80 mL.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Stroke volume is the amount ejected per beat, not the amount remaining after systole.
+:::
+
+### Question 21 — Frank-Starling
+
+The Frank–Starling mechanism predicts that, within physiological limits, increased EDV tends to:
+
+- **A.** increase stroke volume
+- **B.** stop pacemaker firing
+- **C.** decrease ventricular stretch to zero
+- **D.** close all valves
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Greater filling/stretch increases contraction force and SV.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+This intrinsic mechanism helps match output to venous return.
+:::
+
+### Question 22 — Inotropy
+
+A positive inotropic effect means:
+
+- **A.** increased myocardial contractility
+- **B.** reduced heart rate only
+- **C.** reduced blood volume
+- **D.** increased sensory firing
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Inotropy refers to contractile strength independent of preload.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Sympathetic β1 signalling increases Ca²⁺ handling and can reduce ESV, thereby raising SV.
+:::
+
+### Question 23 — MAP
+
+For a BP of 120/75 mmHg, approximate MAP is:
+
+- **A.** 60 mmHg
+- **B.** 90 mmHg
+- **C.** 120 mmHg
+- **D.** 195 mmHg
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Pulse pressure = 45; MAP ≈ 75 + 15 = 90 mmHg.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+At normal HR, MAP is approximated by diastolic pressure plus one-third pulse pressure because diastole lasts longer than systole.
+:::
+
+### Question 24 — MAP determinants
+
+A useful relationship for mean arterial pressure is:
+
+- **A.** MAP ∝ CO × TPR
+- **B.** MAP = EDV − ESV
+- **C.** MAP = HR/SV
+- **D.** MAP = plasma − RBCs
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** MAP depends importantly on cardiac output and total peripheral resistance.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+This relationship organizes the cardiovascular reflex responses to blood-pressure changes.
+:::
+
+# Part B — Short Response (4 questions)
+
+### Question 25 — Sensory coding
+
+A sustained pressure stimulus initially causes a high firing rate that then declines. Explain the receptor property involved and how the CNS can still code stimulus duration.
+
+::: {.callout-tip collapse="true" title="Answer"}
+This is sensory adaptation, especially phasic behavior. Duration is represented by the remaining firing pattern and by parallel tonic receptors that adapt more slowly.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Distinguish a receptor potential that declines during a constant stimulus from all-or-none action potentials. The system uses populations of receptors with different adaptation properties.
+:::
+
+### Question 26 — Vision
+
+Explain why light hyperpolarizes rods and how this changes transmitter release.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Light activates rhodopsin/transducin/PDE, lowering cGMP; cGMP-gated channels close, rod hyperpolarizes, and glutamate release decreases.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+This is a favorite reversal question because many receptors depolarize to stimulation. Photoreceptors are relatively depolarized in darkness and hyperpolarize to light.
+:::
+
+### Question 27 — Neuromuscular
+
+A patient has normal motor-neuron action potentials but a toxin blocks nicotinic ACh receptors. Trace the consequences from the NMJ to muscle force.
+
+::: {.callout-tip collapse="true" title="Answer"}
+ACh release may remain normal, but end-plate depolarization is reduced/absent, muscle AP fails, SR Ca²⁺ release fails, troponin is not activated, and force falls.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+This tests causal reasoning across NMJ → excitation → E-C coupling → contraction.
+:::
+
+### Question 28 — Skeletal muscle
+
+Explain how increasing stimulation frequency and increasing motor-unit recruitment each increase skeletal muscle force.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Frequency summation keeps cytosolic Ca²⁺/force elevated within active fibers; recruitment activates additional motor units/fibers.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+One mechanism changes force per active fiber through timing; the other changes how many fibers contribute.
+:::
+
+## Self-check after finishing
+
+Use your errors diagnostically. For each missed MCQ, identify the lecture concept that made the distractor tempting. For each short response, check whether you gave a causal sequence rather than isolated facts. The supplied mock midterm particularly supports practicing the Wiggers diagram and integrated cardiovascular reasoning.

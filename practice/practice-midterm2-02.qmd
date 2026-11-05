@@ -1,0 +1,472 @@
+---
+title: "Practice Midterm 2 — Form 2"
+toc-depth: 2
+---
+
+<div class="exam-note"><strong>Timing:</strong> 50 minutes. <strong>Scope:</strong> Lectures 13–23. In keeping with the supplied course announcement, content from Lectures 22 and 23 appears only in Part A (MCQ), not in the short-response section.</div>
+
+**Suggested pacing:** about 30 minutes for 24 MCQs and 20 minutes for four short responses. Complete the exam before opening any Answer or Explanation panel.
+
+# Part A — Multiple Choice (24 questions)
+
+### Question 1 — Cochlea
+
+The sensory receptors for hearing are located in the:
+
+- **A.** semicircular canals only
+- **B.** organ of Corti
+- **C.** tympanic membrane
+- **D.** auditory cortex
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Hair cells in the organ of Corti transduce cochlear mechanical motion.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+The tympanic membrane and ossicles transmit sound mechanically, but the receptor hair cells that initiate neural signalling are in the cochlea.
+:::
+
+### Question 2 — Accommodation
+
+During accommodation for near vision, the lens becomes:
+
+- **A.** flatter
+- **B.** rounder/more convex
+- **C.** opaque
+- **D.** displaced into the retina
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Ciliary-muscle contraction allows the lens to become rounder.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+A rounder lens has greater refractive power, helping focus diverging rays from a nearby object on the retina.
+:::
+
+### Question 3 — Phototransduction
+
+In a rod exposed to light, cGMP concentration falls and cation channels:
+
+- **A.** open, depolarizing the cell
+- **B.** close, hyperpolarizing the cell
+- **C.** become nicotinic receptors
+- **D.** release Ca2+ from skeletal SR
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Light closes cyclic-nucleotide-gated channels and hyperpolarizes rods.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Rhodopsin activates transducin and phosphodiesterase, lowering cGMP. This is the crucial “light causes hyperpolarization” concept.
+:::
+
+### Question 4 — NMJ
+
+At the neuromuscular junction, ACh binds primarily to:
+
+- **A.** muscarinic M2 receptors
+- **B.** nicotinic ligand-gated cation channels
+- **C.** alpha1 adrenergic receptors
+- **D.** rhodopsin
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Skeletal muscle motor end plates use nicotinic ACh receptors.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+These channels allow net cation influx and produce the end-plate potential that triggers a muscle action potential.
+:::
+
+### Question 5 — Cross-bridge cycle
+
+ATP binding to myosin is required primarily for:
+
+- **A.** detachment of myosin from actin
+- **B.** exposing the actin site by binding troponin
+- **C.** opening nicotinic receptors
+- **D.** producing the motor-neuron AP
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** ATP binding causes cross-bridge detachment.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+ATP hydrolysis then re-cocks/energizes the myosin head. Lack of ATP is why rigor develops after death.
+:::
+
+### Question 6 — E-C coupling
+
+In skeletal muscle, the voltage sensor that responds to T-tubule depolarization is functionally linked to:
+
+- **A.** ryanodine receptors in the SR
+- **B.** baroreceptors
+- **C.** olfactory GPCRs
+- **D.** erythropoietin receptors
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** T-tubule voltage sensors activate SR ryanodine receptors.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+This coupling rapidly releases stored Ca²⁺ into the cytosol.
+:::
+
+### Question 7 — Recruitment
+
+According to the size principle, increasing force generally recruits:
+
+- **A.** large motor units before small ones
+- **B.** small motor units before larger ones
+- **C.** all units simultaneously
+- **D.** only sensory neurons
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Small, fatigue-resistant motor units are generally recruited first.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+As force demand rises, progressively larger motor neurons and units are added.
+:::
+
+### Question 8 — Cardiac E-C coupling
+
+In ventricular myocytes, Ca2+ entering through L-type channels primarily:
+
+- **A.** triggers additional Ca2+ release from SR
+- **B.** directly opens nicotinic ACh receptors
+- **C.** closes all K+ channels permanently
+- **D.** becomes hemoglobin iron
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Trigger Ca²⁺ evokes Ca²⁺-induced Ca²⁺ release.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Cardiac contraction depends on extracellular Ca²⁺ entry as the trigger for much larger SR Ca²⁺ release.
+:::
+
+### Question 9 — Tetanus prevention
+
+Cardiac muscle normally cannot be tetanized because:
+
+- **A.** it has no actin
+- **B.** its action potential and refractory period are very long
+- **C.** it lacks Ca2+
+- **D.** it has no autonomic innervation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** The long refractory period overlaps most of the contraction.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+A second action potential cannot be triggered early enough to summate contractions into tetanus, preserving time for filling.
+:::
+
+### Question 10 — Conduction
+
+Which sequence is correct?
+
+- **A.** AV node → SA node → Purkinje fibers
+- **B.** SA node → AV node → His/bundle branches → Purkinje fibers
+- **C.** Purkinje fibers → atria → SA node
+- **D.** ventricles → SA node → AV node
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** SA node initiates; AV node delays; His–Purkinje distributes to ventricles.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+This ordered conduction supports atrial contraction before coordinated ventricular contraction.
+:::
+
+### Question 11 — ECG
+
+The P wave represents:
+
+- **A.** atrial depolarization
+- **B.** ventricular depolarization
+- **C.** ventricular repolarization
+- **D.** atrial contraction force
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** P wave = atrial depolarization.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Electrical depolarization precedes the mechanical atrial contraction it initiates.
+:::
+
+### Question 12 — Cardiac cycle
+
+During isovolumetric ventricular contraction:
+
+- **A.** AV and semilunar valves are both closed
+- **B.** all valves are open
+- **C.** ventricular volume rises rapidly
+- **D.** ventricular pressure falls
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Both valve sets are closed while pressure rises at constant volume.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+The phase begins after AV valve closure and ends when ventricular pressure exceeds arterial pressure and semilunar valves open.
+:::
+
+### Question 13 — Stroke volume
+
+If EDV = 130 mL and ESV = 50 mL, stroke volume is:
+
+- **A.** 50 mL
+- **B.** 80 mL
+- **C.** 130 mL
+- **D.** 180 mL
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** SV = EDV − ESV = 80 mL.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Stroke volume is the amount ejected per beat, not the amount remaining after systole.
+:::
+
+### Question 14 — Frank-Starling
+
+The Frank–Starling mechanism predicts that, within physiological limits, increased EDV tends to:
+
+- **A.** increase stroke volume
+- **B.** stop pacemaker firing
+- **C.** decrease ventricular stretch to zero
+- **D.** close all valves
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Greater filling/stretch increases contraction force and SV.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+This intrinsic mechanism helps match output to venous return.
+:::
+
+### Question 15 — Inotropy
+
+A positive inotropic effect means:
+
+- **A.** increased myocardial contractility
+- **B.** reduced heart rate only
+- **C.** reduced blood volume
+- **D.** increased sensory firing
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Inotropy refers to contractile strength independent of preload.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Sympathetic β1 signalling increases Ca²⁺ handling and can reduce ESV, thereby raising SV.
+:::
+
+### Question 16 — MAP
+
+For a BP of 120/75 mmHg, approximate MAP is:
+
+- **A.** 60 mmHg
+- **B.** 90 mmHg
+- **C.** 120 mmHg
+- **D.** 195 mmHg
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Pulse pressure = 45; MAP ≈ 75 + 15 = 90 mmHg.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+At normal HR, MAP is approximated by diastolic pressure plus one-third pulse pressure because diastole lasts longer than systole.
+:::
+
+### Question 17 — MAP determinants
+
+A useful relationship for mean arterial pressure is:
+
+- **A.** MAP ∝ CO × TPR
+- **B.** MAP = EDV − ESV
+- **C.** MAP = HR/SV
+- **D.** MAP = plasma − RBCs
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** MAP depends importantly on cardiac output and total peripheral resistance.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+This relationship organizes the cardiovascular reflex responses to blood-pressure changes.
+:::
+
+### Question 18 — Baroreceptors
+
+Major arterial baroreceptors are located in the:
+
+- **A.** carotid sinus and aortic arch
+- **B.** coronary sinus and vena cava only
+- **C.** ventricles only
+- **D.** cochlea
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Carotid sinus and aortic arch monitor arterial stretch.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Their firing changes rapidly with arterial pressure and provides sensory input for short-term MAP regulation.
+:::
+
+### Question 19 — Low MAP reflex
+
+A sudden fall in MAP causes baroreceptor firing to:
+
+- **A.** decrease
+- **B.** increase
+- **C.** remain fixed
+- **D.** become motor output
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Less stretch reduces baroreceptor firing.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+The medulla responds by increasing sympathetic and reducing parasympathetic activity.
+:::
+
+### Question 20 — Plasma proteins
+
+The most abundant plasma protein is generally:
+
+- **A.** albumin
+- **B.** fibrin only
+- **C.** hemoglobin
+- **D.** myosin
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Albumin is the most abundant plasma protein.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+It contributes strongly to plasma colloid osmotic pressure and also serves transport roles.
+:::
+
+### Question 21 — Erythropoietin
+
+Erythropoietin is produced mainly by the kidneys in response to:
+
+- **A.** reduced oxygen availability
+- **B.** high sound intensity
+- **C.** high cGMP in rods
+- **D.** increased platelet aggregation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Renal hypoxia stimulates erythropoietin production.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+EPO acts on bone-marrow precursors to increase erythrocyte production over days rather than seconds.
+:::
+
+### Question 22 — Hemostasis
+
+The first major platelet response at a damaged vessel includes:
+
+- **A.** adhesion and activation
+- **B.** ventricular ejection
+- **C.** rhodopsin activation
+- **D.** motor-unit recruitment
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Platelets adhere to exposed/damaged surfaces, activate, and aggregate.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Activation releases mediators and exposes binding sites that support positive feedback and plug formation.
+:::
+
+### Question 23 — ABO
+
+A person with type A blood has:
+
+- **A.** A antigen on RBCs and anti-B antibodies in plasma
+- **B.** B antigen and anti-B antibodies
+- **C.** no RBC antigens and no antibodies
+- **D.** Rh antigen necessarily absent
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.** Type A: A antigen, anti-B antibodies.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+ABO transfusion reactions occur when recipient antibodies bind incompatible donor RBC antigens.
+:::
+
+### Question 24 — Afferent pathways
+
+The afferent division of the nervous system primarily carries information:
+
+- **A.** from the CNS to skeletal muscle
+- **B.** from sensory receptors toward the CNS
+- **C.** only between spinal interneurons
+- **D.** from endocrine glands to target cells
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.** Sensory information travels from receptors toward the CNS.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Afferent means arriving at the CNS. Motor/efferent pathways carry commands away from the CNS. This distinction is the starting point for every sensory pathway.
+:::
+
+# Part B — Short Response (4 questions)
+
+### Question 25 — Neuromuscular
+
+A patient has normal motor-neuron action potentials but a toxin blocks nicotinic ACh receptors. Trace the consequences from the NMJ to muscle force.
+
+::: {.callout-tip collapse="true" title="Answer"}
+ACh release may remain normal, but end-plate depolarization is reduced/absent, muscle AP fails, SR Ca²⁺ release fails, troponin is not activated, and force falls.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+This tests causal reasoning across NMJ → excitation → E-C coupling → contraction.
+:::
+
+### Question 26 — Skeletal muscle
+
+Explain how increasing stimulation frequency and increasing motor-unit recruitment each increase skeletal muscle force.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Frequency summation keeps cytosolic Ca²⁺/force elevated within active fibers; recruitment activates additional motor units/fibers.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+One mechanism changes force per active fiber through timing; the other changes how many fibers contribute.
+:::
+
+### Question 27 — Cardiac conduction
+
+Trace cardiac excitation from SA node to ventricular myocardium and explain the functional role of AV nodal delay.
+
+::: {.callout-tip collapse="true" title="Answer"}
+SA → atria → AV node → His → bundle branches → Purkinje → ventricles; the delay permits atrial emptying/ventricular filling before ventricular contraction.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Sequence and timing link electrical organization to effective pumping.
+:::
+
+### Question 28 — ECG/Wiggers
+
+Relate the QRS complex to ventricular pressure, AV valve closure, semilunar valve opening, and the beginning of ejection.
+
+::: {.callout-tip collapse="true" title="Answer"}
+QRS = ventricular depolarization; contraction follows, ventricular pressure rises, AV valves close (S1), then semilunar valves open once ventricular pressure exceeds arterial pressure and ejection begins.
+:::
+
+::: {.callout-note collapse="true" title="Explanation"}
+Electrical activation precedes mechanical pressure development. Valve events are determined by pressure crossings.
+:::
+
+## Self-check after finishing
+
+Use your errors diagnostically. For each missed MCQ, identify the lecture concept that made the distractor tempting. For each short response, check whether you gave a causal sequence rather than isolated facts. The supplied mock midterm particularly supports practicing the Wiggers diagram and integrated cardiovascular reasoning.

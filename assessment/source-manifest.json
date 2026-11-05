@@ -1,0 +1,13 @@
+{
+  "weeks": [
+    "05",
+    "06",
+    "07",
+    "08"
+  ],
+  "lecture_range": "13-23",
+  "weekly_bank_rule": "28 MCQ + 12 short response",
+  "practice_exams": 3,
+  "exam_duration_minutes": 50,
+  "lecture_22_23_exam_mode": "MCQ only"
+}

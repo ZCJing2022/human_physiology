@@ -1,0 +1,10 @@
+---
+title: "Weekly Study Guides"
+---
+
+The lecture presentations define the examinable scope. Use the guides to connect the lecture objectives, assigned textbook sections, and the end-of-lecture review-question themes.
+
+- [Week 5 — Sensory Physiology I–II](week05-sensory.qmd)
+- [Week 6 — Vision, Neuromuscular, and Skeletal Muscle](week06-vision-muscle.qmd)
+- [Week 7 — Cardiac Foundations I–III](week07-cardiac.qmd)
+- [Week 8 — Vascular Foundations and Blood](week08-vascular-blood.qmd)

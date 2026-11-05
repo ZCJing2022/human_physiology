@@ -1,0 +1,766 @@
+---
+title: "Week 7 Practice — Cardiac Foundations I–III"
+toc-depth: 2
+---
+
+**40 practice questions: 28 multiple-choice (70%) + 12 short-response (30%).** Answers and explanations are collapsed initially. Every assigned lecture-review theme is represented either directly or through a closely aligned concept/application question.
+
+# Part A — Multiple Choice
+
+### Question 1 — Cardiac cells {#w07-mc01}
+
+Most cells in the myocardium are:
+
+- **A.** autorhythmic pacemaker cells
+- **B.** force-producing contractile myocytes
+- **C.** sensory neurons
+- **D.** erythrocytes
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Most cardiac cells are contractile myocytes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+A small fraction are specialized autorhythmic/conduction cells; the great majority generate force.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 2 — Intercalated discs {#w07-mc02}
+
+Gap junctions in intercalated discs are important because they:
+
+- **A.** permit electrical current to spread between cardiac cells
+- **B.** store Ca2+ like the SR
+- **C.** prevent all ion movement
+- **D.** synthesize hemoglobin
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Gap junctions electrically couple adjacent myocytes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Low-resistance cell-to-cell current flow helps the myocardium behave as a functional syncytium.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 3 — Cardiac E-C coupling {#w07-mc03}
+
+In ventricular myocytes, Ca2+ entering through L-type channels primarily:
+
+- **A.** triggers additional Ca2+ release from SR
+- **B.** directly opens nicotinic ACh receptors
+- **C.** closes all K+ channels permanently
+- **D.** becomes hemoglobin iron
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Trigger Ca²⁺ evokes Ca²⁺-induced Ca²⁺ release.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Cardiac contraction depends on extracellular Ca²⁺ entry as the trigger for much larger SR Ca²⁺ release.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 4 — Relaxation {#w07-mc04}
+
+Which process contributes to lowering cytosolic Ca2+ during cardiac relaxation?
+
+- **A.** SERCA and Na+/Ca2+ exchange
+- **B.** opening nicotinic receptors
+- **C.** activating rhodopsin
+- **D.** platelet aggregation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+SERCA and membrane extrusion mechanisms remove cytosolic Ca²⁺.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Relaxation requires Ca²⁺ to leave troponin, which occurs only after the cytosolic Ca²⁺ signal declines.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 5 — Blood flow {#w07-mc05}
+
+Which sequence correctly traces blood from the right ventricle back to the left ventricle?
+
+- **A.** aorta → lungs → vena cava → left atrium
+- **B.** pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle
+- **C.** vena cava → aorta → lungs → left ventricle
+- **D.** pulmonary vein → right atrium → aorta
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Pulmonary arteries carry low-oxygen blood away from the right ventricle; pulmonary veins return oxygenated blood to the left atrium.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 6 — Valves {#w07-mc06}
+
+Heart valves open and close primarily because of:
+
+- **A.** active contraction of valve tissue
+- **B.** pressure differences across the valves
+- **C.** electrical stimulation from motor neurons
+- **D.** platelet activation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+Pressure gradients determine valve position.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+When upstream pressure exceeds downstream pressure, a valve is pushed open; reversal closes it.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 7 — Ventricular AP {#w07-mc07}
+
+The plateau of the ventricular action potential is supported mainly by:
+
+- **A.** prolonged Ca2+ entry balanced by K+ currents
+- **B.** only fast Na+ influx for several seconds
+- **C.** only Cl− influx
+- **D.** cessation of all ion movement
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+L-type Ca²⁺ current helps maintain the plateau.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The plateau prolongs depolarization and therefore the refractory period.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 8 — Tetanus prevention {#w07-mc08}
+
+Cardiac muscle normally cannot be tetanized because:
+
+- **A.** it has no actin
+- **B.** its action potential and refractory period are very long
+- **C.** it lacks Ca2+
+- **D.** it has no autonomic innervation
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+The long refractory period overlaps most of the contraction.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+A second action potential cannot be triggered early enough to summate contractions into tetanus, preserving time for filling.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 9 — Pacemaker {#w07-mc09}
+
+The SA node normally sets heart rate because it:
+
+- **A.** has the slowest spontaneous depolarization
+- **B.** reaches threshold spontaneously faster than other pacemakers
+- **C.** is the only tissue with K+ channels
+- **D.** is in the left ventricle
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+SA nodal cells have the fastest intrinsic pacemaker rate.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+They depolarize downstream pacemaker tissues before those tissues reach their own thresholds.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 10 — Funny current {#w07-mc10}
+
+Pacemaker “funny” current contributes most directly to:
+
+- **A.** spontaneous diastolic depolarization
+- **B.** ventricular plateau only
+- **C.** clot formation
+- **D.** skeletal muscle tetanus
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+If contributes to the slow pacemaker depolarization.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The unstable membrane potential drifts toward threshold rather than remaining at a fixed resting value.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 11 — Conduction {#w07-mc11}
+
+Which sequence is correct?
+
+- **A.** AV node → SA node → Purkinje fibers
+- **B.** SA node → AV node → His/bundle branches → Purkinje fibers
+- **C.** Purkinje fibers → atria → SA node
+- **D.** ventricles → SA node → AV node
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+SA node initiates; AV node delays; His–Purkinje distributes to ventricles.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This ordered conduction supports atrial contraction before coordinated ventricular contraction.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 12 — AV delay {#w07-mc12}
+
+The AV nodal delay is physiologically useful because it:
+
+- **A.** allows ventricular filling after atrial activation
+- **B.** prevents atrial depolarization entirely
+- **C.** causes semilunar valves to remain open
+- **D.** stops the SA node
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+It provides time for atria to contract and ventricles to fill before ventricular systole.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Without appropriate delay, atrial and ventricular contractions would overlap more and reduce filling efficiency.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 13 — ECG {#w07-mc13}
+
+The P wave represents:
+
+- **A.** atrial depolarization
+- **B.** ventricular depolarization
+- **C.** ventricular repolarization
+- **D.** atrial contraction force
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+P wave = atrial depolarization.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Electrical depolarization precedes the mechanical atrial contraction it initiates.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 14 — ECG {#w07-mc14}
+
+The QRS complex represents:
+
+- **A.** atrial depolarization
+- **B.** ventricular depolarization
+- **C.** ventricular repolarization
+- **D.** AV valve closure only
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+QRS = ventricular depolarization.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Atrial repolarization occurs around the same time but is usually obscured by the much larger ventricular signal.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 15 — ECG {#w07-mc15}
+
+The T wave represents:
+
+- **A.** ventricular repolarization
+- **B.** atrial depolarization
+- **C.** SA node firing only
+- **D.** ventricular filling volume
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+T wave = ventricular repolarization.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The ECG records electrical events, not pressure or volume directly.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 16 — ECG interpretation {#w07-mc16}
+
+An ECG directly measures:
+
+- **A.** surface electrical potential differences generated by cardiac activity
+- **B.** ventricular pressure
+- **C.** stroke volume
+- **D.** valve opening area
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+ECG is an electrical recording.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Mechanical events follow electrical activation but must be inferred or measured by other techniques.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 17 — Cardiac cycle {#w07-mc17}
+
+During isovolumetric ventricular contraction:
+
+- **A.** AV and semilunar valves are both closed
+- **B.** all valves are open
+- **C.** ventricular volume rises rapidly
+- **D.** ventricular pressure falls
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Both valve sets are closed while pressure rises at constant volume.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The phase begins after AV valve closure and ends when ventricular pressure exceeds arterial pressure and semilunar valves open.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 18 — Ejection {#w07-mc18}
+
+The aortic valve opens when:
+
+- **A.** left ventricular pressure exceeds aortic pressure
+- **B.** aortic pressure exceeds left ventricular pressure
+- **C.** left atrial pressure exceeds ventricular pressure
+- **D.** the P wave begins
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+A positive ventricular-to-aortic pressure gradient opens the valve.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Valve motion follows pressure, so timing can be predicted from pressure curves on the Wiggers diagram.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 19 — Filling {#w07-mc19}
+
+The mitral valve opens when:
+
+- **A.** left ventricular pressure falls below left atrial pressure
+- **B.** left ventricular pressure exceeds aortic pressure
+- **C.** aortic pressure is maximal
+- **D.** the QRS begins regardless of pressure
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+The AV valve opens when atrial pressure exceeds ventricular pressure.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This ends isovolumetric relaxation and begins ventricular filling.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 20 — Stroke volume {#w07-mc20}
+
+If EDV = 130 mL and ESV = 50 mL, stroke volume is:
+
+- **A.** 50 mL
+- **B.** 80 mL
+- **C.** 130 mL
+- **D.** 180 mL
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+SV = EDV − ESV = 80 mL.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Stroke volume is the amount ejected per beat, not the amount remaining after systole.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 21 — Cardiac output {#w07-mc21}
+
+A heart rate of 75 beats/min and SV of 80 mL/beat gives CO closest to:
+
+- **A.** 0.6 L/min
+- **B.** 6.0 L/min
+- **C.** 60 L/min
+- **D.** 155 L/min
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+CO = 75 × 80 mL/min = 6000 mL/min = 6.0 L/min.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Always convert mL to L if the requested unit is L/min.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 22 — Frank-Starling {#w07-mc22}
+
+The Frank–Starling mechanism predicts that, within physiological limits, increased EDV tends to:
+
+- **A.** increase stroke volume
+- **B.** stop pacemaker firing
+- **C.** decrease ventricular stretch to zero
+- **D.** close all valves
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Greater filling/stretch increases contraction force and SV.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This intrinsic mechanism helps match output to venous return.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 23 — Chronotropy {#w07-mc23}
+
+A positive chronotropic effect means:
+
+- **A.** increased heart rate
+- **B.** increased contractile force at the same fiber length
+- **C.** increased blood viscosity
+- **D.** decreased venous return
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Chronotropy refers to heart rate.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Sympathetic stimulation is positively chronotropic; parasympathetic vagal activity is negatively chronotropic.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 24 — Inotropy {#w07-mc24}
+
+A positive inotropic effect means:
+
+- **A.** increased myocardial contractility
+- **B.** reduced heart rate only
+- **C.** reduced blood volume
+- **D.** increased sensory firing
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+Inotropy refers to contractile strength independent of preload.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Sympathetic β1 signalling increases Ca²⁺ handling and can reduce ESV, thereby raising SV.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 25 — Sympathetic effect {#w07-mc25}
+
+Sympathetic stimulation of ventricular myocytes increases contractility mainly by:
+
+- **A.** increasing intracellular Ca2+ availability
+- **B.** blocking all L-type Ca2+ channels
+- **C.** removing troponin
+- **D.** decreasing SR Ca2+ uptake permanently
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+β1 signalling enhances Ca²⁺ entry and SR cycling.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+More Ca²⁺ available to troponin increases cross-bridge activation and contraction force.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 26 — Heart sounds {#w07-mc26}
+
+The first heart sound (S1) is associated primarily with:
+
+- **A.** AV valve closure
+- **B.** semilunar valve opening
+- **C.** atrial depolarization
+- **D.** aortic recoil only
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+S1 occurs around closure of the AV valves at the start of ventricular systole.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The sound arises from vibrations generated by abrupt changes in flow/valve-associated structures, not from valve leaflets simply “slapping.”
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 27 — PV loop {#w07-mc27}
+
+End-systolic volume is the ventricular volume:
+
+- **A.** just before ventricular contraction
+- **B.** remaining after ejection
+- **C.** entering the atrium per minute
+- **D.** at the peak of the P wave only
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: B.**
+
+ESV is the amount remaining in the ventricle after systole/ejection.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+EDV is the maximum filled volume before contraction; SV is the difference between EDV and ESV.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 28 — Integration {#w07-mc28}
+
+If heart rate rises while stroke volume remains unchanged, cardiac output will:
+
+- **A.** rise
+- **B.** fall
+- **C.** remain identical
+- **D.** become zero
+
+::: {.callout-tip collapse="true" title="Answer"}
+**Correct answer: A.**
+
+CO = HR × SV, so increasing HR raises CO if SV is constant.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+In real physiology very high HR can reduce filling and SV, but the question explicitly holds SV constant.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+# Part B — Short Response
+
+### Question 29 — Cardiac vs skeletal {#w07-sr01}
+
+Compare cardiac contractile cells with skeletal muscle fibers in cell shape, coupling, Ca²⁺ source, and functional consequence.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Cardiac cells are branched, electrically coupled by gap junctions, depend on extracellular trigger Ca²⁺ plus SR release, and cannot tetanize; skeletal fibers are long multinucleated cells, individually innervated, and use mechanically coupled SR release.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+A high-quality comparison links structure to function: electrical coupling coordinates the heart, and the long cardiac AP prevents tetanus so pumping can alternate with filling.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 30 — Cardiac E-C coupling {#w07-sr02}
+
+Trace excitation–contraction coupling in a ventricular myocyte.
+
+::: {.callout-tip collapse="true" title="Answer"}
+AP → L-type Ca²⁺ entry → RyR-mediated SR Ca²⁺ release → troponin activation → cross-bridge cycling; relaxation via SERCA and Ca²⁺ extrusion.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The extracellular Ca²⁺ influx is a trigger rather than the entire contractile Ca²⁺ supply. This distinguishes cardiac from skeletal E-C coupling.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 31 — Blood flow {#w07-sr03}
+
+Trace one red blood cell from the vena cava through the heart, lungs, and back to the aorta.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Vena cava → RA → tricuspid → RV → pulmonary valve → pulmonary artery → lungs → pulmonary veins → LA → mitral → LV → aortic valve → aorta.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+This sequence tests chambers, valves, and vessels together. Remember arteries/veins are named by direction relative to the heart, not oxygen content.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 32 — Action potential {#w07-sr04}
+
+Explain the major ionic logic of a ventricular action potential and why its duration matters.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Fast depolarization, early repolarization, Ca²⁺-supported plateau, K⁺-mediated repolarization; long duration creates long refractory period and prevents tetanus.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The functional reason for the plateau is as important as ion names: the heart must relax between beats to refill.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 33 — Pacemaker {#w07-sr05}
+
+Explain how SA nodal cells spontaneously reach threshold and how autonomic input can alter heart rate.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Unstable pacemaker potential driven by If and changing Ca²⁺/K⁺ currents reaches threshold; sympathetic input steepens pacemaker depolarization, parasympathetic input slows it/hyperpolarizes.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Changing the slope and starting voltage of the pacemaker potential changes how quickly threshold is reached, thereby changing beat frequency.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 34 — Conduction {#w07-sr06}
+
+Trace the cardiac conduction pathway and explain the role of AV nodal delay.
+
+::: {.callout-tip collapse="true" title="Answer"}
+SA node → atria → AV node → His → bundle branches → Purkinje → ventricles; AV delay allows atrial emptying and ventricular filling before ventricular contraction.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The conduction system is not merely a list: its timing organizes pump mechanics.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 35 — ECG {#w07-sr07}
+
+Relate P, QRS, and T waves to electrical events and subsequent mechanical events.
+
+::: {.callout-tip collapse="true" title="Answer"}
+P = atrial depolarization → atrial contraction; QRS = ventricular depolarization → ventricular contraction; T = ventricular repolarization → relaxation.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Electrical events precede mechanical events. The ECG therefore helps time the Wiggers diagram but does not directly record pressure or contraction.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 36 — Wiggers {#w07-sr08}
+
+Draw or describe a Wiggers diagram for one left-heart cycle, including ECG, atrial pressure, ventricular pressure, aortic pressure, LV volume, valve events, and heart sounds.
+
+::: {.callout-tip collapse="true" title="Answer"}
+A complete answer aligns P/QRS/T with filling, isovolumetric contraction, ejection, isovolumetric relaxation; shows mitral/aortic opening/closing and S1/S2.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Use pressure crossings to decide valve events. Use volume constancy to identify isovolumetric phases. This is the most reliable way to build the diagram rather than memorizing a picture.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 37 — Pressure-volume {#w07-sr09}
+
+Explain why ventricular volume stays constant during both isovolumetric contraction and isovolumetric relaxation.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Both inlet and outlet valves are closed during each isovolumetric phase, so pressure changes without blood entering or leaving.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The two phases differ in direction of pressure change: rising after AV valve closure versus falling after semilunar valve closure.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 38 — Cardiac output {#w07-sr10}
+
+Define EDV, ESV, SV, HR, and CO and give the two key equations.
+
+::: {.callout-tip collapse="true" title="Answer"}
+SV = EDV − ESV; CO = HR × SV. EDV is filled volume before systole, ESV volume remaining after ejection.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+These definitions let you reason through any problem involving changes in filling, contractility, or heart rate.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 39 — Frank-Starling {#w07-sr11}
+
+Explain the Frank–Starling relationship and distinguish it from sympathetic inotropy.
+
+::: {.callout-tip collapse="true" title="Answer"}
+Frank–Starling: more filling/preload increases force/SV because of greater fiber stretch; inotropy changes force at a given preload through altered Ca²⁺ handling.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+Both can raise SV but by different mechanisms. One is an intrinsic length-dependent property; the other changes contractile state.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::
+
+### Question 40 — Application {#w07-sr12}
+
+Predict the effect of a β1-adrenergic agonist on SA node, ventricular contractility, ESV, SV, and CO.
+
+::: {.callout-tip collapse="true" title="Answer"}
+HR and contractility increase; stronger ejection tends to lower ESV and increase SV, so CO rises.
+:::
+
+::: {.callout-note .question-explanation collapse="true" title="Explanation"}
+The answer should connect receptor-level sympathetic signalling to both chronotropy and inotropy, then propagate those effects through CO = HR × SV.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
+:::

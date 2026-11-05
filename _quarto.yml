@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "study-guides/"
+    - "practice/"
+
+website:
+  title: "Human Physiology — Part II"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: study-guides/index.qmd
+        text: Weekly Study Guides
+      - href: practice/index.qmd
+        text: Practice Questions
+  page-footer:
+    center: "BPK205 — Introduction to Human Physiology, Part II"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
+    css: styles.css
+
+execute:
+  freeze: auto

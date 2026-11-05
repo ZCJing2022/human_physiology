@@ -1,0 +1,45 @@
+---
+title: "Lecture-Objective and Review-Theme Coverage"
+---
+
+This page documents the coverage rule used to construct the weekly banks. The lecture presentations are the scope authority; end-of-lecture Chapter Review assignments are treated as high-priority themes and are paraphrased rather than reproduced verbatim.
+
+## Week 5 — Lectures 13–14
+
+- General sensory pathways, receptor classes, transduction, adequate stimulus, receptor potentials → MCQ 1–10; SR 1–3
+- Receptive fields, lateral inhibition, intensity/duration coding, adaptation → MCQ 5, 9–11, 25–27; SR 2–3, 12
+- Somatic senses, proprioception, pain/referred pain → MCQ 2, 12–13; SR 4–5
+- Olfaction and Golf/cAMP signalling → MCQ 15–16; SR 6
+- Taste qualities and transduction strategies → MCQ 14, 17; SR 7
+- Hearing, cochlear transduction, pitch/loudness, auditory pathway → MCQ 18–24; SR 8–10
+- Assigned Chapter 10 higher-level comparison/drawing themes → SR 11–12
+
+## Week 6 — Lectures 15–17
+
+- Eye anatomy, refraction, accommodation, visual problems → MCQ 1–4; SR 1
+- Retina, rods/cones, receptive fields, phototransduction, visual pathway → MCQ 5–9, 27; SR 2–4
+- Somatic motor organization and NMJ → MCQ 10–11, 28; SR 5
+- Muscle hierarchy and sarcomere proteins → MCQ 12–14, 25–26; SR 6
+- Ca²⁺ regulation, cross-bridge cycle, sliding filament, E-C coupling, relaxation → MCQ 15–19; SR 7–9, 12
+- Twitch, summation/tetanus, motor units/recruitment, length–tension → MCQ 20–24; SR 10–11
+
+## Week 7 — Lectures 18–20
+
+- Cardiac myocytes, pacemaker cells, intercalated discs, E-C coupling → MCQ 1–4; SR 1–2
+- Heart anatomy, valves, unidirectional flow → MCQ 5–6; SR 3
+- Ventricular and pacemaker action potentials, refractory period → MCQ 7–10; SR 4–5
+- Conduction system and AV delay → MCQ 11–12; SR 6
+- ECG components and interpretation → MCQ 13–16; SR 7
+- Wiggers diagram, valve events, heart sounds, pressure-volume logic → MCQ 17–19, 26–27; SR 8–9
+- SV, CO, Frank–Starling, chronotropy, inotropy, sympathetic control → MCQ 20–25, 28; SR 10–12
+
+## Week 8 — Lectures 21–23
+
+- Vessel types, flow/pressure/resistance, velocity → MCQ 1–4; SR 1–3
+- Capillary exchange and lymphatics → MCQ 5–6; SR 4
+- Arterial pressure reservoir, MAP calculation/determinants, blood volume → MCQ 7–10; SR 5, 8
+- Myogenic, metabolic, and sympathetic arteriolar control → MCQ 11–13; SR 6
+- Baroreceptors and baroreceptor reflex → MCQ 14–17; SR 7–8
+- Blood composition, plasma proteins, hematopoiesis, EPO, RBCs, anemia → MCQ 18–23; SR 9–10
+- Hemostasis/coagulation and ABO/Rh → MCQ 24–27; SR 11–12
+- Midterm constraint that Lectures 22–23 are MCQ-only → MCQ 28; applied to all three practice exams

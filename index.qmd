@@ -1,0 +1,25 @@
+---
+title: "Human Physiology — Part II"
+---
+
+## About this site
+
+This site supports review and **Midterm 2** preparation for **BPK205 Part II**. It has two deliberately focused components:
+
+- [**Weekly Study Guides**](study-guides/index.qmd) — detailed explanations organized by the concepts emphasized in each weekly lecture.
+- [**Practice Questions**](practice/index.qmd) — weekly 70/30 banks of multiple-choice and short-response questions, plus three 50-minute practice exams.
+
+## How the materials are built
+
+The **lecture presentations are the authority for scope**. Their lecture objectives, lecture content, and final-slide review-question assignments determine what belongs in each week. Detailed explanations are supported by the assigned chapters in Silverthorn, *Human Physiology: An Integrated Approach* (2019). Tutorial and Canvas-quiz materials are used to reinforce application and question style.
+
+Every weekly practice bank contains **70% multiple-choice questions and 30% short-response questions**. Every answer is hidden initially. Click **Answer** for the key and **Explanation** for the physiological reasoning.
+
+The three practice exams follow the supplied Midterm 2 instructions: **50 minutes**, covering **Lectures 13–23**, with content from **Lectures 22 and 23 assessed only by MCQ**.
+
+## Part II sequence
+
+- **Week 5:** Sensory Physiology I–II — general sensory principles, somatic senses, olfaction, taste, and hearing
+- **Week 6:** Sensory Physiology III and Skeletal Muscle — vision, neuromuscular transmission, and muscle contraction
+- **Week 7:** Cardiac Foundations I–III — cardiac cells, electrical activity, ECG, cardiac cycle, and cardiac output
+- **Week 8:** Vascular Foundations and Blood — flow, pressure, capillary exchange, MAP regulation, baroreflex, and blood

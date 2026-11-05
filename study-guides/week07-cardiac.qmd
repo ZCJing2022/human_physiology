@@ -1,0 +1,52 @@
+---
+title: "Week 7 — Cardiac Foundations I–III"
+subtitle: "Cardiac cells, electrical activity, ECG, cardiac cycle, and cardiac output"
+---
+
+## How to use this guide
+
+Lectures 18–20 build from cardiac-cell physiology to the whole cardiac cycle:
+
+<div class="key-chain">**autorhythmicity → conduction → contractile-cell AP → Ca²⁺-induced Ca²⁺ release → ECG → pressure/volume changes → stroke volume → cardiac output**</div>
+
+## 1. Two functional cardiac cell populations
+
+Most cardiac cells are **contractile myocytes** that generate force. A smaller population consists of **autorhythmic (pacemaker) cells** that spontaneously depolarize and organize the heartbeat. Cardiac myocytes are striated and branched, usually have one central nucleus, and are connected by intercalated discs. Gap junctions provide low-resistance electrical connections; desmosomes provide mechanical strength.
+
+## 2. Cardiac excitation–contraction coupling
+
+A ventricular action potential opens L-type Ca²⁺ channels in the sarcolemma/T-tubules. The entering Ca²⁺ triggers ryanodine receptors on the SR to release much more Ca²⁺—**Ca²⁺-induced Ca²⁺ release**. Ca²⁺ binds troponin and permits cross-bridge cycling. Relaxation requires Ca²⁺ removal by SERCA into the SR and by membrane transporters such as the Na⁺/Ca²⁺ exchanger. Unlike skeletal muscle, extracellular Ca²⁺ entry is an essential trigger.
+
+## 3. Heart anatomy and one-way flow
+
+Blood flows right atrium → right ventricle → pulmonary arteries → lungs → pulmonary veins → left atrium → left ventricle → aorta. Atrioventricular valves prevent backflow into atria; semilunar valves prevent backflow from great arteries into ventricles. Valves open and close **because of pressure differences**, not because they actively contract.
+
+## 4. Ventricular and pacemaker action potentials
+
+The ventricular contractile-cell action potential has a rapid depolarization, an early repolarization, a prolonged **plateau** due largely to Ca²⁺ entry balanced by K⁺ movement, and final repolarization. The long action potential creates a long refractory period, preventing summation and tetanus—a necessary feature because the heart must relax and refill between beats.
+
+Pacemaker cells do not have a stable resting potential. Their membrane slowly depolarizes because of the **funny current (If)** and changing K⁺/Ca²⁺ conductances until threshold is reached. Ca²⁺ channels contribute to the pacemaker upstroke; K⁺ efflux repolarizes the cell. The SA node normally has the fastest intrinsic rate and therefore sets heart rate.
+
+## 5. Conduction system and ECG
+
+The normal pathway is SA node → atrial myocardium → AV node → AV bundle (bundle of His) → bundle branches → Purkinje fibers → ventricular myocardium. AV nodal delay permits atrial contraction and ventricular filling before ventricular systole.
+
+The ECG is a surface recording of summed electrical activity. The **P wave** represents atrial depolarization; the **QRS complex** ventricular depolarization; the **T wave** ventricular repolarization. Atrial repolarization is usually hidden within the QRS complex. ECG timing and morphology can reveal rate, rhythm, conduction abnormalities, and altered electrical patterns, but it does not directly measure mechanical contraction.
+
+## 6. The cardiac cycle and Wiggers diagram
+
+The Wiggers diagram aligns ECG, atrial pressure, ventricular pressure, aortic pressure, ventricular volume, and heart sounds. Key phases are ventricular filling, isovolumetric contraction, ejection, and isovolumetric relaxation.
+
+During isovolumetric contraction both valve sets are closed; pressure rises while volume stays constant. When ventricular pressure exceeds aortic pressure, the aortic valve opens and ejection begins. When aortic pressure exceeds ventricular pressure, the aortic valve closes and isovolumetric relaxation begins. When ventricular pressure falls below atrial pressure, the AV valve opens and filling begins.
+
+## 7. Stroke volume and cardiac output
+
+$$SV = EDV - ESV$$
+
+$$CO = HR 	imes SV$$
+
+Stroke volume depends on preload/EDV, contractility, and afterload. The **Frank–Starling relationship** means greater ventricular filling stretches cardiac fibers and, within physiological limits, increases contraction force and stroke volume. Sympathetic stimulation increases heart rate (**positive chronotropy**) and contractility (**positive inotropy**), helping raise cardiac output.
+
+## 8. Review priorities
+
+Be able to compare cardiac and skeletal muscle, explain why cardiac muscle cannot tetanize, trace excitation and blood flow, explain cardiac action potentials and pacemaker potentials, relate ECG waves to electrical/mechanical events, interpret the Wiggers diagram, calculate SV/CO, and explain Frank–Starling and sympathetic effects. This covers the assigned Chapter 14 review themes (Level 1: 2–4, 6, 9; Level 2: 10–11, 14–19; Level 3: 26–27).
