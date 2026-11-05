@@ -1,0 +1,54 @@
+name: Review study-site content
+on:
+  push:
+    branches: [enhance/explanations-visuals-20261105]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: content-review
+  cancel-in-progress: true
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Prepare content
+        run: |
+          if [ -f scripts/apply_explanations.py ]; then python3 scripts/apply_explanations.py; fi
+          if [ -f scripts/apply_visuals.py ]; then python3 scripts/apply_visuals.py; fi
+          if [ -f scripts/validate_content.py ]; then python3 scripts/validate_content.py; fi
+      - name: Save generated source on review branch
+        if: github.ref == 'refs/heads/enhance/explanations-visuals-20261105'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add practice study-guides assessment assets 2>/dev/null || git add practice study-guides assessment
+          if ! git diff --cached --quiet; then
+            git commit -m "Apply reviewed explanation and visual content"
+            git push
+          fi
+      - name: Export review source
+        uses: actions/upload-artifact@v4
+        with:
+          name: study-site-source
+          include-hidden-files: true
+          path: |
+            _quarto.yml
+            styles.css
+            *.md
+            *.qmd
+            study-guides/
+            practice/
+            assessment/
+            scripts/
+            assets/
+            .github/workflows/
+      - uses: quarto-dev/quarto-actions/setup@v2
+      - name: Render review website
+        run: quarto render
+      - name: Export rendered review
+        uses: actions/upload-artifact@v4
+        with:
+          name: study-site-preview
+          path: docs/
