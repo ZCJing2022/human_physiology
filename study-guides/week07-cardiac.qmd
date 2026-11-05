@@ -43,7 +43,7 @@ During isovolumetric contraction both valve sets are closed; pressure rises whil
 
 $$SV = EDV - ESV$$
 
-$$CO = HR 	imes SV$$
+$$CO = HR \times SV$$
 
 Stroke volume depends on preload/EDV, contractility, and afterload. The **Frank–Starling relationship** means greater ventricular filling stretches cardiac fibers and, within physiological limits, increases contraction force and stroke volume. Sympathetic stimulation increases heart rate (**positive chronotropy**) and contractility (**positive inotropy**), helping raise cardiac output.
 

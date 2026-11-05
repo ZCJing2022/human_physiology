@@ -33,9 +33,9 @@ $$MAP pprox P_{diastolic} + rac{1}{3}(P_{systolic}-P_{diastolic})$$
 
 A key relationship is:
 
-$$MAP \propto CO 	imes TPR$$
+$$MAP \propto CO \times TPR$$
 
-where total peripheral resistance is dominated by arteriolar resistance. Because $CO=HR	imes SV$, MAP can change through heart rate, stroke volume, arteriolar diameter, and blood volume.
+where total peripheral resistance is dominated by arteriolar resistance. Because $CO=HR\times SV$, MAP can change through heart rate, stroke volume, arteriolar diameter, and blood volume.
 
 ## 5. Local and sympathetic control of arterioles
 
