@@ -35,13 +35,23 @@ jobs:
       - name: Verify rendered answers and explanations
         run: python3 scripts/expand_explanations.py --check --html docs
 
+      - name: Diagnose rendered guide links
+        if: failure()
+        shell: bash
+        run: |
+          if [ -f docs/practice/week05-sensory.html ]; then
+            grep -n -m 5 'study-guides' docs/practice/week05-sensory.html
+          fi
+
       - name: Preserve verification reports and rendered preview
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: explanation-verification
           path: |
             docs/
             practice/
+            study-guides/
             assessment/detailed-explanations/
             assessment/explanation-detail-audit.json
             assessment/explanation-html-audit.json
@@ -50,7 +60,7 @@ jobs:
           retention-days: 30
 
       - name: Commit audited explanation updates
-        if: github.ref == 'refs/heads/main'
+        if: success() && github.ref == 'refs/heads/main'
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
@@ -64,11 +74,11 @@ jobs:
           fi
 
       - name: Configure Pages
-        if: github.ref == 'refs/heads/main'
+        if: success() && github.ref == 'refs/heads/main'
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
-        if: github.ref == 'refs/heads/main'
+        if: success() && github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
