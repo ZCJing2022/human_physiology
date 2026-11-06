@@ -23,7 +23,15 @@ The sensory receptors for hearing are located in the:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-The tympanic membrane and ossicles transmit sound mechanically, but the receptor hair cells that initiate neural signalling are in the cochlea.
+The **organ of Corti**, located in the cochlea, contains the hair cells responsible for auditory transduction, so B is correct. Mechanical movement in the cochlea bends their stereocilia, changes receptor-cell membrane potential, and alters transmitter release onto auditory afferents. These hair cells are therefore the receptors that connect sound-related motion with neural signalling.
+
+The tympanic membrane in C is essential, but its role is mechanical: it vibrates in response to sound and transfers motion to the ossicles. It is not the location of the auditory receptor cells. The auditory cortex in D interprets ascending neural information rather than receiving airborne sound directly.
+
+Semicircular canals in A also contain hair-cell-based receptors, but they belong to the vestibular system and detect angular acceleration of the head. This is a useful contrast: similar receptor-cell designs can serve different sensory functions because they are embedded in different structures. For hearing, choose the **cochlear organ of Corti**, not any structure that happens to contain hair cells.
+
+**Course sources:** Lectures 13–14; Silverthorn (2019), Chapter 10.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
 :::
 
 ### Question 2 — Accommodation
@@ -40,7 +48,15 @@ During accommodation for near vision, the lens becomes:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-A rounder lens has greater refractive power, helping focus diverging rays from a nearby object on the retina.
+Light from a nearby object reaches the eye as more strongly diverging rays than light from a distant object. To focus those rays on the same retina, the eye needs greater refractive power. A **rounder, more convex lens** provides that increased power, so B is correct.
+
+Near accommodation begins when the ciliary muscle contracts. Because it is arranged as a ring, contraction reduces tension in the zonular fibers that suspend the lens. With less outward pull, the lens's own elasticity allows it to become rounder. The muscle does not simply squeeze the lens directly like a hand squeezing a ball.
+
+A flatter lens in A has less refractive power and is associated with distant rather than near focus. Becoming opaque would obstruct vision, not focus the image. The lens also does not move into the retina as in D. The sequence to understand is **ciliary contraction → reduced zonular tension → increased lens curvature → increased focusing power**.
+
+**Course sources:** Lectures 15–17; Silverthorn (2019), Chapters 10 and 12.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
 :::
 
 ### Question 3 — Phototransduction
@@ -57,7 +73,15 @@ In a rod exposed to light, cGMP concentration falls and cation channels:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-Rhodopsin activates transducin and phosphodiesterase, lowering cGMP. This is the crucial “light causes hyperpolarization” concept.
+**B is correct: light lowers cGMP, closes cyclic-nucleotide-gated cation channels, and hyperpolarizes the rod.** Begin with the dark state. In darkness, relatively high cGMP keeps these outer-segment channels open, allowing an inward current that helps maintain the rod at a relatively depolarized voltage.
+
+Light activates rhodopsin, which activates transducin and then phosphodiesterase. Phosphodiesterase breaks down cGMP, so more cation channels close. With less inward positive current while outward K⁺ current continues, the membrane becomes more negative. This hyperpolarization reduces calcium entry at the synaptic terminal and decreases glutamate release.
+
+Option A describes the wrong direction of channel movement and voltage change. The channels do not become nicotinic receptors, and skeletal sarcoplasmic-reticulum calcium release is unrelated to this receptor mechanism. The common mistake is to assume that every sensory stimulus must depolarize its receptor. **Activation of the light-detection cascade produces hyperpolarization**, not depolarization, in rods.
+
+**Course sources:** Lectures 15–17; Silverthorn (2019), Chapters 10 and 12.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
 :::
 
 ### Question 4 — NMJ
@@ -74,7 +98,15 @@ At the neuromuscular junction, ACh binds primarily to:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-These channels allow net cation influx and produce the end-plate potential that triggers a muscle action potential.
+At the skeletal neuromuscular junction, acetylcholine binds **nicotinic ACh receptors**, which are ligand-gated, nonselective cation channels. **B is correct.** At the muscle fiber's resting membrane potential, opening these channels produces a net inward positive current, mainly because sodium entry exceeds the opposing potassium movement. This depolarization is the end-plate potential.
+
+The end-plate potential is graded. If it brings adjacent excitable membrane to threshold, voltage-gated sodium channels generate an all-or-none muscle action potential. The nicotinic receptor therefore initiates the local depolarization but is not itself the voltage-gated channel responsible for propagating the muscle action potential.
+
+Muscarinic M2 receptors in A are important in parasympathetic cardiac signalling, not the skeletal motor end plate. Alpha1 receptors in C respond to adrenergic signalling, and rhodopsin in D initiates phototransduction. The transmitter's name alone is insufficient: **ACh can have different effects depending on the receptor subtype and target cell**.
+
+**Course sources:** Lectures 15–17; Silverthorn (2019), Chapters 10 and 12.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
 :::
 
 ### Question 5 — Cross-bridge cycle
@@ -91,7 +123,15 @@ ATP binding to myosin is required primarily for:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-ATP hydrolysis then re-cocks/energizes the myosin head. Lack of ATP is why rigor develops after death.
+The question specifically asks about **ATP binding**, not ATP hydrolysis. When a new ATP molecule binds to myosin, myosin's affinity for actin decreases and the cross-bridge detaches. **A is correct.** Hydrolysis of that ATP subsequently places the myosin head in an energized, re-cocked state that can participate in another cycle.
+
+If actin sites remain available because calcium is still bound to troponin, the head can reattach. Release of inorganic phosphate is associated with the force-generating transition, and ADP is released as the cycle proceeds. Distinguishing these stages explains why ATP is needed not only for movement but also for releasing myosin from actin.
+
+Calcium, not ATP binding to troponin, exposes the binding sites. Nicotinic receptors respond to ACh, and a motor-neuron action potential is a separate electrical process. In the absence of ATP, attached cross-bridges cannot detach normally, contributing to rigor. Thus **lack of ATP does not simply make every cross-bridge relax**.
+
+**Course sources:** Lectures 15–17; Silverthorn (2019), Chapters 10 and 12.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
 :::
 
 ### Question 6 — E-C coupling
@@ -108,7 +148,15 @@ In skeletal muscle, the voltage sensor that responds to T-tubule depolarization 
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-This coupling rapidly releases stored Ca²⁺ into the cytosol.
+**A is correct because the T-tubule voltage sensor is coupled to ryanodine receptors in the sarcoplasmic reticulum.** In skeletal muscle, depolarization changes the conformation of the dihydropyridine receptor, an L-type calcium-channel protein that acts as the voltage sensor. Mechanical coupling to the SR ryanodine receptor allows stored calcium to be released into the cytosol.
+
+That calcium then binds troponin and permits cross-bridge cycling. The voltage sensor and the calcium-release channel therefore occupy different membranes but work together to connect excitation with contraction.
+
+A particularly important distinction is that normal skeletal-muscle coupling does not require extracellular calcium entry through the L-type channel to provide the immediate trigger in the way cardiac coupling does. The course emphasizes the mechanical link in skeletal muscle. Baroreceptors, olfactory GPCRs, and erythropoietin receptors belong to other physiological systems and cannot fill this role. Locate each component correctly: **voltage sensing in the T-tubule membrane; calcium release from the SR membrane**.
+
+**Course sources:** Lectures 15–17; Silverthorn (2019), Chapters 10 and 12.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
 :::
 
 ### Question 7 — Recruitment
@@ -125,7 +173,15 @@ According to the size principle, increasing force generally recruits:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-As force demand rises, progressively larger motor neurons and units are added.
+The **size principle** describes the usual order in which motor units are recruited as neural drive increases: smaller, lower-threshold motor neurons tend to be activated before larger ones. **B is correct.** Small motor units are often associated with fatigue-resistant fibers and make relatively modest increments of force, which is useful for posture and precise movement.
+
+As the demand for force rises, additional and progressively larger motor units are brought into activity. Larger units contain more fibers and can add greater force. The nervous system can simultaneously increase firing rates in already recruited units, so recruitment and frequency coding can cooperate.
+
+Option A reverses the usual order. Option C removes the graded control that orderly recruitment provides; activating every unit at once would make fine adjustment difficult. Sensory neurons in D carry input and are not the motor units being recruited. The term size principle refers primarily to the relationship among **motor-neuron size, recruitment threshold, and unit properties**, not simply the physical length of a muscle.
+
+**Course sources:** Lectures 15–17; Silverthorn (2019), Chapters 10 and 12.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
 :::
 
 ### Question 8 — Cardiac E-C coupling
@@ -142,7 +198,15 @@ In ventricular myocytes, Ca2+ entering through L-type channels primarily:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-Cardiac contraction depends on extracellular Ca²⁺ entry as the trigger for much larger SR Ca²⁺ release.
+In a ventricular myocyte, depolarization opens L-type calcium channels in the surface and T-tubule membranes. The entering calcium activates nearby ryanodine receptors in the SR, producing additional calcium release into the cytosol. **A is correct: this is calcium-induced calcium release.**
+
+The extracellular calcium acts as a trigger and also contributes to the calcium signal, but the SR supplies a substantial additional amount. The resulting rise in cytosolic Ca²⁺ activates troponin, permits actin–myosin interaction, and produces force. This sequence explains why calcium-channel activity strongly influences cardiac contractility.
+
+Nicotinic ACh receptors in B belong to skeletal neuromuscular transmission, not the cardiac release mechanism. Permanent closure of every potassium channel is neither required nor compatible with normal repolarization. Calcium does not become the iron in hemoglobin. Contrast this mechanism with skeletal muscle, where the immediate SR-release trigger is mechanical coupling to a voltage sensor rather than a requirement for incoming calcium to trigger release.
+
+**Course sources:** Lectures 18–20; Silverthorn (2019), Chapter 14.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
 :::
 
 ### Question 9 — Tetanus prevention
@@ -159,7 +223,15 @@ Cardiac muscle normally cannot be tetanized because:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-A second action potential cannot be triggered early enough to summate contractions into tetanus, preserving time for filling.
+**B is correct: the ventricular action potential and refractory period last through much of the mechanical contraction.** During the effective refractory period, the membrane cannot be excited again in the normal way, largely because the channels needed for another propagated action potential have not fully recovered. A second contraction therefore cannot be triggered early enough to build the sustained summation characteristic of skeletal-muscle tetanus.
+
+This timing is essential for pump function. The heart must alternate contraction with relaxation so that its chambers can refill. A continuously contracted ventricle would not provide effective repeated filling and ejection.
+
+Cardiac muscle does contain actin and uses calcium to activate cross-bridges, so A and C are wrong. It also receives autonomic innervation, making D false. Autonomic input adjusts heart rate and contractile state but is not the reason tetanus is normally prevented. Compare the short skeletal action potential with the much longer skeletal twitch: that timing permits summation, whereas the cardiac electrical and refractory events occupy much more of the contraction.
+
+**Course sources:** Lectures 18–20; Silverthorn (2019), Chapter 14.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
 :::
 
 ### Question 10 — Conduction
@@ -176,7 +248,15 @@ Which sequence is correct?
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-This ordered conduction supports atrial contraction before coordinated ventricular contraction.
+**B gives the normal order of the specialized cardiac conduction pathway.** The SA node initiates excitation, which spreads through the atria and reaches the AV node. After the AV nodal delay, excitation passes through the bundle of His, the right and left bundle branches, and Purkinje fibers, which distribute it rapidly through the ventricular myocardium.
+
+This is a timing system as well as an anatomical route. Atrial activation precedes ventricular activation, allowing the atria to contribute to ventricular filling. Rapid ventricular distribution then supports coordinated contraction rather than a slow, disorganized wave through the pumping chamber.
+
+The other sequences reverse the normal origin or omit the required order. Under abnormal circumstances a different region can act as a pacemaker, but the question asks for the usual sequence. Electrical spread does not itself describe blood movement through the chambers: **conduction organizes contraction, and contraction then generates the pressure gradients that move blood**. Keeping the electrical route separate from the circulation route makes both easier to learn.
+
+**Course sources:** Lectures 18–20; Silverthorn (2019), Chapter 14.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
 :::
 
 ### Question 11 — ECG
@@ -193,7 +273,15 @@ The P wave represents:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-Electrical depolarization precedes the mechanical atrial contraction it initiates.
+**The P wave represents atrial depolarization**, making A correct. It is part of a surface recording of the heart's electrical activity. After atrial cells depolarize, their excitation–contraction coupling raises cytosolic calcium and the atria contract, contributing to ventricular filling.
+
+The sequence is therefore electrical activation first and mechanical contraction afterward. The P wave is not a direct measure of atrial force, even though its timing is associated with the atrial contraction that follows. Atrial force would require a mechanical measurement rather than simply reading the height of the P wave.
+
+Ventricular depolarization corresponds to the QRS complex, while ventricular repolarization corresponds to the T wave. Those assignments eliminate B and C. When using an ECG beside a Wiggers diagram, use the P wave as a timing reference for atrial activation, then separately follow pressure and volume changes. Do not rename an electrical waveform after the mechanical event it helps initiate.
+
+**Course sources:** Lectures 18–20; Silverthorn (2019), Chapter 14.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
 :::
 
 ### Question 12 — Cardiac cycle
@@ -210,7 +298,15 @@ During isovolumetric ventricular contraction:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-The phase begins after AV valve closure and ends when ventricular pressure exceeds arterial pressure and semilunar valves open.
+During **isovolumetric ventricular contraction**, the ventricle is generating increasing pressure but has not yet begun ejecting blood. The AV valves have closed because ventricular pressure has exceeded atrial pressure. The semilunar valves remain closed because ventricular pressure has not yet exceeded the pressure in the outflow artery. Therefore **A is correct: both valve sets are closed**.
+
+With no significant inflow or outflow in the normal idealized cycle, ventricular volume remains at end-diastolic volume even though the muscle is developing force. When ventricular pressure finally exceeds arterial pressure, the semilunar valve opens and the ejection phase begins.
+
+All valves cannot be open during this phase, and ventricular volume does not rise rapidly because filling has ended. Pressure rises rather than falls, so D describes the wrong direction. The prefix iso means the volume remains the same; it does **not** mean that pressure, electrical activity, or muscle tension is unchanged.
+
+**Course sources:** Lectures 18–20; Silverthorn (2019), Chapter 14.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
 :::
 
 ### Question 13 — Stroke volume
@@ -227,7 +323,17 @@ If EDV = 130 mL and ESV = 50 mL, stroke volume is:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-Stroke volume is the amount ejected per beat, not the amount remaining after systole.
+Stroke volume is the volume ejected by one ventricle during one beat. **End-diastolic volume (EDV)** is the amount present just before contraction, while **end-systolic volume (ESV)** is the amount left after ejection. Subtract the remaining volume from the starting volume:
+
+$$SV = EDV - ESV = 130\;\text{mL} - 50\;\text{mL} = 80\;\text{mL/beat}.$$
+
+**B is correct.** A simple check is to imagine a chamber containing 130 mL before ejection and 50 mL afterward: the missing 80 mL is what left the chamber during that beat.
+
+Option A gives the volume left behind, not the amount ejected. Option C gives the starting volume and would imply complete emptying if treated as stroke volume. Option D adds the volumes even though they describe the same chamber at different times. The ventricle normally retains blood after systole, so stroke volume is not synonymous with total ventricular volume.
+
+**Course sources:** Lectures 18–20; Silverthorn (2019), Chapter 14.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
 :::
 
 ### Question 14 — Frank-Starling
@@ -244,7 +350,15 @@ The Frank–Starling mechanism predicts that, within physiological limits, incre
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-This intrinsic mechanism helps match output to venous return.
+The **Frank–Starling mechanism** describes the intrinsic response of cardiac muscle to greater filling. Increased EDV generally increases myocardial stretch before contraction. Within the normal operating range and at a comparable contractile state and afterload, the subsequent contraction ejects a larger stroke volume. **A is correct.**
+
+Length-dependent activation helps the heart adjust output to the amount of blood returning to it. This is not merely a command from the sympathetic nervous system; the working myocardium itself responds to its initial filling condition. The response also helps the two sides of the heart maintain matched average outputs.
+
+The alternatives do not follow from increased filling. Pacemaker activity does not normally stop, myocardial stretch does not fall to zero, and all valves do not remain closed. The phrase **within physiological limits** matters: it does not claim that unlimited distension produces unlimited improvement. Distinguish this filling-dependent effect from positive inotropy, which increases contractile performance at a given preload rather than requiring more filling first.
+
+**Course sources:** Lectures 18–20; Silverthorn (2019), Chapter 14.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
 :::
 
 ### Question 15 — Inotropy
@@ -261,7 +375,15 @@ A positive inotropic effect means:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-Sympathetic β1 signalling increases Ca²⁺ handling and can reduce ESV, thereby raising SV.
+**Positive inotropy means increased myocardial contractility**, making A correct. It describes a change in the muscle's contractile state rather than an increase in force explained solely by greater initial filling. With preload and afterload comparable, a more strongly activated ventricle can eject more completely, leaving a smaller ESV and producing a larger stroke volume.
+
+Sympathetic β1 signalling is a familiar example. It enhances calcium entry and intracellular calcium cycling, increasing the calcium available to activate the myofilaments during a beat. This can strengthen contraction even when the ventricle starts at the same EDV.
+
+A change in rate alone is chronotropy, not inotropy. Reduced blood volume primarily changes filling conditions, and sensory firing is not a definition of cardiac contractility. The key comparison is with Frank–Starling behavior: **Frank–Starling changes output through filling and length; inotropy changes contractile performance at a given preload**. Both may increase stroke volume, but the mechanisms are not interchangeable.
+
+**Course sources:** Lectures 18–20; Silverthorn (2019), Chapter 14.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
 :::
 
 ### Question 16 — MAP
@@ -278,7 +400,21 @@ For a BP of 120/75 mmHg, approximate MAP is:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-At normal HR, MAP is approximated by diastolic pressure plus one-third pulse pressure because diastole lasts longer than systole.
+First calculate **pulse pressure**, the difference between systolic and diastolic pressure:
+
+$$PP = 120 - 75 = 45\;\text{mmHg}.$$
+
+At an ordinary resting heart rate, the course approximation is:
+
+$$MAP \approx DBP + \frac{PP}{3} = 75 + \frac{45}{3} = 90\;\text{mmHg}.$$
+
+**B is correct.** Mean arterial pressure is a time average over the cardiac cycle. Because diastole normally occupies more of the cycle than systole, the mean lies closer to the diastolic value; it is not simply the arithmetic midpoint of 120 and 75.
+
+The answer 120 mmHg gives the systolic peak, 195 mmHg adds unlike points in the cycle without averaging, and 60 mmHg lies below the given diastolic value. A useful check is that the estimated mean should fall between 75 and 120 mmHg. The one-third formula is an approximation whose accuracy depends on the pressure waveform and heart rate, not an exact identity for every physiological condition.
+
+**Course sources:** Lectures 21–23; Silverthorn (2019), Chapters 15 and 16.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
 :::
 
 ### Question 17 — MAP determinants
@@ -295,7 +431,15 @@ A useful relationship for mean arterial pressure is:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-This relationship organizes the cardiovascular reflex responses to blood-pressure changes.
+**A identifies the relationship between mean arterial pressure, cardiac output, and total peripheral resistance.** Starting from Q = ΔP/R for the systemic circulation gives MAP − right atrial pressure = CO × TPR. Because right atrial pressure is usually small relative to MAP, the course commonly simplifies this to MAP ≈ CO × TPR.
+
+This equation explains why pressure depends on both the amount of blood pumped per minute and the resistance opposing its flow. Greater CO at a fixed TPR tends to raise MAP; greater TPR at a fixed CO also tends to raise MAP. In the intact circulation, the variables can change together, so the assumptions matter.
+
+EDV − ESV in B defines stroke volume, not pressure. HR/SV in C is not the cardiac-output relationship, which uses multiplication. Subtracting plasma and red cells in D does not yield a pressure. Connecting **CO = HR × SV** with the MAP relationship provides a framework for following how cardiac, vascular, and volume changes affect arterial pressure.
+
+**Course sources:** Lectures 21–23; Silverthorn (2019), Chapters 15 and 16.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
 :::
 
 ### Question 18 — Baroreceptors
@@ -312,7 +456,15 @@ Major arterial baroreceptors are located in the:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-Their firing changes rapidly with arterial pressure and provides sensory input for short-term MAP regulation.
+The main arterial baroreceptor regions are the **carotid sinus and aortic arch**, making A correct. These sensory endings respond to stretch of the arterial wall. As arterial pressure changes, wall stretch changes, altering their afferent firing and informing brainstem cardiovascular circuits about the pressure state.
+
+Carotid sinus signals travel mainly through glossopharyngeal pathways, and aortic arch signals through vagal pathways, to medullary processing centers. The resulting reflex can adjust heart rate, contractility, and vascular tone rapidly. The receptors are therefore sensors in a feedback loop, not structures that generate the corrective motor commands themselves.
+
+The coronary sinus and vena cava in B are not the principal arterial high-pressure sensor sites requested. Ventricular receptors in C do not replace the carotid and aortic arterial sensors. The cochlea in D contains auditory receptors. Also distinguish the carotid sinus from the nearby carotid body: the sinus is associated with arterial stretch sensing, whereas the body is associated with chemical sensing.
+
+**Course sources:** Lectures 21–23; Silverthorn (2019), Chapters 15 and 16.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
 :::
 
 ### Question 19 — Low MAP reflex
@@ -329,7 +481,15 @@ A sudden fall in MAP causes baroreceptor firing to:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-The medulla responds by increasing sympathetic and reducing parasympathetic activity.
+**A is correct: a fall in arterial pressure reduces wall stretch and usually decreases arterial baroreceptor firing.** The sensory endings report the changed mechanical condition through a lower rate of afferent action potentials. Individual spikes do not become smaller to encode the pressure fall; the firing pattern changes.
+
+The medullary cardiovascular circuits respond to this reduced afferent input by increasing sympathetic activity and reducing parasympathetic influence on the heart. Those outputs help raise heart rate, strengthen contraction, and increase vascular tone, opposing the initial pressure decrease.
+
+A common mistake is to jump directly to the compensatory increase in sympathetic activity and assume that the sensory receptor must also increase its firing. The two changes are opposite: **less baroreceptor input leads to more sympathetic corrective output**. Increased firing in B would be more consistent with greater arterial stretch. Fixed firing in C would not report the disturbance, and sensory afferent activity does not become motor output in D; the CNS processes input before producing a separate output.
+
+**Course sources:** Lectures 21–23; Silverthorn (2019), Chapters 15 and 16.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
 :::
 
 ### Question 20 — Plasma proteins
@@ -346,7 +506,15 @@ The most abundant plasma protein is generally:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-It contributes strongly to plasma colloid osmotic pressure and also serves transport roles.
+**Albumin is the most abundant plasma protein**, so A is correct. It contributes strongly to plasma colloid osmotic, or oncotic, pressure because protein molecules retained within the vascular compartment influence water distribution across capillary walls. Albumin also binds and transports various substances in the blood.
+
+Fibrin in B is the insoluble material formed during clotting; the soluble circulating precursor is fibrinogen. Neither should replace albumin as the normal most-abundant plasma protein. Hemoglobin in C is primarily contained inside erythrocytes rather than freely dissolved as the principal plasma protein. Myosin in D is a contractile motor protein, not the main circulating plasma protein.
+
+The question therefore tests both abundance and compartment. A protein can be plentiful in whole blood because it is packed inside cells without being the most abundant protein of plasma. Relate albumin to **plasma transport and fluid balance**, hemoglobin to **red-cell gas transport**, and fibrin to **clot stabilization** to keep their roles distinct.
+
+**Course sources:** Lectures 21–23; Silverthorn (2019), Chapters 15 and 16.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
 :::
 
 ### Question 21 — Erythropoietin
@@ -363,7 +531,15 @@ Erythropoietin is produced mainly by the kidneys in response to:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-EPO acts on bone-marrow precursors to increase erythrocyte production over days rather than seconds.
+**Reduced oxygen availability in the kidney stimulates erythropoietin production**, so A is correct. Erythropoietin, or EPO, enters the circulation and acts on erythroid precursors in bone marrow, supporting their survival and development into red blood cells. The resulting increase in red-cell production can improve the blood's oxygen-carrying capacity.
+
+This is a homeostatic response to oxygen delivery, not simply a direct count of red cells by the kidney. Oxygen availability depends on several factors, including hemoglobin content and tissue perfusion. As oxygen delivery improves, the stimulus for excessive EPO production diminishes through negative feedback.
+
+The response takes time because new cells must develop; it does not restore circulating red-cell mass within a few heartbeats. High sound intensity, rod cGMP, and platelet aggregation do not provide the normal initiating signal described here. Contrast this **slower production response** with the rapid baroreflex, which changes cardiovascular activity within seconds rather than manufacturing new blood cells.
+
+**Course sources:** Lectures 21–23; Silverthorn (2019), Chapters 15 and 16.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
 :::
 
 ### Question 22 — Hemostasis
@@ -380,7 +556,15 @@ The first major platelet response at a damaged vessel includes:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-Activation releases mediators and exposes binding sites that support positive feedback and plug formation.
+**Platelet adhesion and activation are early steps in primary hemostasis**, so A is correct. Injury exposes or creates adhesive surfaces that are normally separated from circulating blood. Platelets attach to the damaged region, including through interactions involving exposed matrix and von Willebrand factor, and change their shape and signalling state.
+
+Activated platelets release mediators and alter surface receptors so that additional platelets can be recruited and linked together. This local positive feedback builds a platelet plug. The plug is then reinforced by coagulation, which generates fibrin strands that stabilize the developing clot.
+
+The question asks about the first major **platelet** response, not necessarily the first event of every aspect of hemostasis; local vasoconstriction is also part of the broader response to injury. Ventricular ejection, rhodopsin activation, and motor-unit recruitment belong to different systems. Keep **adhesion, activation, and aggregation** distinct from **fibrin formation**, while recognizing that platelet activity and coagulation cooperate rather than occurring as completely unrelated processes.
+
+**Course sources:** Lectures 21–23; Silverthorn (2019), Chapters 15 and 16.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
 :::
 
 ### Question 23 — ABO
@@ -397,7 +581,15 @@ A person with type A blood has:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-ABO transfusion reactions occur when recipient antibodies bind incompatible donor RBC antigens.
+**A correctly places the antigen and antibody in different compartments:** type A red cells carry A antigen, and the person's plasma normally contains anti-B antibodies in the ABO system. Those antibodies can react with B antigen on incompatible donor red cells, which is why matching antigens and recipient antibodies matters in red-cell transfusion.
+
+Option B describes B antigen together with anti-B and does not represent the normal type A pattern. Option C is not type A; moreover, even group O red cells lack A and B antigens rather than every possible membrane antigen. Option D incorrectly links ABO type to Rh status. A person with type A blood may be Rh positive or Rh negative because those classifications concern different antigen systems.
+
+A useful check is to ask **what is on the red-cell surface and what is in the plasma**. The ABO letter names the red-cell antigen pattern, not an antibody carried on the cell. Actual compatibility assessment includes other antigens and testing; the question tests the foundational ABO relationship rather than a complete transfusion decision.
+
+**Course sources:** Lectures 21–23; Silverthorn (2019), Chapters 15 and 16.
+
+**Review:** [Week 8 study guide](../study-guides/week08-vascular-blood.qmd).
 :::
 
 ### Question 24 — Afferent pathways
@@ -414,7 +606,15 @@ The afferent division of the nervous system primarily carries information:
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-Afferent means arriving at the CNS. Motor/efferent pathways carry commands away from the CNS. This distinction is the starting point for every sensory pathway.
+The important distinction is the **direction of information flow relative to the central nervous system (CNS)**, which consists of the brain and spinal cord. Afferent pathways bring information toward the CNS, so **B is correct**. For example, pressure on the skin activates sensory receptors, and sensory axons carry information about that pressure into the spinal cord and onward through central pathways.
+
+Option A describes the opposite direction: an efferent or motor command travels from the CNS toward an effector such as skeletal muscle. Option C describes communication within the CNS rather than the sensory input division of the peripheral nervous system. Option D describes endocrine signalling, in which hormones travel through the blood rather than along a sensory nerve.
+
+A useful way to check your answer is to follow a reflex: the sensory input travels inward along the afferent limb, while the command to the responding muscle travels outward along the efferent limb. The two limbs have different roles even though both use electrical signals.
+
+**Course sources:** Lectures 13–14; Silverthorn (2019), Chapter 10.
+
+**Review:** [Week 5 study guide](../study-guides/week05-sensory.qmd).
 :::
 
 # Part B — Short Response (4 questions)
@@ -428,7 +628,17 @@ ACh release may remain normal, but end-plate depolarization is reduced/absent, m
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-This tests causal reasoning across NMJ → excitation → E-C coupling → contraction.
+Identify the failed step before predicting downstream effects. The problem says that motor-neuron action potentials are normal, so the presynaptic electrical signal still arrives. Assuming the toxin acts specifically at the postsynaptic nicotinic receptor, presynaptic calcium entry and ACh release can also remain intact. The defect is not initially a failure of the motor neuron to fire.
+
+ACh normally opens nicotinic cation channels at the motor end plate, producing a graded end-plate potential. Receptor blockade reduces this current. If the end-plate potential no longer reaches the threshold needed to activate nearby voltage-gated sodium channels, the muscle action potential fails. With partial blockade, some responses may remain; complete failure is the limiting case when the safety margin is lost sufficiently.
+
+Without a muscle action potential, depolarization does not propagate normally down the T-tubules. The voltage sensor therefore does not trigger the usual SR calcium release. Cytosolic calcium fails to rise adequately, troponin is not activated sufficiently, and tropomyosin continues to restrict actin–myosin interaction. Force decreases or disappears in the affected fibers.
+
+The full causal chain is **receptor blockade → smaller end-plate potential → impaired muscle action-potential generation → impaired calcium release → reduced cross-bridge activation → weakness**. This is distinct from a toxin acting directly on SR release: that later defect could preserve the muscle action potential while preventing contraction. A strong answer tracks what remains intact as carefully as what fails and does not assume that normal nerve activity proves normal muscle activation.
+
+**Course sources:** Lectures 15–17; Silverthorn (2019), Chapters 10 and 12.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
 :::
 
 ### Question 26 — Skeletal muscle
@@ -440,7 +650,17 @@ Frequency summation keeps cytosolic Ca²⁺/force elevated within active fibers;
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-One mechanism changes force per active fiber through timing; the other changes how many fibers contribute.
+The question contrasts two independent control dimensions: **how frequently active fibers are stimulated** and **how many fibers are active**. Begin with frequency. A skeletal muscle action potential is much shorter than the calcium-dependent twitch it initiates. A second action potential can therefore occur while calcium and force from the first response have not fully returned to baseline.
+
+Repeated calcium release maintains greater activation of troponin and permits more sustained cross-bridge activity. Mechanical responses summate, producing greater force than isolated twitches. At sufficiently high frequency, relaxation between responses becomes very small and fused tetanus can develop. The action potentials themselves do not merge into progressively taller spikes; the longer-lasting mechanical response is what sums.
+
+Recruitment works differently. Each motor unit comprises a motor neuron and its associated muscle fibers. Activating additional units adds more contracting fibers to the whole muscle. Smaller, lower-threshold units are generally recruited first, with larger units joining as neural drive and force requirements increase. This gives graded control instead of an all-or-none activation of the whole muscle.
+
+Both strategies can operate together. An already active unit can fire more frequently while additional units are recruited. For full credit, explain **frequency-dependent activation within fibers** and **population-dependent force across fibers**. Naming summation and recruitment without identifying what changes in each mechanism is insufficient. Neither strategy requires larger individual action potentials, and their effects remain constrained by the muscle's physiological operating range and loading conditions.
+
+**Course sources:** Lectures 15–17; Silverthorn (2019), Chapters 10 and 12.
+
+**Review:** [Week 6 study guide](../study-guides/week06-vision-muscle.qmd).
 :::
 
 ### Question 27 — Cardiac conduction
@@ -452,7 +672,17 @@ SA → atria → AV node → His → bundle branches → Purkinje → ventricles
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-Sequence and timing link electrical organization to effective pumping.
+Normal cardiac excitation begins in the **SA node**, whose spontaneous rhythm usually reaches threshold faster than other potential pacemakers. Excitation spreads through the atria, producing atrial depolarization and initiating atrial contraction. It then reaches the **AV node**, where conduction slows before entering the ventricular conduction system.
+
+After the delay, the signal travels through the **bundle of His**, the **right and left bundle branches**, and **Purkinje fibers** into the ventricular myocardium. The rapid distal distribution helps different ventricular regions activate in an organized pattern so that contraction can generate useful ejection rather than poorly coordinated local force.
+
+The AV delay has a different function from this rapid distribution. It leaves time for the atria to make their final contribution to ventricular filling before ventricular contraction raises pressure and closes the AV valves. Most filling at rest is passive, but coordinating the atrial contribution with the next ventricular systole improves the sequence of pump activity.
+
+A complete response therefore includes both the route and the reason for its timing: **SA-to-atrial activation first, an AV pause between chambers, then rapid ventricular distribution**. The AV node does not actively open a valve, and its delay is not the same as the entire ventricular filling period. Electrical activation changes muscle activity; the resulting pressure differences determine valve position and blood flow. Explaining those intermediate links turns an anatomical list into an account of effective pumping.
+
+**Course sources:** Lectures 18–20; Silverthorn (2019), Chapter 14.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
 :::
 
 ### Question 28 — ECG/Wiggers
@@ -464,7 +694,17 @@ QRS = ventricular depolarization; contraction follows, ventricular pressure rise
 :::
 
 ::: {.callout-note collapse="true" title="Explanation"}
-Electrical activation precedes mechanical pressure development. Valve events are determined by pressure crossings.
+The **QRS complex represents ventricular depolarization**, not blood ejection itself. Depolarization initiates excitation–contraction coupling, raising cytosolic calcium and activating the contractile machinery. After this electrical event, ventricular tension and pressure begin to rise.
+
+Initially, ventricular pressure becomes greater than atrial pressure. That pressure reversal closes the AV valves and is associated with the first heart sound, S1. The semilunar valves remain closed because the pressure in the aorta or pulmonary artery is still greater than ventricular pressure. The ventricle is therefore in **isovolumetric contraction**: pressure rises while the blood volume stays at EDV because both inlet and outlet valves are closed.
+
+As contraction continues, ventricular pressure eventually exceeds the corresponding arterial pressure. The semilunar valve opens, establishing a forward route for blood. **Ejection begins at this pressure crossing**, and ventricular volume starts to fall. On the left-heart Wiggers diagram, compare left ventricular pressure with aortic pressure to locate this transition.
+
+The sequence being tested is thus **QRS → contraction and pressure rise → AV closure → isovolumetric contraction → semilunar opening → ejection**. Do not collapse all of these into one instantaneous event at the start of the QRS. The electrical waveform provides a time reference, but valves respond to pressures, not directly to ECG labels. A strong answer accounts for the short interval during which the ventricle is already contracting but is not yet ejecting blood.
+
+**Course sources:** Lectures 18–20; Silverthorn (2019), Chapter 14.
+
+**Review:** [Week 7 study guide](../study-guides/week07-cardiac.qmd).
 :::
 
 ## Self-check after finishing

@@ -1,0 +1,55 @@
+{
+  "pages": [
+    {
+      "page": "practice/week05-sensory.html",
+      "questions": 40,
+      "closed_answer_and_explanation_panels": 80,
+      "duplicate_ids": 0,
+      "study_guide_links_valid": true
+    },
+    {
+      "page": "practice/week06-vision-muscle.html",
+      "questions": 40,
+      "closed_answer_and_explanation_panels": 80,
+      "duplicate_ids": 0,
+      "study_guide_links_valid": true
+    },
+    {
+      "page": "practice/week07-cardiac.html",
+      "questions": 40,
+      "closed_answer_and_explanation_panels": 80,
+      "duplicate_ids": 0,
+      "study_guide_links_valid": true
+    },
+    {
+      "page": "practice/week08-vascular-blood.html",
+      "questions": 40,
+      "closed_answer_and_explanation_panels": 80,
+      "duplicate_ids": 0,
+      "study_guide_links_valid": true
+    },
+    {
+      "page": "practice/practice-midterm2-01.html",
+      "questions": 28,
+      "closed_answer_and_explanation_panels": 56,
+      "duplicate_ids": 0,
+      "study_guide_links_valid": true
+    },
+    {
+      "page": "practice/practice-midterm2-02.html",
+      "questions": 28,
+      "closed_answer_and_explanation_panels": 56,
+      "duplicate_ids": 0,
+      "study_guide_links_valid": true
+    },
+    {
+      "page": "practice/practice-midterm2-03.html",
+      "questions": 28,
+      "closed_answer_and_explanation_panels": 56,
+      "duplicate_ids": 0,
+      "study_guide_links_valid": true
+    }
+  ],
+  "total_closed_panels": 488,
+  "all_passed": true
+}
