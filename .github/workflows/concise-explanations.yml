@@ -1,0 +1,74 @@
+name: Prepare Concise Explanations
+
+on:
+  push:
+    branches: [concise-explanations-20261105]
+    paths:
+      - 'assessment/explanation-concision-edits.json'
+      - 'scripts/concise_explanations.py'
+      - '.github/workflows/concise-explanations.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: concise-explanations-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    if: github.ref == 'refs/heads/concise-explanations-20261105'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Apply reviewed concision edits
+        run: |
+          python3 scripts/concise_explanations.py --apply
+          python3 scripts/concise_explanations.py --check
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: '1.11.9'
+      - name: Render website
+        run: quarto render
+      - name: Verify all rendered panels and links
+        run: python3 scripts/expand_explanations.py --check --html docs
+      - name: Preserve concise preview and audits
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: concise-explanations-verification
+          path: |
+            docs/
+            practice/
+            study-guides/
+            assessment/detailed-explanations/
+            assessment/explanation-concision-edits.json
+            assessment/explanation-concision-audit.json
+            assessment/explanation-detail-audit.json
+            assessment/explanation-html-audit.json
+            EXPLANATION_CONCISION_AUDIT.md
+            EXPLANATION_DETAIL_AUDIT.md
+            scripts/concise_explanations.py
+            scripts/expand_explanations.py
+          retention-days: 30
+      - name: Commit verified concise sources to review branch
+        if: success()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assessment/detailed-explanations/*.md scripts/expand_explanations.py
+          git add practice/week05-sensory.qmd practice/week06-vision-muscle.qmd practice/week07-cardiac.qmd practice/week08-vascular-blood.qmd
+          git add practice/practice-midterm2-01.qmd practice/practice-midterm2-02.qmd practice/practice-midterm2-03.qmd
+          git add assessment/explanation-concision-audit.json assessment/explanation-detail-audit.json assessment/explanation-html-audit.json
+          git add EXPLANATION_CONCISION_AUDIT.md EXPLANATION_DETAIL_AUDIT.md
+          if ! git diff --cached --quiet; then
+            git diff --cached --stat
+            git commit -m "Make all 244 explanations more concise while preserving reasoning and answers"
+            git push origin HEAD:concise-explanations-20261105
+          fi
