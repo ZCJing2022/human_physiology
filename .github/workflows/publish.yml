@@ -2,7 +2,7 @@ name: Build and Publish Human Physiology
 
 on:
   push:
-    branches: [main]
+    branches: [main, expand-explanations-20261105]
   workflow_dispatch:
 
 permissions:
@@ -11,7 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -23,19 +23,8 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Bootstrap source files
-        shell: bash
-        run: |
-          if [ ! -f study-guides/week05-sensory.qmd ]; then
-            cat bootstrap/part_* > /tmp/site.b64
-            base64 -d /tmp/site.b64 | gunzip > /tmp/build_site.py
-            python /tmp/build_site.py
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add _quarto.yml styles.css index.qmd study-guides practice assessment SOURCE_MAP.md QA_AUDIT.md
-            git commit -m "Generate Human Physiology Part II study site"
-            git push origin main
-          fi
+      - name: Apply and audit detailed explanations
+        run: python3 scripts/expand_explanations.py --apply
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
@@ -43,15 +32,49 @@ jobs:
       - name: Render website
         run: quarto render
 
+      - name: Verify rendered answers and explanations
+        run: python3 scripts/expand_explanations.py --check --html docs
+
+      - name: Preserve verification reports and rendered preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: explanation-verification
+          path: |
+            docs/
+            practice/
+            assessment/detailed-explanations/
+            assessment/explanation-detail-audit.json
+            assessment/explanation-html-audit.json
+            EXPLANATION_DETAIL_AUDIT.md
+            scripts/expand_explanations.py
+          retention-days: 30
+
+      - name: Commit audited explanation updates
+        if: github.ref == 'refs/heads/main'
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add practice/week05-sensory.qmd practice/week06-vision-muscle.qmd practice/week07-cardiac.qmd practice/week08-vascular-blood.qmd
+          git add practice/practice-midterm2-01.qmd practice/practice-midterm2-02.qmd practice/practice-midterm2-03.qmd
+          git add assessment/explanation-detail-audit.json assessment/explanation-html-audit.json EXPLANATION_DETAIL_AUDIT.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Expand and verify all 244 practice and exam explanations"
+            git push origin HEAD:main
+          fi
+
       - name: Configure Pages
+        if: github.ref == 'refs/heads/main'
         uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
+        if: github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs
 
   deploy:
+    if: github.ref == 'refs/heads/main'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
