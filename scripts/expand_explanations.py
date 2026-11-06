@@ -290,9 +290,13 @@ def inspect_html(output_dir: Path, record: dict) -> dict:
         for a in parser.headers:
             require(a.get('aria-expanded') == 'false', f'{relative}: a panel starts expanded')
             require('collapsed' in (a.get('class') or '').split(), f'{relative}: missing collapsed header state')
-            target = (a.get('data-bs-target') or '').lstrip('#')
+            selector = a.get('data-bs-target') or ''
+            target = a.get('aria-controls') or selector.lstrip('#')
             require(target in parser.ids, f'{relative}: missing collapse target {target}')
             classes = (parser.ids[target].get('class') or '').split()
+            require(selector == '#' + target or
+                    (selector.startswith('.') and selector[1:] in classes),
+                    f'{relative}: collapse selector does not match its controlled panel')
             require('collapse' in classes and 'show' not in classes, f'{relative}: panel body initially open')
         guide_links = [h for h in parser.links if '../study-guides/' in h]
         require(len(guide_links) >= f['questions'], f'{relative}: missing study-guide links')
