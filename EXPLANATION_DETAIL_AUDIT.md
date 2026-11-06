@@ -7,19 +7,19 @@ The update changes Explanation bodies only. Question prompts, choices, answer ke
 ## Narrative development
 
 - Authored narratives: 168; identical exam questions receive the full corresponding narrative, not just a link.
-- Narrative length before: 8–39 words; mean 16.6.
-- Narrative length after: 144–289 words; mean 170.5.
+- Original short explanations: 8–39 words; mean 16.6.
+- Current narrative length: 106–235 words; mean 134.2.
 - Counts exclude the source and study-guide footer; word counts are a structural check, not a substitute for content review.
 
 | Page | MCQs | Short responses | Explanation words: min–max | Mean |
 |---|---:|---:|---:|---:|
-| `practice/week05-sensory.qmd` | 28 | 12 | 149–226 | 172.5 |
-| `practice/week06-vision-muscle.qmd` | 28 | 12 | 144–210 | 168.9 |
-| `practice/week07-cardiac.qmd` | 28 | 12 | 144–289 | 173.2 |
-| `practice/week08-vascular-blood.qmd` | 28 | 12 | 149–231 | 173.9 |
-| `practice/practice-midterm2-01.qmd` | 24 | 4 | 144–241 | 166.8 |
-| `practice/practice-midterm2-02.qmd` | 24 | 4 | 144–239 | 167.1 |
-| `practice/practice-midterm2-03.qmd` | 24 | 4 | 144–243 | 167.9 |
+| `practice/week05-sensory.qmd` | 28 | 12 | 106–170 | 133.6 |
+| `practice/week06-vision-muscle.qmd` | 28 | 12 | 110–171 | 133.3 |
+| `practice/week07-cardiac.qmd` | 28 | 12 | 111–235 | 136.5 |
+| `practice/week08-vascular-blood.qmd` | 28 | 12 | 111–192 | 137.9 |
+| `practice/practice-midterm2-01.qmd` | 24 | 4 | 115–191 | 131.7 |
+| `practice/practice-midterm2-02.qmd` | 24 | 4 | 111–186 | 132.5 |
+| `practice/practice-midterm2-03.qmd` | 24 | 4 | 111–190 | 132.4 |
 
 ## Checks passed
 

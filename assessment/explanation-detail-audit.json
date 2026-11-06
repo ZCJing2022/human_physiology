@@ -1,7 +1,7 @@
 {
-  "version": "2026-11-05-detailed-v1",
+  "version": "2026-11-05-concise-v2",
   "reviewed_base_commit": "3688ff405804b07cd8b63cc431e0900bbea14d01",
-  "narrative_corpus_sha256": "b6f88f568370af2b3cb1aaa67f955fced4149320ae15278b54e137cfaf06ba7d",
+  "narrative_corpus_sha256": "08ef4e59a38eb51fd1d70bae23e512b768c7cefbd33fbd535a6534a2f82aaa04",
   "total_question_panels": 244,
   "weekly_panels": 160,
   "exam_panels": 84,
@@ -21,77 +21,77 @@
       "questions": 40,
       "mcq": 28,
       "short_response": 12,
-      "explanation_min_words": 149,
-      "explanation_max_words": 226,
-      "explanation_mean_words": 172.5,
+      "explanation_min_words": 106,
+      "explanation_max_words": 170,
+      "explanation_mean_words": 133.6,
       "protected_content_sha256": "13937955a1fdd7fdacc6beb09da45575b7946037a99f6ebe1372b8c5f38d3500",
-      "updated_blob_sha": "72c8efbc89c3022ca1ef6b98dec559d31ba1822d"
+      "updated_blob_sha": "6d83c01b663bf1451e11ae38621c0d9de1126d86"
     },
     {
       "file": "practice/week06-vision-muscle.qmd",
       "questions": 40,
       "mcq": 28,
       "short_response": 12,
-      "explanation_min_words": 144,
-      "explanation_max_words": 210,
-      "explanation_mean_words": 168.9,
+      "explanation_min_words": 110,
+      "explanation_max_words": 171,
+      "explanation_mean_words": 133.3,
       "protected_content_sha256": "a47378c6237fa3e35fd52c4f8b2ca48aa6d3c03ab302f4057c573e325b1f03cd",
-      "updated_blob_sha": "bab9b4d46d65c3d0acebddf69a52f31f4add029e"
+      "updated_blob_sha": "440fb04f0ee28c885eed4cf94395edd541a2188e"
     },
     {
       "file": "practice/week07-cardiac.qmd",
       "questions": 40,
       "mcq": 28,
       "short_response": 12,
-      "explanation_min_words": 144,
-      "explanation_max_words": 289,
-      "explanation_mean_words": 173.2,
+      "explanation_min_words": 111,
+      "explanation_max_words": 235,
+      "explanation_mean_words": 136.5,
       "protected_content_sha256": "228fdc594b9ca2890f240304b140498e991da2136558091dcd595520a99540f5",
-      "updated_blob_sha": "a489ac6d35cdd3a7eb66a591ba3b02dad3f358f5"
+      "updated_blob_sha": "8a99cccb1c0b0139a696cc2f60e2f882cfe3ca96"
     },
     {
       "file": "practice/week08-vascular-blood.qmd",
       "questions": 40,
       "mcq": 28,
       "short_response": 12,
-      "explanation_min_words": 149,
-      "explanation_max_words": 231,
-      "explanation_mean_words": 173.9,
+      "explanation_min_words": 111,
+      "explanation_max_words": 192,
+      "explanation_mean_words": 137.9,
       "protected_content_sha256": "532a80f91bfe8e531895a1ed2dd04dd3129c219c86a98986f2cc3692fbb16179",
-      "updated_blob_sha": "f79f89f9e9f9dc7271bd1881a4aaa5c17b87b7b5"
+      "updated_blob_sha": "6c9d8c1eb34442bd588906091ab4c373f401d144"
     },
     {
       "file": "practice/practice-midterm2-01.qmd",
       "questions": 28,
       "mcq": 24,
       "short_response": 4,
-      "explanation_min_words": 144,
-      "explanation_max_words": 241,
-      "explanation_mean_words": 166.8,
+      "explanation_min_words": 115,
+      "explanation_max_words": 191,
+      "explanation_mean_words": 131.7,
       "protected_content_sha256": "27e8c4c60f16814268f4d17dcbf9b7e53bf009376f80389ab04506c904a62b9d",
-      "updated_blob_sha": "6959cab4fd18c87a861c688ae1a6b0c910752e3e"
+      "updated_blob_sha": "e6fe16a7daef6f9389468cc6e5dc10aad5f3bb85"
     },
     {
       "file": "practice/practice-midterm2-02.qmd",
       "questions": 28,
       "mcq": 24,
       "short_response": 4,
-      "explanation_min_words": 144,
-      "explanation_max_words": 239,
-      "explanation_mean_words": 167.1,
+      "explanation_min_words": 111,
+      "explanation_max_words": 186,
+      "explanation_mean_words": 132.5,
       "protected_content_sha256": "a4afd58fbb0744805366339177b414d3666aa9c2049df34e4296fa8d63d1ed1b",
-      "updated_blob_sha": "1261720f7d5968827c306c7775b74690d42b3fb3"
+      "updated_blob_sha": "a5875142230bc2ccb2c8f363254bd8fbd19024a8"
     },
     {
       "file": "practice/practice-midterm2-03.qmd",
       "questions": 28,
       "mcq": 24,
       "short_response": 4,
-      "explanation_min_words": 144,
-      "explanation_max_words": 243,
-      "explanation_mean_words": 167.9,
+      "explanation_min_words": 111,
+      "explanation_max_words": 190,
+      "explanation_mean_words": 132.4,
       "protected_content_sha256": "59a3fc3a0840055510aa992d41a9ee41e70e32736078c33cc81ab8edb6658b50",
-      "updated_blob_sha": "15dff0c432a871c0f1148c3909bee07d76ff7a85"
+      "updated_blob_sha": "07cd7ea8734dfcfd35d623140ad3f1e19e597efe"
     }
   ],
   "items": [
@@ -101,8 +101,8 @@
       "type": "MCQ",
       "narrative_id": "w05-mc01",
       "words_before": 25,
-      "words_after": 165,
-      "paragraphs": 3,
+      "words_after": 119,
+      "paragraphs": 2,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -112,7 +112,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc02",
       "words_before": 17,
-      "words_after": 161,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -123,7 +123,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc03",
       "words_before": 22,
-      "words_after": 156,
+      "words_after": 133,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -134,7 +134,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc04",
       "words_before": 17,
-      "words_after": 153,
+      "words_after": 112,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -145,7 +145,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc05",
       "words_before": 18,
-      "words_after": 162,
+      "words_after": 132,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -156,7 +156,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc06",
       "words_before": 23,
-      "words_after": 156,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -167,7 +167,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc07",
       "words_before": 22,
-      "words_after": 163,
+      "words_after": 118,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -178,7 +178,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc08",
       "words_before": 15,
-      "words_after": 157,
+      "words_after": 127,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -189,7 +189,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc09",
       "words_before": 16,
-      "words_after": 159,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -200,7 +200,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc10",
       "words_before": 22,
-      "words_after": 156,
+      "words_after": 118,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -211,7 +211,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc11",
       "words_before": 19,
-      "words_after": 156,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -222,7 +222,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc12",
       "words_before": 15,
-      "words_after": 153,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -233,7 +233,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc13",
       "words_before": 27,
-      "words_after": 158,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -244,8 +244,8 @@
       "type": "MCQ",
       "narrative_id": "w05-mc14",
       "words_before": 19,
-      "words_after": 156,
-      "paragraphs": 3,
+      "words_after": 106,
+      "paragraphs": 2,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -255,7 +255,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc15",
       "words_before": 14,
-      "words_after": 149,
+      "words_after": 115,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -266,7 +266,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc16",
       "words_before": 18,
-      "words_after": 158,
+      "words_after": 116,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -277,7 +277,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc17",
       "words_before": 18,
-      "words_after": 157,
+      "words_after": 118,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -288,7 +288,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc18",
       "words_before": 11,
-      "words_after": 153,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -299,7 +299,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc19",
       "words_before": 14,
-      "words_after": 158,
+      "words_after": 128,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -310,7 +310,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc20",
       "words_before": 21,
-      "words_after": 161,
+      "words_after": 127,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -321,7 +321,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc21",
       "words_before": 14,
-      "words_after": 158,
+      "words_after": 121,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -332,7 +332,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc22",
       "words_before": 13,
-      "words_after": 157,
+      "words_after": 117,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -343,7 +343,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc23",
       "words_before": 16,
-      "words_after": 165,
+      "words_after": 127,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -354,7 +354,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc24",
       "words_before": 13,
-      "words_after": 153,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -365,7 +365,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc25",
       "words_before": 17,
-      "words_after": 166,
+      "words_after": 128,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -376,7 +376,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc26",
       "words_before": 21,
-      "words_after": 163,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -387,7 +387,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc27",
       "words_before": 22,
-      "words_after": 159,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -398,7 +398,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc28",
       "words_before": 20,
-      "words_after": 157,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -409,7 +409,7 @@
       "type": "Short response",
       "narrative_id": "w05-sr01",
       "words_before": 39,
-      "words_after": 206,
+      "words_after": 163,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -420,7 +420,7 @@
       "type": "Short response",
       "narrative_id": "w05-sr02",
       "words_before": 36,
-      "words_after": 207,
+      "words_after": 164,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -431,8 +431,8 @@
       "type": "Short response",
       "narrative_id": "w05-sr03",
       "words_before": 38,
-      "words_after": 205,
-      "paragraphs": 4,
+      "words_after": 155,
+      "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -442,7 +442,7 @@
       "type": "Short response",
       "narrative_id": "w05-sr04",
       "words_before": 25,
-      "words_after": 201,
+      "words_after": 167,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -453,7 +453,7 @@
       "type": "Short response",
       "narrative_id": "w05-sr05",
       "words_before": 35,
-      "words_after": 212,
+      "words_after": 162,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -464,8 +464,8 @@
       "type": "Short response",
       "narrative_id": "w05-sr06",
       "words_before": 32,
-      "words_after": 193,
-      "paragraphs": 4,
+      "words_after": 142,
+      "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -475,8 +475,8 @@
       "type": "Short response",
       "narrative_id": "w05-sr07",
       "words_before": 28,
-      "words_after": 206,
-      "paragraphs": 4,
+      "words_after": 154,
+      "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -486,7 +486,7 @@
       "type": "Short response",
       "narrative_id": "w05-sr08",
       "words_before": 25,
-      "words_after": 206,
+      "words_after": 162,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -497,8 +497,8 @@
       "type": "Short response",
       "narrative_id": "w05-sr09",
       "words_before": 27,
-      "words_after": 200,
-      "paragraphs": 4,
+      "words_after": 157,
+      "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -508,8 +508,8 @@
       "type": "Short response",
       "narrative_id": "w05-sr10",
       "words_before": 21,
-      "words_after": 204,
-      "paragraphs": 4,
+      "words_after": 157,
+      "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -519,7 +519,7 @@
       "type": "Short response",
       "narrative_id": "w05-sr11",
       "words_before": 26,
-      "words_after": 210,
+      "words_after": 162,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -530,7 +530,7 @@
       "type": "Short response",
       "narrative_id": "w05-sr12",
       "words_before": 35,
-      "words_after": 226,
+      "words_after": 170,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -541,7 +541,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc01",
       "words_before": 23,
-      "words_after": 170,
+      "words_after": 136,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -552,7 +552,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc02",
       "words_before": 16,
-      "words_after": 160,
+      "words_after": 117,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -563,7 +563,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc03",
       "words_before": 18,
-      "words_after": 155,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -574,7 +574,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc04",
       "words_before": 15,
-      "words_after": 162,
+      "words_after": 123,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -585,7 +585,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc05",
       "words_before": 10,
-      "words_after": 153,
+      "words_after": 126,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -596,7 +596,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc06",
       "words_before": 11,
-      "words_after": 152,
+      "words_after": 127,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -607,7 +607,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc07",
       "words_before": 15,
-      "words_after": 144,
+      "words_after": 119,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -618,7 +618,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc08",
       "words_before": 13,
-      "words_after": 157,
+      "words_after": 128,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -629,7 +629,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc09",
       "words_before": 13,
-      "words_after": 161,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -640,7 +640,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc10",
       "words_before": 17,
-      "words_after": 144,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -651,7 +651,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc11",
       "words_before": 14,
-      "words_after": 148,
+      "words_after": 110,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -662,7 +662,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc12",
       "words_before": 11,
-      "words_after": 150,
+      "words_after": 118,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -673,7 +673,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc13",
       "words_before": 14,
-      "words_after": 156,
+      "words_after": 127,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -684,7 +684,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc14",
       "words_before": 18,
-      "words_after": 149,
+      "words_after": 116,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -695,7 +695,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc15",
       "words_before": 13,
-      "words_after": 151,
+      "words_after": 113,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -706,7 +706,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc16",
       "words_before": 17,
-      "words_after": 152,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -717,7 +717,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc17",
       "words_before": 10,
-      "words_after": 154,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -728,7 +728,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc18",
       "words_before": 9,
-      "words_after": 153,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -739,7 +739,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc19",
       "words_before": 11,
-      "words_after": 150,
+      "words_after": 117,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -750,7 +750,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc20",
       "words_before": 16,
-      "words_after": 151,
+      "words_after": 118,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -761,7 +761,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc21",
       "words_before": 12,
-      "words_after": 163,
+      "words_after": 132,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -772,7 +772,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc22",
       "words_before": 12,
-      "words_after": 156,
+      "words_after": 127,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -783,7 +783,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc23",
       "words_before": 12,
-      "words_after": 165,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -794,7 +794,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc24",
       "words_before": 16,
-      "words_after": 159,
+      "words_after": 136,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -805,7 +805,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc25",
       "words_before": 12,
-      "words_after": 150,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -816,7 +816,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc26",
       "words_before": 11,
-      "words_after": 151,
+      "words_after": 113,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -827,7 +827,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc27",
       "words_before": 17,
-      "words_after": 154,
+      "words_after": 118,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -838,7 +838,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc28",
       "words_before": 22,
-      "words_after": 165,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -849,8 +849,8 @@
       "type": "Short response",
       "narrative_id": "w06-sr01",
       "words_before": 28,
-      "words_after": 207,
-      "paragraphs": 4,
+      "words_after": 158,
+      "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -860,7 +860,7 @@
       "type": "Short response",
       "narrative_id": "w06-sr02",
       "words_before": 20,
-      "words_after": 207,
+      "words_after": 171,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -871,7 +871,7 @@
       "type": "Short response",
       "narrative_id": "w06-sr03",
       "words_before": 24,
-      "words_after": 187,
+      "words_after": 156,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -882,7 +882,7 @@
       "type": "Short response",
       "narrative_id": "w06-sr04",
       "words_before": 17,
-      "words_after": 205,
+      "words_after": 156,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -893,7 +893,7 @@
       "type": "Short response",
       "narrative_id": "w06-sr05",
       "words_before": 17,
-      "words_after": 202,
+      "words_after": 157,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -904,7 +904,7 @@
       "type": "Short response",
       "narrative_id": "w06-sr06",
       "words_before": 23,
-      "words_after": 201,
+      "words_after": 161,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -915,8 +915,8 @@
       "type": "Short response",
       "narrative_id": "w06-sr07",
       "words_before": 23,
-      "words_after": 204,
-      "paragraphs": 4,
+      "words_after": 153,
+      "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -926,7 +926,7 @@
       "type": "Short response",
       "narrative_id": "w06-sr08",
       "words_before": 17,
-      "words_after": 202,
+      "words_after": 162,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -937,7 +937,7 @@
       "type": "Short response",
       "narrative_id": "w06-sr09",
       "words_before": 22,
-      "words_after": 191,
+      "words_after": 145,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -948,7 +948,7 @@
       "type": "Short response",
       "narrative_id": "w06-sr10",
       "words_before": 23,
-      "words_after": 210,
+      "words_after": 160,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -959,8 +959,8 @@
       "type": "Short response",
       "narrative_id": "w06-sr11",
       "words_before": 22,
-      "words_after": 199,
-      "paragraphs": 4,
+      "words_after": 155,
+      "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -970,7 +970,7 @@
       "type": "Short response",
       "narrative_id": "w06-sr12",
       "words_before": 18,
-      "words_after": 206,
+      "words_after": 156,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -981,7 +981,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc01",
       "words_before": 13,
-      "words_after": 153,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -992,7 +992,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc02",
       "words_before": 12,
-      "words_after": 155,
+      "words_after": 119,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1003,7 +1003,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc03",
       "words_before": 16,
-      "words_after": 152,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1014,7 +1014,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc04",
       "words_before": 15,
-      "words_after": 164,
+      "words_after": 140,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1025,7 +1025,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc05",
       "words_before": 19,
-      "words_after": 165,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1036,7 +1036,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc06",
       "words_before": 14,
-      "words_after": 157,
+      "words_after": 129,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1047,7 +1047,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc07",
       "words_before": 9,
-      "words_after": 158,
+      "words_after": 121,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1058,7 +1058,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc08",
       "words_before": 18,
-      "words_after": 167,
+      "words_after": 131,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1069,7 +1069,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc09",
       "words_before": 12,
-      "words_after": 159,
+      "words_after": 132,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1080,7 +1080,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc10",
       "words_before": 15,
-      "words_after": 159,
+      "words_after": 116,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1091,7 +1091,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc11",
       "words_before": 10,
-      "words_after": 165,
+      "words_after": 121,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1102,7 +1102,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc12",
       "words_before": 14,
-      "words_after": 156,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1113,7 +1113,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc13",
       "words_before": 9,
-      "words_after": 151,
+      "words_after": 121,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1124,7 +1124,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc14",
       "words_before": 17,
-      "words_after": 152,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1135,7 +1135,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc15",
       "words_before": 10,
-      "words_after": 154,
+      "words_after": 117,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1146,7 +1146,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc16",
       "words_before": 14,
-      "words_after": 161,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1157,7 +1157,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc17",
       "words_before": 19,
-      "words_after": 148,
+      "words_after": 123,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1168,7 +1168,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc18",
       "words_before": 16,
-      "words_after": 160,
+      "words_after": 127,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1179,7 +1179,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc19",
       "words_before": 8,
-      "words_after": 160,
+      "words_after": 132,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1190,7 +1190,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc20",
       "words_before": 14,
-      "words_after": 144,
+      "words_after": 119,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1201,7 +1201,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc21",
       "words_before": 12,
-      "words_after": 159,
+      "words_after": 129,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1212,7 +1212,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc22",
       "words_before": 9,
-      "words_after": 161,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1223,7 +1223,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc23",
       "words_before": 11,
-      "words_after": 160,
+      "words_after": 115,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1234,7 +1234,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc24",
       "words_before": 13,
-      "words_after": 154,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1245,7 +1245,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc25",
       "words_before": 11,
-      "words_after": 154,
+      "words_after": 128,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1256,7 +1256,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc26",
       "words_before": 19,
-      "words_after": 156,
+      "words_after": 129,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1267,7 +1267,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc27",
       "words_before": 16,
-      "words_after": 148,
+      "words_after": 119,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1278,7 +1278,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc28",
       "words_before": 18,
-      "words_after": 155,
+      "words_after": 111,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1289,7 +1289,7 @@
       "type": "Short response",
       "narrative_id": "w07-sr01",
       "words_before": 25,
-      "words_after": 215,
+      "words_after": 163,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1300,7 +1300,7 @@
       "type": "Short response",
       "narrative_id": "w07-sr02",
       "words_before": 21,
-      "words_after": 200,
+      "words_after": 151,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1311,7 +1311,7 @@
       "type": "Short response",
       "narrative_id": "w07-sr03",
       "words_before": 22,
-      "words_after": 200,
+      "words_after": 155,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1322,7 +1322,7 @@
       "type": "Short response",
       "narrative_id": "w07-sr04",
       "words_before": 20,
-      "words_after": 205,
+      "words_after": 169,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1333,7 +1333,7 @@
       "type": "Short response",
       "narrative_id": "w07-sr05",
       "words_before": 20,
-      "words_after": 210,
+      "words_after": 160,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1344,7 +1344,7 @@
       "type": "Short response",
       "narrative_id": "w07-sr06",
       "words_before": 13,
-      "words_after": 205,
+      "words_after": 163,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1355,7 +1355,7 @@
       "type": "Short response",
       "narrative_id": "w07-sr07",
       "words_before": 21,
-      "words_after": 198,
+      "words_after": 156,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1366,7 +1366,7 @@
       "type": "Short response",
       "narrative_id": "w07-sr08",
       "words_before": 29,
-      "words_after": 289,
+      "words_after": 235,
       "paragraphs": 5,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1377,7 +1377,7 @@
       "type": "Short response",
       "narrative_id": "w07-sr09",
       "words_before": 20,
-      "words_after": 198,
+      "words_after": 154,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1388,7 +1388,7 @@
       "type": "Short response",
       "narrative_id": "w07-sr10",
       "words_before": 16,
-      "words_after": 199,
+      "words_after": 164,
       "paragraphs": 6,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1399,7 +1399,7 @@
       "type": "Short response",
       "narrative_id": "w07-sr11",
       "words_before": 19,
-      "words_after": 215,
+      "words_after": 162,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1410,7 +1410,7 @@
       "type": "Short response",
       "narrative_id": "w07-sr12",
       "words_before": 20,
-      "words_after": 205,
+      "words_after": 156,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1421,7 +1421,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc01",
       "words_before": 14,
-      "words_after": 160,
+      "words_after": 135,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1432,7 +1432,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc02",
       "words_before": 12,
-      "words_after": 162,
+      "words_after": 133,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1443,7 +1443,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc03",
       "words_before": 15,
-      "words_after": 165,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1454,7 +1454,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc04",
       "words_before": 14,
-      "words_after": 164,
+      "words_after": 133,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1465,7 +1465,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc05",
       "words_before": 15,
-      "words_after": 168,
+      "words_after": 145,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1476,7 +1476,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc06",
       "words_before": 10,
-      "words_after": 164,
+      "words_after": 118,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1487,7 +1487,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc07",
       "words_before": 15,
-      "words_after": 159,
+      "words_after": 123,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1498,7 +1498,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc08",
       "words_before": 19,
-      "words_after": 149,
+      "words_after": 125,
       "paragraphs": 6,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1509,7 +1509,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc09",
       "words_before": 10,
-      "words_after": 159,
+      "words_after": 116,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1520,7 +1520,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc10",
       "words_before": 16,
-      "words_after": 159,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1531,7 +1531,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc11",
       "words_before": 12,
-      "words_after": 155,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1542,7 +1542,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc12",
       "words_before": 9,
-      "words_after": 162,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1553,7 +1553,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc13",
       "words_before": 15,
-      "words_after": 154,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1564,7 +1564,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc14",
       "words_before": 15,
-      "words_after": 157,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1575,7 +1575,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc15",
       "words_before": 10,
-      "words_after": 166,
+      "words_after": 126,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1586,7 +1586,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc16",
       "words_before": 9,
-      "words_after": 154,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1597,7 +1597,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc17",
       "words_before": 12,
-      "words_after": 166,
+      "words_after": 138,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1608,7 +1608,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc18",
       "words_before": 16,
-      "words_after": 156,
+      "words_after": 121,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1619,7 +1619,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc19",
       "words_before": 13,
-      "words_after": 155,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1630,7 +1630,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc20",
       "words_before": 8,
-      "words_after": 149,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1641,7 +1641,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc21",
       "words_before": 14,
-      "words_after": 151,
+      "words_after": 111,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1652,7 +1652,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc22",
       "words_before": 17,
-      "words_after": 158,
+      "words_after": 121,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1663,7 +1663,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc23",
       "words_before": 21,
-      "words_after": 161,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1674,7 +1674,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc24",
       "words_before": 14,
-      "words_after": 157,
+      "words_after": 133,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1685,7 +1685,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc25",
       "words_before": 12,
-      "words_after": 159,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1696,7 +1696,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc26",
       "words_before": 12,
-      "words_after": 176,
+      "words_after": 143,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1707,7 +1707,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc27",
       "words_before": 9,
-      "words_after": 163,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1718,7 +1718,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc28",
       "words_before": 16,
-      "words_after": 162,
+      "words_after": 131,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1729,7 +1729,7 @@
       "type": "Short response",
       "narrative_id": "w08-sr01",
       "words_before": 24,
-      "words_after": 218,
+      "words_after": 168,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1740,7 +1740,7 @@
       "type": "Short response",
       "narrative_id": "w08-sr02",
       "words_before": 21,
-      "words_after": 209,
+      "words_after": 157,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1751,7 +1751,7 @@
       "type": "Short response",
       "narrative_id": "w08-sr03",
       "words_before": 24,
-      "words_after": 204,
+      "words_after": 155,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1762,7 +1762,7 @@
       "type": "Short response",
       "narrative_id": "w08-sr04",
       "words_before": 18,
-      "words_after": 218,
+      "words_after": 172,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1773,7 +1773,7 @@
       "type": "Short response",
       "narrative_id": "w08-sr05",
       "words_before": 19,
-      "words_after": 197,
+      "words_after": 157,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1784,7 +1784,7 @@
       "type": "Short response",
       "narrative_id": "w08-sr06",
       "words_before": 21,
-      "words_after": 212,
+      "words_after": 164,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1795,7 +1795,7 @@
       "type": "Short response",
       "narrative_id": "w08-sr07",
       "words_before": 19,
-      "words_after": 205,
+      "words_after": 167,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1806,7 +1806,7 @@
       "type": "Short response",
       "narrative_id": "w08-sr08",
       "words_before": 19,
-      "words_after": 212,
+      "words_after": 175,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1817,7 +1817,7 @@
       "type": "Short response",
       "narrative_id": "w08-sr09",
       "words_before": 11,
-      "words_after": 198,
+      "words_after": 161,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1828,7 +1828,7 @@
       "type": "Short response",
       "narrative_id": "w08-sr10",
       "words_before": 19,
-      "words_after": 191,
+      "words_after": 153,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1839,7 +1839,7 @@
       "type": "Short response",
       "narrative_id": "w08-sr11",
       "words_before": 20,
-      "words_after": 192,
+      "words_after": 150,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1850,7 +1850,7 @@
       "type": "Short response",
       "narrative_id": "w08-sr12",
       "words_before": 25,
-      "words_after": 231,
+      "words_after": 192,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1861,8 +1861,8 @@
       "type": "MCQ",
       "narrative_id": "w05-mc01",
       "words_before": 25,
-      "words_after": 165,
-      "paragraphs": 3,
+      "words_after": 119,
+      "paragraphs": 2,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -1872,7 +1872,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc05",
       "words_before": 18,
-      "words_after": 162,
+      "words_after": 132,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1883,7 +1883,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc06",
       "words_before": 23,
-      "words_after": 156,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1894,7 +1894,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc09",
       "words_before": 16,
-      "words_after": 159,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1905,7 +1905,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc13",
       "words_before": 27,
-      "words_after": 158,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1916,7 +1916,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc15",
       "words_before": 14,
-      "words_after": 149,
+      "words_after": 115,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1927,7 +1927,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc17",
       "words_before": 18,
-      "words_after": 157,
+      "words_after": 118,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1938,7 +1938,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc20",
       "words_before": 21,
-      "words_after": 161,
+      "words_after": 127,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1949,7 +1949,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc03",
       "words_before": 18,
-      "words_after": 155,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1960,7 +1960,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc07",
       "words_before": 15,
-      "words_after": 144,
+      "words_after": 119,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1971,7 +1971,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc10",
       "words_before": 17,
-      "words_after": 144,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1982,7 +1982,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc16",
       "words_before": 17,
-      "words_after": 152,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -1993,7 +1993,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc18",
       "words_before": 9,
-      "words_after": 153,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2004,7 +2004,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc23",
       "words_before": 12,
-      "words_after": 165,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2015,7 +2015,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc03",
       "words_before": 16,
-      "words_after": 152,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2026,7 +2026,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc08",
       "words_before": 18,
-      "words_after": 167,
+      "words_after": 131,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2037,7 +2037,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc11",
       "words_before": 10,
-      "words_after": 165,
+      "words_after": 121,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2048,7 +2048,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc13",
       "words_before": 9,
-      "words_after": 151,
+      "words_after": 121,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2059,7 +2059,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc17",
       "words_before": 19,
-      "words_after": 148,
+      "words_after": 123,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2070,7 +2070,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc20",
       "words_before": 14,
-      "words_after": 144,
+      "words_after": 119,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2081,7 +2081,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc22",
       "words_before": 9,
-      "words_after": 161,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2092,7 +2092,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc24",
       "words_before": 13,
-      "words_after": 154,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2103,7 +2103,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc08",
       "words_before": 19,
-      "words_after": 149,
+      "words_after": 125,
       "paragraphs": 6,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2114,7 +2114,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc09",
       "words_before": 10,
-      "words_after": 159,
+      "words_after": 116,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2125,7 +2125,7 @@
       "type": "Short response",
       "narrative_id": "e01-q25",
       "words_before": 24,
-      "words_after": 241,
+      "words_after": 191,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2136,8 +2136,8 @@
       "type": "Short response",
       "narrative_id": "e01-q26",
       "words_before": 22,
-      "words_after": 225,
-      "paragraphs": 5,
+      "words_after": 175,
+      "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -2147,7 +2147,7 @@
       "type": "Short response",
       "narrative_id": "e01-q27",
       "words_before": 10,
-      "words_after": 239,
+      "words_after": 186,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2158,7 +2158,7 @@
       "type": "Short response",
       "narrative_id": "e01-q28",
       "words_before": 16,
-      "words_after": 235,
+      "words_after": 182,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2169,7 +2169,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc20",
       "words_before": 21,
-      "words_after": 161,
+      "words_after": 127,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2180,7 +2180,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc03",
       "words_before": 18,
-      "words_after": 155,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2191,7 +2191,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc07",
       "words_before": 15,
-      "words_after": 144,
+      "words_after": 119,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2202,7 +2202,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc10",
       "words_before": 17,
-      "words_after": 144,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2213,7 +2213,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc16",
       "words_before": 17,
-      "words_after": 152,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2224,7 +2224,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc18",
       "words_before": 9,
-      "words_after": 153,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2235,7 +2235,7 @@
       "type": "MCQ",
       "narrative_id": "w06-mc23",
       "words_before": 12,
-      "words_after": 165,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2246,7 +2246,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc03",
       "words_before": 16,
-      "words_after": 152,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2257,7 +2257,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc08",
       "words_before": 18,
-      "words_after": 167,
+      "words_after": 131,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2268,7 +2268,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc11",
       "words_before": 10,
-      "words_after": 165,
+      "words_after": 121,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2279,7 +2279,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc13",
       "words_before": 9,
-      "words_after": 151,
+      "words_after": 121,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2290,7 +2290,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc17",
       "words_before": 19,
-      "words_after": 148,
+      "words_after": 123,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2301,7 +2301,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc20",
       "words_before": 14,
-      "words_after": 144,
+      "words_after": 119,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2312,7 +2312,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc22",
       "words_before": 9,
-      "words_after": 161,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2323,7 +2323,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc24",
       "words_before": 13,
-      "words_after": 154,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2334,7 +2334,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc08",
       "words_before": 19,
-      "words_after": 149,
+      "words_after": 125,
       "paragraphs": 6,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2345,7 +2345,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc09",
       "words_before": 10,
-      "words_after": 159,
+      "words_after": 116,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2356,7 +2356,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc14",
       "words_before": 15,
-      "words_after": 157,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2367,7 +2367,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc15",
       "words_before": 10,
-      "words_after": 166,
+      "words_after": 126,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2378,7 +2378,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc19",
       "words_before": 13,
-      "words_after": 155,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2389,7 +2389,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc21",
       "words_before": 14,
-      "words_after": 151,
+      "words_after": 111,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2400,7 +2400,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc24",
       "words_before": 14,
-      "words_after": 157,
+      "words_after": 133,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2411,7 +2411,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc26",
       "words_before": 12,
-      "words_after": 176,
+      "words_after": 143,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2422,8 +2422,8 @@
       "type": "MCQ",
       "narrative_id": "w05-mc01",
       "words_before": 25,
-      "words_after": 165,
-      "paragraphs": 3,
+      "words_after": 119,
+      "paragraphs": 2,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -2433,7 +2433,7 @@
       "type": "Short response",
       "narrative_id": "e01-q27",
       "words_before": 10,
-      "words_after": 239,
+      "words_after": 186,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2444,7 +2444,7 @@
       "type": "Short response",
       "narrative_id": "e01-q28",
       "words_before": 16,
-      "words_after": 235,
+      "words_after": 182,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2455,7 +2455,7 @@
       "type": "Short response",
       "narrative_id": "e02-q27",
       "words_before": 9,
-      "words_after": 230,
+      "words_after": 179,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2466,7 +2466,7 @@
       "type": "Short response",
       "narrative_id": "e02-q28",
       "words_before": 13,
-      "words_after": 223,
+      "words_after": 184,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2477,7 +2477,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc03",
       "words_before": 16,
-      "words_after": 152,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2488,7 +2488,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc08",
       "words_before": 18,
-      "words_after": 167,
+      "words_after": 131,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2499,7 +2499,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc11",
       "words_before": 10,
-      "words_after": 165,
+      "words_after": 121,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2510,7 +2510,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc13",
       "words_before": 9,
-      "words_after": 151,
+      "words_after": 121,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2521,7 +2521,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc17",
       "words_before": 19,
-      "words_after": 148,
+      "words_after": 123,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2532,7 +2532,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc20",
       "words_before": 14,
-      "words_after": 144,
+      "words_after": 119,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2543,7 +2543,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc22",
       "words_before": 9,
-      "words_after": 161,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2554,7 +2554,7 @@
       "type": "MCQ",
       "narrative_id": "w07-mc24",
       "words_before": 13,
-      "words_after": 154,
+      "words_after": 130,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2565,7 +2565,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc08",
       "words_before": 19,
-      "words_after": 149,
+      "words_after": 125,
       "paragraphs": 6,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2576,7 +2576,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc09",
       "words_before": 10,
-      "words_after": 159,
+      "words_after": 116,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2587,7 +2587,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc14",
       "words_before": 15,
-      "words_after": 157,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2598,7 +2598,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc15",
       "words_before": 10,
-      "words_after": 166,
+      "words_after": 126,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2609,7 +2609,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc19",
       "words_before": 13,
-      "words_after": 155,
+      "words_after": 124,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2620,7 +2620,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc21",
       "words_before": 14,
-      "words_after": 151,
+      "words_after": 111,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2631,7 +2631,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc24",
       "words_before": 14,
-      "words_after": 157,
+      "words_after": 133,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2642,7 +2642,7 @@
       "type": "MCQ",
       "narrative_id": "w08-mc26",
       "words_before": 12,
-      "words_after": 176,
+      "words_after": 143,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2653,8 +2653,8 @@
       "type": "MCQ",
       "narrative_id": "w05-mc01",
       "words_before": 25,
-      "words_after": 165,
-      "paragraphs": 3,
+      "words_after": 119,
+      "paragraphs": 2,
       "initially_collapsed": true,
       "answer_unchanged": true
     },
@@ -2664,7 +2664,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc05",
       "words_before": 18,
-      "words_after": 162,
+      "words_after": 132,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2675,7 +2675,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc06",
       "words_before": 23,
-      "words_after": 156,
+      "words_after": 122,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2686,7 +2686,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc09",
       "words_before": 16,
-      "words_after": 159,
+      "words_after": 120,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2697,7 +2697,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc13",
       "words_before": 27,
-      "words_after": 158,
+      "words_after": 125,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2708,7 +2708,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc15",
       "words_before": 14,
-      "words_after": 149,
+      "words_after": 115,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2719,7 +2719,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc17",
       "words_before": 18,
-      "words_after": 157,
+      "words_after": 118,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2730,7 +2730,7 @@
       "type": "MCQ",
       "narrative_id": "w05-mc20",
       "words_before": 21,
-      "words_after": 161,
+      "words_after": 127,
       "paragraphs": 3,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2741,7 +2741,7 @@
       "type": "Short response",
       "narrative_id": "e02-q27",
       "words_before": 9,
-      "words_after": 230,
+      "words_after": 179,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2752,7 +2752,7 @@
       "type": "Short response",
       "narrative_id": "e02-q28",
       "words_before": 13,
-      "words_after": 223,
+      "words_after": 184,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2763,7 +2763,7 @@
       "type": "Short response",
       "narrative_id": "e03-q27",
       "words_before": 18,
-      "words_after": 227,
+      "words_after": 190,
       "paragraphs": 6,
       "initially_collapsed": true,
       "answer_unchanged": true
@@ -2774,7 +2774,7 @@
       "type": "Short response",
       "narrative_id": "e03-q28",
       "words_before": 15,
-      "words_after": 243,
+      "words_after": 189,
       "paragraphs": 4,
       "initially_collapsed": true,
       "answer_unchanged": true

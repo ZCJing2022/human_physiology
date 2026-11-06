@@ -1,0 +1,1730 @@
+{
+  "revision": "2026-11-05-concise-v2",
+  "previous_main_commit": "ad2090d9eb129d89f18a96bed110c246767b8fc7",
+  "total_question_panels": 244,
+  "distinct_narratives": 168,
+  "mean_words_before": 170.5,
+  "mean_words_after": 134.2,
+  "overall_reduction_percent": 21.2,
+  "range_after": [
+    106,
+    235
+  ],
+  "revised_corpus_sha256": "33b501e37560ba89364badbe87b2f801988b6f10a160c1d98781367e01b36991",
+  "checks": {
+    "every_explanation_shorter": true,
+    "questions_answers_and_panel_wrappers_unchanged": true,
+    "all_display_calculations_unchanged": true,
+    "all_narratives_multi_paragraph": true
+  },
+  "items": [
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 1,
+      "narrative_id": "w05-mc01",
+      "words_before": 165,
+      "words_after": 119
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 2,
+      "narrative_id": "w05-mc02",
+      "words_before": 161,
+      "words_after": 125
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 3,
+      "narrative_id": "w05-mc03",
+      "words_before": 156,
+      "words_after": 133
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 4,
+      "narrative_id": "w05-mc04",
+      "words_before": 153,
+      "words_after": 112
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 5,
+      "narrative_id": "w05-mc05",
+      "words_before": 162,
+      "words_after": 132
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 6,
+      "narrative_id": "w05-mc06",
+      "words_before": 156,
+      "words_after": 122
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 7,
+      "narrative_id": "w05-mc07",
+      "words_before": 163,
+      "words_after": 118
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 8,
+      "narrative_id": "w05-mc08",
+      "words_before": 157,
+      "words_after": 127
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 9,
+      "narrative_id": "w05-mc09",
+      "words_before": 159,
+      "words_after": 120
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 10,
+      "narrative_id": "w05-mc10",
+      "words_before": 156,
+      "words_after": 118
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 11,
+      "narrative_id": "w05-mc11",
+      "words_before": 156,
+      "words_after": 122
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 12,
+      "narrative_id": "w05-mc12",
+      "words_before": 153,
+      "words_after": 122
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 13,
+      "narrative_id": "w05-mc13",
+      "words_before": 158,
+      "words_after": 125
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 14,
+      "narrative_id": "w05-mc14",
+      "words_before": 156,
+      "words_after": 106
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 15,
+      "narrative_id": "w05-mc15",
+      "words_before": 149,
+      "words_after": 115
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 16,
+      "narrative_id": "w05-mc16",
+      "words_before": 158,
+      "words_after": 116
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 17,
+      "narrative_id": "w05-mc17",
+      "words_before": 157,
+      "words_after": 118
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 18,
+      "narrative_id": "w05-mc18",
+      "words_before": 153,
+      "words_after": 125
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 19,
+      "narrative_id": "w05-mc19",
+      "words_before": 158,
+      "words_after": 128
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 20,
+      "narrative_id": "w05-mc20",
+      "words_before": 161,
+      "words_after": 127
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 21,
+      "narrative_id": "w05-mc21",
+      "words_before": 158,
+      "words_after": 121
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 22,
+      "narrative_id": "w05-mc22",
+      "words_before": 157,
+      "words_after": 117
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 23,
+      "narrative_id": "w05-mc23",
+      "words_before": 165,
+      "words_after": 127
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 24,
+      "narrative_id": "w05-mc24",
+      "words_before": 153,
+      "words_after": 125
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 25,
+      "narrative_id": "w05-mc25",
+      "words_before": 166,
+      "words_after": 128
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 26,
+      "narrative_id": "w05-mc26",
+      "words_before": 163,
+      "words_after": 124
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 27,
+      "narrative_id": "w05-mc27",
+      "words_before": 159,
+      "words_after": 130
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 28,
+      "narrative_id": "w05-mc28",
+      "words_before": 157,
+      "words_after": 125
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 29,
+      "narrative_id": "w05-sr01",
+      "words_before": 206,
+      "words_after": 163
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 30,
+      "narrative_id": "w05-sr02",
+      "words_before": 207,
+      "words_after": 164
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 31,
+      "narrative_id": "w05-sr03",
+      "words_before": 205,
+      "words_after": 155
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 32,
+      "narrative_id": "w05-sr04",
+      "words_before": 201,
+      "words_after": 167
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 33,
+      "narrative_id": "w05-sr05",
+      "words_before": 212,
+      "words_after": 162
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 34,
+      "narrative_id": "w05-sr06",
+      "words_before": 193,
+      "words_after": 142
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 35,
+      "narrative_id": "w05-sr07",
+      "words_before": 206,
+      "words_after": 154
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 36,
+      "narrative_id": "w05-sr08",
+      "words_before": 206,
+      "words_after": 162
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 37,
+      "narrative_id": "w05-sr09",
+      "words_before": 200,
+      "words_after": 157
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 38,
+      "narrative_id": "w05-sr10",
+      "words_before": 204,
+      "words_after": 157
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 39,
+      "narrative_id": "w05-sr11",
+      "words_before": 210,
+      "words_after": 162
+    },
+    {
+      "file": "practice/week05-sensory.qmd",
+      "question": 40,
+      "narrative_id": "w05-sr12",
+      "words_before": 226,
+      "words_after": 170
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 1,
+      "narrative_id": "w06-mc01",
+      "words_before": 170,
+      "words_after": 136
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 2,
+      "narrative_id": "w06-mc02",
+      "words_before": 160,
+      "words_after": 117
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 3,
+      "narrative_id": "w06-mc03",
+      "words_before": 155,
+      "words_after": 124
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 4,
+      "narrative_id": "w06-mc04",
+      "words_before": 162,
+      "words_after": 123
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 5,
+      "narrative_id": "w06-mc05",
+      "words_before": 153,
+      "words_after": 126
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 6,
+      "narrative_id": "w06-mc06",
+      "words_before": 152,
+      "words_after": 127
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 7,
+      "narrative_id": "w06-mc07",
+      "words_before": 144,
+      "words_after": 119
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 8,
+      "narrative_id": "w06-mc08",
+      "words_before": 157,
+      "words_after": 128
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 9,
+      "narrative_id": "w06-mc09",
+      "words_before": 161,
+      "words_after": 124
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 10,
+      "narrative_id": "w06-mc10",
+      "words_before": 144,
+      "words_after": 125
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 11,
+      "narrative_id": "w06-mc11",
+      "words_before": 148,
+      "words_after": 110
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 12,
+      "narrative_id": "w06-mc12",
+      "words_before": 150,
+      "words_after": 118
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 13,
+      "narrative_id": "w06-mc13",
+      "words_before": 156,
+      "words_after": 127
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 14,
+      "narrative_id": "w06-mc14",
+      "words_before": 149,
+      "words_after": 116
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 15,
+      "narrative_id": "w06-mc15",
+      "words_before": 151,
+      "words_after": 113
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 16,
+      "narrative_id": "w06-mc16",
+      "words_before": 152,
+      "words_after": 122
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 17,
+      "narrative_id": "w06-mc17",
+      "words_before": 154,
+      "words_after": 122
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 18,
+      "narrative_id": "w06-mc18",
+      "words_before": 153,
+      "words_after": 125
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 19,
+      "narrative_id": "w06-mc19",
+      "words_before": 150,
+      "words_after": 117
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 20,
+      "narrative_id": "w06-mc20",
+      "words_before": 151,
+      "words_after": 118
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 21,
+      "narrative_id": "w06-mc21",
+      "words_before": 163,
+      "words_after": 132
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 22,
+      "narrative_id": "w06-mc22",
+      "words_before": 156,
+      "words_after": 127
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 23,
+      "narrative_id": "w06-mc23",
+      "words_before": 165,
+      "words_after": 130
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 24,
+      "narrative_id": "w06-mc24",
+      "words_before": 159,
+      "words_after": 136
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 25,
+      "narrative_id": "w06-mc25",
+      "words_before": 150,
+      "words_after": 120
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 26,
+      "narrative_id": "w06-mc26",
+      "words_before": 151,
+      "words_after": 113
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 27,
+      "narrative_id": "w06-mc27",
+      "words_before": 154,
+      "words_after": 118
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 28,
+      "narrative_id": "w06-mc28",
+      "words_before": 165,
+      "words_after": 130
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 29,
+      "narrative_id": "w06-sr01",
+      "words_before": 207,
+      "words_after": 158
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 30,
+      "narrative_id": "w06-sr02",
+      "words_before": 207,
+      "words_after": 171
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 31,
+      "narrative_id": "w06-sr03",
+      "words_before": 187,
+      "words_after": 156
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 32,
+      "narrative_id": "w06-sr04",
+      "words_before": 205,
+      "words_after": 156
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 33,
+      "narrative_id": "w06-sr05",
+      "words_before": 202,
+      "words_after": 157
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 34,
+      "narrative_id": "w06-sr06",
+      "words_before": 201,
+      "words_after": 161
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 35,
+      "narrative_id": "w06-sr07",
+      "words_before": 204,
+      "words_after": 153
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 36,
+      "narrative_id": "w06-sr08",
+      "words_before": 202,
+      "words_after": 162
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 37,
+      "narrative_id": "w06-sr09",
+      "words_before": 191,
+      "words_after": 145
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 38,
+      "narrative_id": "w06-sr10",
+      "words_before": 210,
+      "words_after": 160
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 39,
+      "narrative_id": "w06-sr11",
+      "words_before": 199,
+      "words_after": 155
+    },
+    {
+      "file": "practice/week06-vision-muscle.qmd",
+      "question": 40,
+      "narrative_id": "w06-sr12",
+      "words_before": 206,
+      "words_after": 156
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 1,
+      "narrative_id": "w07-mc01",
+      "words_before": 153,
+      "words_after": 120
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 2,
+      "narrative_id": "w07-mc02",
+      "words_before": 155,
+      "words_after": 119
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 3,
+      "narrative_id": "w07-mc03",
+      "words_before": 152,
+      "words_after": 120
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 4,
+      "narrative_id": "w07-mc04",
+      "words_before": 164,
+      "words_after": 140
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 5,
+      "narrative_id": "w07-mc05",
+      "words_before": 165,
+      "words_after": 125
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 6,
+      "narrative_id": "w07-mc06",
+      "words_before": 157,
+      "words_after": 129
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 7,
+      "narrative_id": "w07-mc07",
+      "words_before": 158,
+      "words_after": 121
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 8,
+      "narrative_id": "w07-mc08",
+      "words_before": 167,
+      "words_after": 131
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 9,
+      "narrative_id": "w07-mc09",
+      "words_before": 159,
+      "words_after": 132
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 10,
+      "narrative_id": "w07-mc10",
+      "words_before": 159,
+      "words_after": 116
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 11,
+      "narrative_id": "w07-mc11",
+      "words_before": 165,
+      "words_after": 121
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 12,
+      "narrative_id": "w07-mc12",
+      "words_before": 156,
+      "words_after": 124
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 13,
+      "narrative_id": "w07-mc13",
+      "words_before": 151,
+      "words_after": 121
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 14,
+      "narrative_id": "w07-mc14",
+      "words_before": 152,
+      "words_after": 125
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 15,
+      "narrative_id": "w07-mc15",
+      "words_before": 154,
+      "words_after": 117
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 16,
+      "narrative_id": "w07-mc16",
+      "words_before": 161,
+      "words_after": 125
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 17,
+      "narrative_id": "w07-mc17",
+      "words_before": 148,
+      "words_after": 123
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 18,
+      "narrative_id": "w07-mc18",
+      "words_before": 160,
+      "words_after": 127
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 19,
+      "narrative_id": "w07-mc19",
+      "words_before": 160,
+      "words_after": 132
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 20,
+      "narrative_id": "w07-mc20",
+      "words_before": 144,
+      "words_after": 119
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 21,
+      "narrative_id": "w07-mc21",
+      "words_before": 159,
+      "words_after": 129
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 22,
+      "narrative_id": "w07-mc22",
+      "words_before": 161,
+      "words_after": 124
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 23,
+      "narrative_id": "w07-mc23",
+      "words_before": 160,
+      "words_after": 115
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 24,
+      "narrative_id": "w07-mc24",
+      "words_before": 154,
+      "words_after": 130
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 25,
+      "narrative_id": "w07-mc25",
+      "words_before": 154,
+      "words_after": 128
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 26,
+      "narrative_id": "w07-mc26",
+      "words_before": 156,
+      "words_after": 129
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 27,
+      "narrative_id": "w07-mc27",
+      "words_before": 148,
+      "words_after": 119
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 28,
+      "narrative_id": "w07-mc28",
+      "words_before": 155,
+      "words_after": 111
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 29,
+      "narrative_id": "w07-sr01",
+      "words_before": 215,
+      "words_after": 163
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 30,
+      "narrative_id": "w07-sr02",
+      "words_before": 200,
+      "words_after": 151
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 31,
+      "narrative_id": "w07-sr03",
+      "words_before": 200,
+      "words_after": 155
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 32,
+      "narrative_id": "w07-sr04",
+      "words_before": 205,
+      "words_after": 169
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 33,
+      "narrative_id": "w07-sr05",
+      "words_before": 210,
+      "words_after": 160
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 34,
+      "narrative_id": "w07-sr06",
+      "words_before": 205,
+      "words_after": 163
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 35,
+      "narrative_id": "w07-sr07",
+      "words_before": 198,
+      "words_after": 156
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 36,
+      "narrative_id": "w07-sr08",
+      "words_before": 289,
+      "words_after": 235
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 37,
+      "narrative_id": "w07-sr09",
+      "words_before": 198,
+      "words_after": 154
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 38,
+      "narrative_id": "w07-sr10",
+      "words_before": 199,
+      "words_after": 164
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 39,
+      "narrative_id": "w07-sr11",
+      "words_before": 215,
+      "words_after": 162
+    },
+    {
+      "file": "practice/week07-cardiac.qmd",
+      "question": 40,
+      "narrative_id": "w07-sr12",
+      "words_before": 205,
+      "words_after": 156
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 1,
+      "narrative_id": "w08-mc01",
+      "words_before": 160,
+      "words_after": 135
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 2,
+      "narrative_id": "w08-mc02",
+      "words_before": 162,
+      "words_after": 133
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 3,
+      "narrative_id": "w08-mc03",
+      "words_before": 165,
+      "words_after": 130
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 4,
+      "narrative_id": "w08-mc04",
+      "words_before": 164,
+      "words_after": 133
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 5,
+      "narrative_id": "w08-mc05",
+      "words_before": 168,
+      "words_after": 145
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 6,
+      "narrative_id": "w08-mc06",
+      "words_before": 164,
+      "words_after": 118
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 7,
+      "narrative_id": "w08-mc07",
+      "words_before": 159,
+      "words_after": 123
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 8,
+      "narrative_id": "w08-mc08",
+      "words_before": 149,
+      "words_after": 125
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 9,
+      "narrative_id": "w08-mc09",
+      "words_before": 159,
+      "words_after": 116
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 10,
+      "narrative_id": "w08-mc10",
+      "words_before": 159,
+      "words_after": 120
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 11,
+      "narrative_id": "w08-mc11",
+      "words_before": 155,
+      "words_after": 122
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 12,
+      "narrative_id": "w08-mc12",
+      "words_before": 162,
+      "words_after": 130
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 13,
+      "narrative_id": "w08-mc13",
+      "words_before": 154,
+      "words_after": 120
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 14,
+      "narrative_id": "w08-mc14",
+      "words_before": 157,
+      "words_after": 120
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 15,
+      "narrative_id": "w08-mc15",
+      "words_before": 166,
+      "words_after": 126
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 16,
+      "narrative_id": "w08-mc16",
+      "words_before": 154,
+      "words_after": 122
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 17,
+      "narrative_id": "w08-mc17",
+      "words_before": 166,
+      "words_after": 138
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 18,
+      "narrative_id": "w08-mc18",
+      "words_before": 156,
+      "words_after": 121
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 19,
+      "narrative_id": "w08-mc19",
+      "words_before": 155,
+      "words_after": 124
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 20,
+      "narrative_id": "w08-mc20",
+      "words_before": 149,
+      "words_after": 122
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 21,
+      "narrative_id": "w08-mc21",
+      "words_before": 151,
+      "words_after": 111
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 22,
+      "narrative_id": "w08-mc22",
+      "words_before": 158,
+      "words_after": 121
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 23,
+      "narrative_id": "w08-mc23",
+      "words_before": 161,
+      "words_after": 122
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 24,
+      "narrative_id": "w08-mc24",
+      "words_before": 157,
+      "words_after": 133
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 25,
+      "narrative_id": "w08-mc25",
+      "words_before": 159,
+      "words_after": 130
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 26,
+      "narrative_id": "w08-mc26",
+      "words_before": 176,
+      "words_after": 143
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 27,
+      "narrative_id": "w08-mc27",
+      "words_before": 163,
+      "words_after": 130
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 28,
+      "narrative_id": "w08-mc28",
+      "words_before": 162,
+      "words_after": 131
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 29,
+      "narrative_id": "w08-sr01",
+      "words_before": 218,
+      "words_after": 168
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 30,
+      "narrative_id": "w08-sr02",
+      "words_before": 209,
+      "words_after": 157
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 31,
+      "narrative_id": "w08-sr03",
+      "words_before": 204,
+      "words_after": 155
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 32,
+      "narrative_id": "w08-sr04",
+      "words_before": 218,
+      "words_after": 172
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 33,
+      "narrative_id": "w08-sr05",
+      "words_before": 197,
+      "words_after": 157
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 34,
+      "narrative_id": "w08-sr06",
+      "words_before": 212,
+      "words_after": 164
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 35,
+      "narrative_id": "w08-sr07",
+      "words_before": 205,
+      "words_after": 167
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 36,
+      "narrative_id": "w08-sr08",
+      "words_before": 212,
+      "words_after": 175
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 37,
+      "narrative_id": "w08-sr09",
+      "words_before": 198,
+      "words_after": 161
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 38,
+      "narrative_id": "w08-sr10",
+      "words_before": 191,
+      "words_after": 153
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 39,
+      "narrative_id": "w08-sr11",
+      "words_before": 192,
+      "words_after": 150
+    },
+    {
+      "file": "practice/week08-vascular-blood.qmd",
+      "question": 40,
+      "narrative_id": "w08-sr12",
+      "words_before": 231,
+      "words_after": 192
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 1,
+      "narrative_id": "w05-mc01",
+      "words_before": 165,
+      "words_after": 119
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 2,
+      "narrative_id": "w05-mc05",
+      "words_before": 162,
+      "words_after": 132
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 3,
+      "narrative_id": "w05-mc06",
+      "words_before": 156,
+      "words_after": 122
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 4,
+      "narrative_id": "w05-mc09",
+      "words_before": 159,
+      "words_after": 120
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 5,
+      "narrative_id": "w05-mc13",
+      "words_before": 158,
+      "words_after": 125
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 6,
+      "narrative_id": "w05-mc15",
+      "words_before": 149,
+      "words_after": 115
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 7,
+      "narrative_id": "w05-mc17",
+      "words_before": 157,
+      "words_after": 118
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 8,
+      "narrative_id": "w05-mc20",
+      "words_before": 161,
+      "words_after": 127
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 9,
+      "narrative_id": "w06-mc03",
+      "words_before": 155,
+      "words_after": 124
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 10,
+      "narrative_id": "w06-mc07",
+      "words_before": 144,
+      "words_after": 119
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 11,
+      "narrative_id": "w06-mc10",
+      "words_before": 144,
+      "words_after": 125
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 12,
+      "narrative_id": "w06-mc16",
+      "words_before": 152,
+      "words_after": 122
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 13,
+      "narrative_id": "w06-mc18",
+      "words_before": 153,
+      "words_after": 125
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 14,
+      "narrative_id": "w06-mc23",
+      "words_before": 165,
+      "words_after": 130
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 15,
+      "narrative_id": "w07-mc03",
+      "words_before": 152,
+      "words_after": 120
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 16,
+      "narrative_id": "w07-mc08",
+      "words_before": 167,
+      "words_after": 131
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 17,
+      "narrative_id": "w07-mc11",
+      "words_before": 165,
+      "words_after": 121
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 18,
+      "narrative_id": "w07-mc13",
+      "words_before": 151,
+      "words_after": 121
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 19,
+      "narrative_id": "w07-mc17",
+      "words_before": 148,
+      "words_after": 123
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 20,
+      "narrative_id": "w07-mc20",
+      "words_before": 144,
+      "words_after": 119
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 21,
+      "narrative_id": "w07-mc22",
+      "words_before": 161,
+      "words_after": 124
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 22,
+      "narrative_id": "w07-mc24",
+      "words_before": 154,
+      "words_after": 130
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 23,
+      "narrative_id": "w08-mc08",
+      "words_before": 149,
+      "words_after": 125
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 24,
+      "narrative_id": "w08-mc09",
+      "words_before": 159,
+      "words_after": 116
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 25,
+      "narrative_id": "e01-q25",
+      "words_before": 241,
+      "words_after": 191
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 26,
+      "narrative_id": "e01-q26",
+      "words_before": 225,
+      "words_after": 175
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 27,
+      "narrative_id": "e01-q27",
+      "words_before": 239,
+      "words_after": 186
+    },
+    {
+      "file": "practice/practice-midterm2-01.qmd",
+      "question": 28,
+      "narrative_id": "e01-q28",
+      "words_before": 235,
+      "words_after": 182
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 1,
+      "narrative_id": "w05-mc20",
+      "words_before": 161,
+      "words_after": 127
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 2,
+      "narrative_id": "w06-mc03",
+      "words_before": 155,
+      "words_after": 124
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 3,
+      "narrative_id": "w06-mc07",
+      "words_before": 144,
+      "words_after": 119
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 4,
+      "narrative_id": "w06-mc10",
+      "words_before": 144,
+      "words_after": 125
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 5,
+      "narrative_id": "w06-mc16",
+      "words_before": 152,
+      "words_after": 122
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 6,
+      "narrative_id": "w06-mc18",
+      "words_before": 153,
+      "words_after": 125
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 7,
+      "narrative_id": "w06-mc23",
+      "words_before": 165,
+      "words_after": 130
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 8,
+      "narrative_id": "w07-mc03",
+      "words_before": 152,
+      "words_after": 120
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 9,
+      "narrative_id": "w07-mc08",
+      "words_before": 167,
+      "words_after": 131
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 10,
+      "narrative_id": "w07-mc11",
+      "words_before": 165,
+      "words_after": 121
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 11,
+      "narrative_id": "w07-mc13",
+      "words_before": 151,
+      "words_after": 121
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 12,
+      "narrative_id": "w07-mc17",
+      "words_before": 148,
+      "words_after": 123
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 13,
+      "narrative_id": "w07-mc20",
+      "words_before": 144,
+      "words_after": 119
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 14,
+      "narrative_id": "w07-mc22",
+      "words_before": 161,
+      "words_after": 124
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 15,
+      "narrative_id": "w07-mc24",
+      "words_before": 154,
+      "words_after": 130
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 16,
+      "narrative_id": "w08-mc08",
+      "words_before": 149,
+      "words_after": 125
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 17,
+      "narrative_id": "w08-mc09",
+      "words_before": 159,
+      "words_after": 116
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 18,
+      "narrative_id": "w08-mc14",
+      "words_before": 157,
+      "words_after": 120
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 19,
+      "narrative_id": "w08-mc15",
+      "words_before": 166,
+      "words_after": 126
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 20,
+      "narrative_id": "w08-mc19",
+      "words_before": 155,
+      "words_after": 124
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 21,
+      "narrative_id": "w08-mc21",
+      "words_before": 151,
+      "words_after": 111
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 22,
+      "narrative_id": "w08-mc24",
+      "words_before": 157,
+      "words_after": 133
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 23,
+      "narrative_id": "w08-mc26",
+      "words_before": 176,
+      "words_after": 143
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 24,
+      "narrative_id": "w05-mc01",
+      "words_before": 165,
+      "words_after": 119
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 25,
+      "narrative_id": "e01-q27",
+      "words_before": 239,
+      "words_after": 186
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 26,
+      "narrative_id": "e01-q28",
+      "words_before": 235,
+      "words_after": 182
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 27,
+      "narrative_id": "e02-q27",
+      "words_before": 230,
+      "words_after": 179
+    },
+    {
+      "file": "practice/practice-midterm2-02.qmd",
+      "question": 28,
+      "narrative_id": "e02-q28",
+      "words_before": 223,
+      "words_after": 184
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 1,
+      "narrative_id": "w07-mc03",
+      "words_before": 152,
+      "words_after": 120
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 2,
+      "narrative_id": "w07-mc08",
+      "words_before": 167,
+      "words_after": 131
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 3,
+      "narrative_id": "w07-mc11",
+      "words_before": 165,
+      "words_after": 121
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 4,
+      "narrative_id": "w07-mc13",
+      "words_before": 151,
+      "words_after": 121
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 5,
+      "narrative_id": "w07-mc17",
+      "words_before": 148,
+      "words_after": 123
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 6,
+      "narrative_id": "w07-mc20",
+      "words_before": 144,
+      "words_after": 119
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 7,
+      "narrative_id": "w07-mc22",
+      "words_before": 161,
+      "words_after": 124
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 8,
+      "narrative_id": "w07-mc24",
+      "words_before": 154,
+      "words_after": 130
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 9,
+      "narrative_id": "w08-mc08",
+      "words_before": 149,
+      "words_after": 125
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 10,
+      "narrative_id": "w08-mc09",
+      "words_before": 159,
+      "words_after": 116
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 11,
+      "narrative_id": "w08-mc14",
+      "words_before": 157,
+      "words_after": 120
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 12,
+      "narrative_id": "w08-mc15",
+      "words_before": 166,
+      "words_after": 126
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 13,
+      "narrative_id": "w08-mc19",
+      "words_before": 155,
+      "words_after": 124
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 14,
+      "narrative_id": "w08-mc21",
+      "words_before": 151,
+      "words_after": 111
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 15,
+      "narrative_id": "w08-mc24",
+      "words_before": 157,
+      "words_after": 133
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 16,
+      "narrative_id": "w08-mc26",
+      "words_before": 176,
+      "words_after": 143
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 17,
+      "narrative_id": "w05-mc01",
+      "words_before": 165,
+      "words_after": 119
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 18,
+      "narrative_id": "w05-mc05",
+      "words_before": 162,
+      "words_after": 132
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 19,
+      "narrative_id": "w05-mc06",
+      "words_before": 156,
+      "words_after": 122
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 20,
+      "narrative_id": "w05-mc09",
+      "words_before": 159,
+      "words_after": 120
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 21,
+      "narrative_id": "w05-mc13",
+      "words_before": 158,
+      "words_after": 125
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 22,
+      "narrative_id": "w05-mc15",
+      "words_before": 149,
+      "words_after": 115
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 23,
+      "narrative_id": "w05-mc17",
+      "words_before": 157,
+      "words_after": 118
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 24,
+      "narrative_id": "w05-mc20",
+      "words_before": 161,
+      "words_after": 127
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 25,
+      "narrative_id": "e02-q27",
+      "words_before": 230,
+      "words_after": 179
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 26,
+      "narrative_id": "e02-q28",
+      "words_before": 223,
+      "words_after": 184
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 27,
+      "narrative_id": "e03-q27",
+      "words_before": 227,
+      "words_after": 190
+    },
+    {
+      "file": "practice/practice-midterm2-03.qmd",
+      "question": 28,
+      "narrative_id": "e03-q28",
+      "words_before": 243,
+      "words_after": 189
+    }
+  ]
+}

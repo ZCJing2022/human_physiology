@@ -99,9 +99,9 @@ def load_narratives() -> dict[str, str]:
             require(':::' not in body, f'Nested callout delimiter in {key}')
             require('**Review:**' not in body, f'Review footer belongs to renderer: {key}')
             is_mc = '-mc' in key
-            minimum = 100 if is_mc else 150
+            minimum = 100 if is_mc else 130
             require(words(body) >= minimum, f'{key}: {words(body)} words; expected >= {minimum}')
-            require(len(body.split('\n\n')) >= 3, f'{key}: needs a developed multi-paragraph narrative')
+            require(len(body.split('\n\n')) >= 2, f'{key}: needs a developed multi-paragraph narrative')
             result[key] = body
     expected = {f'w{w:02d}-mc{i:02d}' for w in WEEKS for i in range(1, 29)}
     expected |= {f'w{w:02d}-sr{i:02d}' for w in WEEKS for i in range(1, 13)}
@@ -219,7 +219,7 @@ def build_update() -> tuple[dict[str, str], dict]:
                           'protected_content_sha256': skeleton, 'updated_blob_sha': blob(updated)})
     require(used == set(narratives), 'Unused narrative entries')
     require(len(rows) == 244, f'Expected 244 panels, found {len(rows)}')
-    record = {'version': '2026-11-05-detailed-v1', 'reviewed_base_commit': BASE_COMMIT,
+    record = {'version': '2026-11-05-concise-v2', 'reviewed_base_commit': BASE_COMMIT,
               'narrative_corpus_sha256': sha(json.dumps(narratives, ensure_ascii=False, sort_keys=True)),
               'total_question_panels': len(rows), 'weekly_panels': 160, 'exam_panels': 84,
               'distinct_authored_narratives': len(narratives),
@@ -240,8 +240,8 @@ def markdown_audit(record: dict) -> str:
              'The update changes Explanation bodies only. Question prompts, choices, answer keys, numbering, timing instructions, and callout wrappers are preserved byte-for-byte outside those bodies.', '',
              '## Narrative development', '',
              f'- Authored narratives: {record["distinct_authored_narratives"]}; identical exam questions receive the full corresponding narrative, not just a link.',
-             f'- Narrative length before: {min(before)}–{max(before)} words; mean {statistics.mean(before):.1f}.',
-             f'- Narrative length after: {min(after)}–{max(after)} words; mean {statistics.mean(after):.1f}.',
+             f'- Original short explanations: {min(before)}–{max(before)} words; mean {statistics.mean(before):.1f}.',
+             f'- Current narrative length: {min(after)}–{max(after)} words; mean {statistics.mean(after):.1f}.',
              '- Counts exclude the source and study-guide footer; word counts are a structural check, not a substitute for content review.', '',
              '| Page | MCQs | Short responses | Explanation words: min–max | Mean |',
              '|---|---:|---:|---:|---:|']
